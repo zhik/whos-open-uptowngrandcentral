@@ -14,7 +14,7 @@ A directory of essential businesses using Airtable (or Google sheets) as databas
 
 ## Architecture
 
-This map shows business locations from data hosted in [Airtable](https://airtable.com/shrRBozfbknHIlpIm).
+This map shows business locations from data hosted in [Airtable](https://airtable.com/shr8VRQrxpUHtb1xQ).
 
 Built using [Svelte](https://svelte.dev/), [Leaflet](https://leafletjs.com/), and [Carto.js](https://carto.com/developers/carto-js/).
 

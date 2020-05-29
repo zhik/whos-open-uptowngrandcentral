@@ -12,7 +12,7 @@
 <header>
     {#if innerWidth > 768}
         <div class="header-bar">
-            <h3 class="title is-3" id="title">Essentially Open North Brooklyn</h3>
+            <h3 class="title is-3" id="title">Who's Open Queens</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
                 <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
@@ -22,15 +22,13 @@
         </div>
         {#if opened}
             <div id="subtitle">
-                <p class="is-6 subtitle"><strong>Community mapping of Greenpoint and Williamsburg businesses operating
+                <p class="is-6 subtitle"><strong>Community mapping of Queens' businesses operating
                     during the COVID-19 crisis.</strong>
-                    <br/><br/>We are updating these listings regularly, but please check their Instagram, website, or
-                    call for
-                    the most current information.</p>
-                <p class="is-6 subtitle">Maintained by <a href="http://northbrooklynneighbors.org/">North Brooklyn
-                    Neighbors</a> and
-                    <a href="http://northbrooklynmutualaid.org/">North Brooklyn Mutual Aid</a>.
-                    To add or update info fill out <a href="https://airtable.com/shrGc92OIWFQoSf5X" target="_blank">this
+                    <br/><br/>Changes are day to day. Please call ahead or check website/social media before you visit
+                    for the most current information.</p>
+                <p class="is-6 subtitle">In cooperation with Sunnyside Shines, Edible Queens, Queens Together, and
+                    Sunnyside Gardens Park.
+                    To add or update info fill out <a href="https://airtable.com/shrUCeoQpIRfNFh59" target="_blank">this
                         form</a>.</p>
             </div>
         {/if}
@@ -46,15 +44,13 @@
         </div>
         {#if opened}
             <div id="subtitle">
-                <p class="is-6 subtitle"><strong>Community mapping of Greenpoint and Williamsburg businesses operating
+                <p class="is-6 subtitle"><strong>Community mapping of Queens' businesses operating
                     during the COVID-19 crisis.</strong>
-                    <br/><br/>We are updating these listings regularly, but please check their Instagram, website, or
-                    call for
-                    the most current information.</p>
-                <p class="is-6 subtitle">Maintained by <a href="http://northbrooklynneighbors.org/">North Brooklyn
-                    Neighbors</a> and
-                    <a href="http://northbrooklynmutualaid.org/">North Brooklyn Mutual Aid</a>.
-                    To add or update info fill out <a href="https://airtable.com/shrGc92OIWFQoSf5X" target="_blank">this
+                    <br/><br/>Changes are day to day. Please call ahead or check website/social media before you visit
+                    for the most current information.</p>
+                <p class="is-6 subtitle">In cooperation with Sunnyside Shines, Edible Queens, Queens Together, and
+                    Sunnyside Gardens Park.
+                    To add or update info fill out <a href="https://airtable.com/shrUCeoQpIRfNFh59" target="_blank">this
                         form</a>.</p>
             </div>
         {/if}
