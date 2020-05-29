@@ -96,6 +96,7 @@
                         'interpolate',
                         ['exponential', .5],
                         ['zoom'],
+                        10, 1,
                         14, 3,
                         16, 5,
                         18, 6
