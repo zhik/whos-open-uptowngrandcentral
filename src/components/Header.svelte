@@ -32,6 +32,7 @@
                         form</a>.</p>
             </div>
         {/if}
+        <p class="has-background-warning">Hours may be adjusted due to NYC curfew week of June 1</p>
     {:else}
         <div class="header-bar">
             <h3 class="title is-5">Essentially Open North Brooklyn</h3>
@@ -54,6 +55,7 @@
                         form</a>.</p>
             </div>
         {/if}
+        <p class="has-background-warning">Hours may be adjusted due to NYC curfew week of June 1</p>
     {/if}
 </header>
 
@@ -68,6 +70,10 @@
 
     .title {
         margin-bottom: 10px !important;
+    }
+
+    .has-background-warning{
+        padding: 0.2rem 1rem ;
     }
 
     @media only screen and (max-width: 768px) {
