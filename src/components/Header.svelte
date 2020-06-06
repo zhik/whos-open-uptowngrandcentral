@@ -35,7 +35,7 @@
         <p class="has-background-warning">Hours may be adjusted due to NYC curfew week of June 1</p>
     {:else}
         <div class="header-bar">
-            <h3 class="title is-5">Essentially Open North Brooklyn</h3>
+            <h3 class="title is-5">Who's Open Queens</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
                 <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
