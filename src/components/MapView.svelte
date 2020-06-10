@@ -36,8 +36,8 @@
         map = new mapboxgl.Map({
             container,
             style: 'mapbox://styles/zhik/ckasluk5s182v1itdbeedp34j',
-            center: [-73.8515, 40.70023],
-            zoom: 10.7,
+            center: [-73.91,40.7548],
+            zoom: 12.2,
             maxZoom: 20,
             minZoom: 10
         });
@@ -61,7 +61,7 @@
                 data
             })
 
-            const zoomThreshold = 15
+            const zoomThreshold = 15.5
 
             map.addLayer({
                 id: 'points',
@@ -163,9 +163,8 @@
                                     'interpolate',
                                     ['exponential', 1],
                                     ['zoom'],
-                                    15, 0.8,
-                                    18, 1,
-                                    20, 1.5
+                                    15, 0.6,
+                                    19, 1,
                                 ]
                             },
                             paint: {
