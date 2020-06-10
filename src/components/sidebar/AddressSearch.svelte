@@ -90,7 +90,7 @@
     </ul>
     <div class="field">
         <label class="checkbox">
-            <input type="checkbox" bind:checked={$filterExtent}>Search as map moves
+            <input type="checkbox" bind:checked={$filterExtent}>Search within map extent
         </label>
     </div>
 </form>
