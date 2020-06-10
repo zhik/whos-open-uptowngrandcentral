@@ -1,5 +1,5 @@
 <script>
-    import { mapObject } from '../../stores'
+    import { mapObject, filterExtent } from '../../stores'
     let value = ''
     let searchAddrs = []
     let error = false
@@ -88,6 +88,11 @@
             <li lass="is-hoverable" on:click="{() => _set(addr)}">{addr}</li>
         {/each}
     </ul>
+    <div class="field">
+        <label class="checkbox">
+            <input type="checkbox" bind:checked={$filterExtent}>Search as map moves
+        </label>
+    </div>
 </form>
 
 <style>
