@@ -59,7 +59,7 @@
                 data
             })
 
-            const zoomThreshold = 16
+            const zoomThreshold = 15
 
             map.addLayer({
                 id: 'points',
@@ -97,9 +97,8 @@
                         ['exponential', .5],
                         ['zoom'],
                         10, 1,
-                        14, 3,
-                        16, 5,
-                        18, 6
+                        14, 2.5,
+                        16, 4.5
                     ]
                 }
             });
@@ -160,11 +159,11 @@
                                 'icon-allow-overlap': true,
                                 'icon-size': [
                                     'interpolate',
-                                    ['exponential', 0.6],
+                                    ['exponential', 1],
                                     ['zoom'],
-                                    15, 0.5,
-                                    18, 0.8,
-                                    20, 1
+                                    15, 0.8,
+                                    18, 1,
+                                    20, 1.5
                                 ]
                             },
                             paint: {
