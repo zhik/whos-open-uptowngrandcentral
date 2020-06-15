@@ -60,6 +60,10 @@ function removeOverlap(rows) {
     })
 }
 
+function sortByAlphabet(rows) {
+    return rows.sort((a,b) => a.Name.localeCompare(b.Name))
+}
+
 
 async function importData(file, store) {
     const text = await (await fetch(file)).text()
@@ -69,7 +73,7 @@ async function importData(file, store) {
 
     console.log(`Imported ${filterRows.length} out of ${rows.length}. Check latlng columns, if there are missing rows.`, rows[0])
 
-    store.set(removeOverlap(getColors(filterRows)))
+    store.set(sortByAlphabet(removeOverlap(getColors(filterRows))))
 }
 
 export default importData
