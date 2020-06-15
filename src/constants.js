@@ -1,69 +1,28 @@
 export const categoryGroups = [
-    'Groceries', 'Food & Beverage', 'Health & Wellness', 'Shops & Services'
+    'Grocery Store', 'Food & Beverage', 'Shops & Services','Health'
 ]
 
 export const styles = [
     {
         //style for defaults
-        group: 'Grocery',
-        categoryName: 'Groceries',
+        group: 'Grocery Store',
+        categoryName: 'Grocery Store',
         subcategoryName: null,
         fillColor: '#1aa139',
         strokeColor: '#000',
         icon: 'grocery.png'
     },
     {
-        //styles for rows with subcategories
-        group: 'Grocery',
-        categoryName: 'Groceries',
-        subcategoryName: 'supermarket',
-        fillColor: '#1aa139',
-        strokeColor: '#000',
-        icon: 'supermarket.png'
-    },
-    {
-        group: 'Grocery',
-        categoryName: 'Bakery',
-        subcategoryName: null,
-        fillColor: '#69b657',
-        strokeColor: '#000',
-        icon: 'bread.png'
-    },
-    {
         group: 'Food & Beverage',
-        categoryName: 'Restaurants, Bars, Cafes & Bakeries',
+        categoryName: 'Restaurants/Bars',
         subcategoryName: null,
         fillColor: '#2637cc',
         strokeColor: '#000',
         icon: 'restaurant.png'
     },
     {
-        group: 'Food & Beverage',
-        categoryName: 'Restaurants, Bars, Cafes & Bakeries',
-        subcategoryName: 'cafe',
-        fillColor: '#1eb0a9',
-        strokeColor: '#000',
-        icon: 'coffee.png'
-    },
-    {
-        group: 'Food & Beverage',
-        categoryName: 'Restaurants, Bars, Cafes & Bakeries',
-        subcategoryName: 'bar',
-        fillColor: '#1eb0a9',
-        strokeColor: '#000',
-        icon: 'bar.png'
-    },
-    {
-        group: 'Health & Wellness',
-        categoryName: 'Pharmacies & General Stores',
-        subcategoryName: null,
-        fillColor: '#f0575e',
-        strokeColor: '#000',
-        icon: 'drugstore.png'
-    },
-    {
         group: 'Shops & Services',
-        categoryName: 'Laundromat & Cleaners',
+        categoryName: 'Laundromat, Cleaners',
         subcategoryName: null,
         fillColor: '#ffc01f',
         strokeColor: '#000',
@@ -71,34 +30,26 @@ export const styles = [
     },
     {
         group: 'Shops & Services',
-        categoryName: 'Bicycle Shops',
-        subcategoryName: null,
-        fillColor: '#508eba',
-        strokeColor: '#090909',
-        icon: 'bike.png'
-    },
-    {
-        group: 'Shops & Services',
-        categoryName: 'Shops & Services',
+        categoryName: 'Hardware Store',
         subcategoryName: null,
         fillColor: '#508eba',
         strokeColor: '#090909',
         icon: 'tools.png'
     },
     {
-        group: 'Shops & Services',
-        categoryName: 'Wine & Liquor',
+        group: 'Health',
+        categoryName: 'Pharmacy/Drug Store',
         subcategoryName: null,
-        fillColor: '#508eba',
+        fillColor: '#c72323',
         strokeColor: '#090909',
-        icon: 'liquor.png'
+        icon: 'drugstore.png'
     },
     {
         group: '',
         categoryName: '',
         subcategoryName: '',
-        fillColor: '',
-        strokeColor: '',
+        fillColor: '#ffffff',
+        strokeColor: '#090909',
         icon: 'blank.png'
     }
 ]

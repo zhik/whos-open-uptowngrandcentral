@@ -65,7 +65,7 @@
             <div class="control is-expanded">
                 <input
                         id="address"
-                        placeholder="120-55 Queens Boulevard"
+                        placeholder="104 W 136th St"
                         type="text"
                         name="address"
                         bind:value

@@ -14,7 +14,7 @@ A directory of essential businesses using Airtable (or Google sheets) as databas
 
 ## Architecture
 
-This map shows business locations from data hosted in [Airtable](https://airtable.com/shr8VRQrxpUHtb1xQ).
+This map shows business locations from data hosted in [Airtable](https://airtable.com/shrvkcnr3MQaXbrh3).
 
 Built using [Svelte](https://svelte.dev/), [Leaflet](https://leafletjs.com/), and [Carto.js](https://carto.com/developers/carto-js/).
 
@@ -24,7 +24,7 @@ Icons from [Maps Icons Collection](https://mapicons.mapsmarker.com).
 #### Database overview
 All data comes from 'public/data/row.csv', which is pulled every hour using `get-data-from-airtable.yml` github actions script.
 
-If you would like to adapt this code for your project Duplicate the Airtable base using this [link](https://airtable.com/invite/l?inviteId=inv56kwp8nak3J7ps&inviteToken=6d03467592349bbc0da69707c1609226eb7e3251b8421618447c820f1727adf4).
+If you would like to adapt this code for your project Duplicate the Airtable base using this [link](https://airtable.com/invite/l?inviteId=invYLEkYJIB4uGceS&inviteToken=9a4700ed01c80451446ab4851bc6c6375e9e8ad8a113de27a31c391a20531d77).
 
 Afterwards change `AIRTABLE_API_KEY` , `AIRTABLE_BASE_ID`, `AIRTABLE_TABLE_NAME` on github secrets, or your .env file
 

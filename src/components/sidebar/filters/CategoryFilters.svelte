@@ -1,5 +1,6 @@
 <script>
     import SlimSelect from './SlimSelect.svelte'
+    import CategoryFilterButtons from './CategoryFilterButtons.svelte'
     import {rows, filters} from '../../../stores'
     import {categoryGroups, styles} from '../../../constants'
 
@@ -22,6 +23,7 @@
                         .map(cat => ({
                             text: cat.categoryName,
                             value: cat.categoryName,
+                            color: cat.fillColor,
                             innerHTML: `<span style="padding-left: 5px; border-left: 5px solid ${cat.fillColor};">${cat.categoryName}</span>`
                         }))
 
@@ -77,7 +79,7 @@
             const filter = _filters.findIndex(f => f.label === 'categories')
             if (filter > -1) _filters.splice(filter, 1)
             //generate new filter
-            if (selectedCategories || selectedSubCategories) {
+            if(selectedCategories || selectedSubCategories){
                 const categoryFilter = {
                     label: 'categories',
                     filter: (row) => {
@@ -100,12 +102,13 @@
 </script>
 
 {#if categoryOptions && 'data' in categoryOptions}
-    <SlimSelect bind:value={selectedCategories} options={categoryOptions} multiple={true} text="Categories"/>
+    <CategoryFilterButtons bind:value={selectedCategories} options={categoryOptions} text="Categories"/>
 {/if}
+
 
 {#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
     <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true}
-                text="Sub-Categories"/>
+                text="Sub Categories"/>
 {/if}
 
 
