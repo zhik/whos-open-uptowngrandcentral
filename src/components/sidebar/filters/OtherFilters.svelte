@@ -3,6 +3,7 @@
     import OpenedFilter from './OpenedFilter.svelte'
     import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
     import MaterialIcon from '../../MaterialIcon.svelte'
+    import OwnedByFilters from './OwnedByFilters.svelte'
 
     let opened = false
 
@@ -13,6 +14,11 @@
     More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>
 </button>
 <div class={opened ? '' : 'hidden'}>
+    <div class="field">
+        <label class="label">Businesses owned by</label>
+        <OwnedByFilters name="Minority and/or women-owned " column="MWBE"/>
+        <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
+    </div>
     <OpenedFilter/>
     <PickupDeliveryFilter/>
 </div>
