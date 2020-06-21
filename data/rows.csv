@@ -1,898 +1,898 @@
-"Name","id","Source","Last Updated","Phone","Category","Latitude","Longitude","Address","Status","Pickup Offered","Delivery Offered","Notes","Hours","Sub-Category","Created time","Email","Special Accommodation Hours"
+"Name","id","Source","Last Updated","Phone","Category","Latitude","Longitude","Address","Status","Pickup Offered","Delivery Offered","Notes","Hours","MWBE","Black Owned Business","Sub-Category","Created time","Email","Special Accommodation Hours"
 "67 Orange Street",3470,"Ayana H","2020-05-20","212-662-2030","Restaurants/Bars",40.802212,-73.956633,"2082 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","punches and cocktail kits for delivery or pick-up
 ","Monday-Sunday 5-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"9 Tails Coffee",3471,"Ayana H","2020-05-20",,"Restaurants/Bars",40.807677,-73.942711,"23 W 126th St New York, NY 10027 ","Open","Yes","No",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"9 Tails Coffee",3471,"Ayana H","2020-05-20",,"Restaurants/Bars",40.807677,-73.942711,"23 W 126th St New York, NY 10027 ","Open","Yes","No",,,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Accra Restaurant",3472,"Ayana H","2020-05-20","203-407-8000","Restaurants/Bars",40.807646,-73.948864,"2065 Adam Clayton Powell Jr Blvd New York, NY 10027 ","Open","Yes","Yes","GRUBHUB, UBER EATS
 ","Monday-Sunday 10am-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Africa Kine",3473,"Ayana H","2020-05-20","212-666-9400","Restaurants/Bars",40.81415,-73.944109,"2267 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Grubhub, Doordash, Uber Eats
 ","Monday-Sunday 10am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Alison Restaurant",3474,"Ayana H","2020-05-20","646-876-1054","Restaurants/Bars",40.790948,-73.946939,"1651 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","but now open! oRDER VIA PHONE AND CHECK INSTAGRAM FOR SPECIALS including buy two burgers and get a free bottle of wine
 ","Monday- Sunday 4pm-9:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Amor Cubano",3475,"Ayana H","2020-05-20","212-996-1220","Restaurants/Bars",40.794755,-73.942661,"2018 3rd Ave New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, delivery.com, ezcater
 ","Saturday & Sunday 12pm -10 p.m., Monday- Friday 12pm -10 P.M.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Amy Ruth's",3476,"Ayana H","2020-05-20","212-280-8779","Restaurants/Bars",40.802494,-73.950048,"113 W 116th St New York, NY 10026 ","Open","Yes","Yes","grubhub, doordash
 ","Monday-Sunday 11am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Anchor Wine Bar",3477,"Ayana H","2020-05-20","212-234-3048","Restaurants/Bars",40.825271,-73.950886,"3508 Broadway New York, NY 10031 `","Open","Yes","Yes","grubhub, postmates
 ","Monday-Sunday 4pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Archer and Goat",3478,"Ayana H","2020-05-20","917-261-6602","Restaurants/Bars",40.80434,-73.948417,"187 Malcolm X Blvd New York, NY 10026 ","Open","Yes","Yes","Yelp Deliver, cocktail kits that serve a party of four pre-batched for you to take home
 ","Monday-Sunday 5pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Armonie Pizza Bistro",3479,"Ayana H","2020-05-20","212-722-6400","Restaurants/Bars",40.799729,-73.94261,"1649 Park Avenue, New York, NY 10035 ","Open","Yes","No",,"Wednesday-Sunday 12pm-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Au Jus Oklahoma BBQ",3480,"Ayana H","2020-05-20","212-360-7200","Restaurants/Bars",40.788582,-73.948637,"1569 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in house
 ","Monday-Sunday 12-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Babbalucci",3481,"Ayana H","2020-05-20","646-918-6572","Restaurants/Bars",40.808945,-73.945051,"331 Malcolm X Blvd New York, NY 10027 ","Open","No","Yes","In House, Grubhub 
 ","Sunday-Thursday 4pm-10pm, Friday & Saturday 4pm-11pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Baked Cravings",3482,"Ayana H","2020-05-20","646-590-3324","Restaurants/Bars",40.7914,-73.946652,"1673 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, POSTMATES, doordash, sweetist
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bangklyn",3483,"Ayana H","2020-05-20","646-429-8128","Restaurants/Bars",40.790288,-73.943046,"2051 2nd Ave New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS
 ","Monday-Sunday 12pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bar 314",3484,"Ayana H","2020-05-20","646-682-7645","Restaurants/Bars",40.81092,-73.958502,"1260 Amsterdam Ave   New York, NY 10027 ","Open","Yes","Yes","grubhub, uber eats, slice, free bottle of wine with a $50 pick-up or take-out order; pick-up orders get 15% off
 ","Monday-Sunday 4pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Barawine",3485,"Ayana H","2020-05-20","646-756-4154","Restaurants/Bars",40.804529,-73.947381,"200 Malcolm X Blvd, NY 10027","Open","Yes","Yes","grubhub, 
 with 50 percent off wine list
-",,"Wine/Liquor Store","2020-06-15T20:53:30.000Z",,
+",,,,"Wine/Liquor Store","2020-06-15T20:53:30.000Z",,
 "Barcha",3486,"Ayana H","2020-05-20","646-455-0046","Restaurants/Bars",40.795587,-73.936068,"2241 1st Avenue New York, NY 10029 ","Open","Yes","Yes","grubhub, ez cater; take-out orders over $65 receive a free quart of red or white sangria (while supplies last),
 ","Monday- Sunday 1pm -7 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bardolino Pizza",3487,"Ayana H","2020-05-20","646-918-7455","Restaurants/Bars",40.786607,-73.950088,"1505 Lexington Ave New York, NY 10029 ","Open","Yes","Yes"," grubhub, delivery.com, slice
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Barepas",3488,"Ayana H","2020-05-20","646-410-0261","Restaurants/Bars",40.827715,-73.946167,"1792 Amsterdam Ave
 New York, NY 10031
 ","Open","Yes","Yes","grubhub
 ","Friday-Sunday 2pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Barwachi ",3489,"Ayana H","2020-05-20","212-289-7700","Restaurants/Bars",40.792794,-73.950375,"1546 Madison Ave New York, NY 10029 ","Open","Yes","No","place order over phone
 ","Monday- Saturday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Benyam Cuisine",3490,"Ayana H","2020-05-20","212-510-7353","Restaurants/Bars",40.825222,-73.94055,"2795 Frederick Douglass Blvd New York, NY 10039 ","Open","Yes","Yes","Grubhub, Uber Eats
 ","Thursday-Saturday 12pm-8pm, Sunday 12-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bermudez Bakery",3491,"Ayana H","2020-05-20","212-427-2877,","Restaurants/Bars",40.79903,-73.941056,"1875 Lexington Ave New York, NY 10035 ","Open","Yes","No",,"Monday- Sunday 5 a.m.-5 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bistro Casa Azul",3492,"Ayana H","2020-05-20","917-805-0803","Restaurants/Bars",40.796607,-73.932342,"343 Pleasant Ave New York, NY 10035 ","Open","Yes","Yes","in-house, PICK UP ANY ORDER FOR A SENIOR AND SAVE 10% ON THE WHOLE ORDER
 ","Monday- Sunday 10 a.m.-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Blue Coco",3493,"Ayana H","2020-05-20","212-534-2626","Restaurants/Bars",40.792262,-73.945712,"153 E 106th St New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, postmates, delivery.com, uber eats
 ","Monday- Friday 8:30am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "BLVD Bistro",3494,"Ayana H","2020-05-20","212-678-6200","Restaurants/Bars",40.804386,-73.95581,"2149 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","Seamless, Uber Eats, 20% discount on all pick-up orders
 ","Saturday-Sunday 10am-6pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bo's Bagels",3495,"Ayana H","2020-05-20","917-902-8345","Restaurants/Bars",40.804148,-73.954096,"235 W 116th St New York, NY 10026 ","Open","Yes","Yes","in house,  delivery zone increased to 96th-136th streets, hudson river to second avenue
 ","Monday-Sunday 9am-3pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Bono Trattoria",3496,"Ayana H","2020-05-20","64-668-2949","Restaurants/Bars",40.830223,-73.946964,"3658 Broadway New York, NY 10031 ","Open","Yes","Yes","IN-HOUSE, CHECK OUT THEIR WEEKEND DINNER SPECIALS FOR TWO
 ","Monday-Sunday 1pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"Branson's Got Juice",3497,"Ayana H","2020-05-20","212-283-2700","Restaurants/Bars",40.825558,-73.943898,"741 St Nicholas Ave New York, NY 10031 ","Open",,,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Branson's Got Juice",3497,"Ayana H","2020-05-20","212-283-2700","Restaurants/Bars",40.825558,-73.943898,"741 St Nicholas Ave New York, NY 10031 ","Open",,,,,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Break Juicery",3498,"Ayana H","2020-05-20","646-892-3034","Restaurants/Bars",40.820986,-73.944733,"132 Edgecombe Ave New York, NY 10030 ","Open","Yes","Yes","Grubhub
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Buddha Taco Bar",3499,"Ayana H","2020-05-20","646-478-8086","Restaurants/Bars",40.829106,-73.948084,"3628 Broadway New York, NY 10031 ","Open","Yes","Yes","uber eats, postmates, doordash
 ","Monday-Sunday 12pm-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Burritos y Mas",3500,"Ayana H","2020-05-20","646-918-7478","Restaurants/Bars",40.788701,-73.948549,"1571 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, uber eats, 10% off first orders placed on their website
 ","Monday- Sunday 11am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cafe Amrita",3501,"Ayana H","2020-05-20","212-222-0683","Restaurants/Bars",40.801113,-73.958222,"301 W 110th St New York, NY 10026 ","Open","Yes","No",,"Monday-Sunday 8am-3:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Café Ollin ",3502,"Ayana H","2020-05-20","212-828-3644","Restaurants/Bars",40.791193,-73.939396,"339 E 108th St New York, NY 10029 ","Open",,,"grubhub,
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cafeine",3503,"Ayana H","2020-05-20","646-370-6353","Restaurants/Bars",40.80344,-73.955744,"2124 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","No",,"Saturday-Sunday 8am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cake Burgers",3504,"Ayana H","2020-05-20","646-799-9507","Restaurants/Bars",40.798335,-73.933297,"400 E 120th St New York, NY 10035 ","Open","Yes","Yes","Grubhub. Knock on the door if it is closed! They are in there
 ","Monday-Friday 10 a.m.-8 p.m., Saturday11 a.m.-8 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cantina Central Harlem",3505,"Ayana H","2020-05-20","833-NY-Tacos","Restaurants/Bars",40.808945,-73.945051,"329 Malcolm X Blvd New York, NY 10027 ","Open","Yes","Yes","Seamless, Uber Eats
 ","Monday-Sunday 3pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cantina Central Park North",3506,"Ayana H","2020-05-20","833-ny-tacos","Restaurants/Bars",40.80038,-73.955061,"1838 Adam Clayton Powell Jr Blvd New York, NY 10026 ","Open","Yes","Yes","Seamless
 ","Monday-Sunday 3pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Capri Bakery",3507,"Ayana H","2020-05-20","212-410-1876,","Restaurants/Bars",40.797908,-73.940399,"186 E 116th St New York, NY 10029 ","Open","Yes","No","in-house, grubhub, delivery.com, uber eats, every order gets a free canned soda
 ","Monday-Sunday 7 a.m.-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cascalote Latin Bistro",3508,"Ayana H","2020-05-20","646-351-6574,","Restaurants/Bars",40.792681,-73.940623,"2126 2nd Ave New York, NY 10029 ","Open","Yes","Yes","order on the restaurant website with code fcovid19 and get 10% off all orders included alcohol
 ","Thursday 4pm-9pm, Friday-Saturday 2pm-9pm, Sunday 2pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Champignon Cafe",3509,"Ayana H","2020-05-20","212-987-1700","Restaurants/Bars",40.787337,-73.953721,"1389 Madison Ave New York, NY 10029 ","Open","Yes","Yes","In house
 ","Monday- Friday 7am-9pm, Saturday-Sunday 7am-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Charles Panfried Chicken",3510,"Ayana H","2020-05-20","212-281-1800","Restaurants/Bars",40.814599,-73.948276,"2461 Frederick Douglass Blvd New York, NY 10027 ","Open","Yes","Yes","doordash
 ","Monday-Saturday 10am-1am, Sunday 12pm-6pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Charlies Place Sushi",3511,"Ayana H","2020-05-20","212-410-0277","Restaurants/Bars",40.806204,-73.940582,"1960 Madison Ave New York, NY 10035 ","Open","Yes","Yes","in-house, doordash
 ","Monday-Friday  11 a.m.-7:30 p.m., Saturday 11 a.m.-7 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Chez Alain",3512,"Ayana H","2020-05-20","212-678-7600","Restaurants/Bars",40.807424,-73.9499,"2046 Adam Clayton Powell Jr Blvd   New York, NY 10027 ","Open","Yes","Yes","in house 
 ","Tuesday-Sunday 12pm-11pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Chocolat",3513,"Ayana H","2020-05-20","212-222-4545","Restaurants/Bars",40.806799,-73.95394,"2223 Frederick Douglass Blvd   New York, NY 10026 ","Open","Yes","Yes","grubhub, postmates, doordash, 20% off on phone orders & walk-ins
 ","Monday-Sunday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Chu Ros Thai",3514,"Ayana H","2020-05-20","917-265-8432","Restaurants/Bars",40.789283,-73.948734,"1590 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in-house, GRUBHUB, POSTMATES, uber eats, caviar, ez cater
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Clay",3515,"Ayana H","2020-05-20","212-729-1850","Restaurants/Bars",40.809469,-73.953883,"553 Manhattan Ave, New York, NY 10027","Open","Yes","Yes","in house 
 ","Monday-Sunday 10am-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Clove Indian",3516,"Ayana H","2020-05-20","646-918-6644","Restaurants/Bars",40.821318,-73.950854,"1592 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","in house
 ","Monday-Sunday 11am-10:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"ComMonday Good",3517,"Ayana H","2020-05-20","917-261-6996","Restaurants/Bars",40.82541,-73.940435,"2801 Frederick Douglass Blvd New York, NY 10039 ","Open","Yes","No",,"Monday- Sunday 9am-3pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Common Good",3517,"Ayana H","2020-05-20","917-261-6996","Restaurants/Bars",40.82541,-73.940435,"2801 Frederick Douglass Blvd New York, NY 10039 ","Open","Yes","No",,"Monday- Sunday 9am-3pm
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Corner Social",3518,"Ayana H","2020-05-20","212-510-8552","Restaurants/Bars",40.808732,-73.945278,"321 Malcolm X Blvd New York, NY 10027 ","Open","Yes","No",,"Monday-Sunday 2pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Crepe Master",3519,"Ayana H","2020-05-20","646-559-9224","Restaurants/Bars",40.802954,-73.951265,"139 W 116th St New York, NY 10026 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS
 ","Sunday-Tuesday 11am-6pm, Wednesday-Friday 11am-8pm, Saturday 10am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Cuchifritos",3520,"Ayana H","2020-05-20","212-876-4846","Restaurants/Bars",40.798045,-73.940997,"168 E 116th St
 New York, NY 10029
 ","Open","Yes","No",,"Wednesday - Monday 11 a.m.-7 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Dear Mama Coffee",3521,"Ayana H","2020-05-20","929-279-2225","Restaurants/Bars",40.792214,-73.940676,"308 E 109th St New York, NY 10029 ","Open","Yes","Yes","in house, now offering the dear mama market selling grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves, plus order-ahead roast chickens and chocolate-chip cookie dough; also sponsoring a buy-a-meal-for-a-neighbor where you can donate a meal for a neighbor in need or coffee for a frontline worker
 ","Monday - Sunday 7am-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Dear Mama Coffee",3522,"Ayana H","2020-05-20",,"Restaurants/Bars",40.816993,-73.958486,"611 W 129th St New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, postmates, doordash, uber eats; sponsoring a buy-a-meal-for-a-neighbor where you can donate a meal for a neighbor in need or coffee for a frontline worker, plus now offering the dear mama market selling grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves
 ","Monday-Friday 8am-7pm, Saturday & Sunday 10am-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Dinosaur BBQ",3523,"Ayana H","2020-05-20","212-694-1777","Restaurants/Bars",40.818002,-73.960985,"700 W 125th St New York, NY 10027 ","Open","Yes","Yes","doordash
 ","Monday-Sunday 11am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Double Dutch Espresso",3524,"Ayana H","2020-05-20","646-429-8834","Restaurants/Bars",40.80584,-73.953997,"2194 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","postmates
 ","Monday-Sunday 8am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Dulceria",3525,"Ayana H","2020-05-20","646-590-0466","Restaurants/Bars",40.806022,-73.953866,"2200 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","grubhub
 ","Monday-Friday 8am-7pm, Saturday 9am-7pm, Sunday 9am-6pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Earl's Beer and Cheese",3526,"Ayana H","2020-05-20","212-289-1581","Restaurants/Bars",40.787306,-73.951561,"1259 Park Ave New York, NY 10029 ","Open","Yes","Yes","POSTMATES, open for all beer and wine to go
 ","Tuesday-Thursday 3pm-8pm, Friday 3pm-9pm, Saturday 12pm-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "East Harlem Bottling Co",3527,"Ayana H","2020-05-20","212-534-2626","Restaurants/Bars",40.792262,-73.945712,"153 E 106th St New York, NY 10029 ","Open","Yes","Yes","in-house
 ","Monday-Friday 8:30am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "El Barrista Cafe",3528,"Ayana H","2020-05-20","718-413-0191","Restaurants/Bars",40.799166,-73.939544,"2154 3rd Ave New York, NY 10035 ","Open","Yes","Yes",,"Monday-Sunday 7:30 a.m.-3 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "El Kallejon",3529,"Ayana H","2020-05-20","646-649-4795","Restaurants/Bars",40.798501,-73.93883,"209 E 117th St New York, NY 10035 ","Open","Yes","No",,"Tuesday - Sunday 1pm-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"EL NUEVO CARIDAD",3530,"Ayana H","2020-05-20","212-860-8187","Restaurants/Bars",40.796909,-73.938154,"2257 2nd Ave New York, NY 10029 ","Open",,,"grubhub
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"El Paso CAFE",3531,"Ayana H","2020-05-20","917-472-7289","Restaurants/Bars",40.790909,-73.947499,"1642 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","Call First on Sundays, GRUBHUB
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"El Nuevo Caridad",3530,"Ayana H","2020-05-20","212-860-8187","Restaurants/Bars",40.796909,-73.938154,"2257 2nd Ave New York, NY 10029 ","Open",,,"grubhub
+",,true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"El Paso Cafe",3531,"Ayana H","2020-05-20","917-472-7289","Restaurants/Bars",40.790909,-73.947499,"1642 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","Call First on Sundays, GRUBHUB
 ","Monday-Saturday 11am-10:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"EL TAPATIO",3532,"Ayana H","2020-05-20","212-876-3055","Restaurants/Bars",40.797879,-73.939201,"209 E 116th St New York, NY 10029 ","Open","Yes","Yes","hours change daily, but generally daily 11 a.m.-11 p.m.
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"El Tapatio",3532,"Ayana H","2020-05-20","212-876-3055","Restaurants/Bars",40.797879,-73.939201,"209 E 116th St New York, NY 10029 ","Open","Yes","Yes","hours change daily, but generally daily 11 a.m.-11 p.m.
 ","Monday- Sunday 11 a.m.-11 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "El Tepeyac",3533,"Ayana H","2020-05-20","212-987-8364","Restaurants/Bars",40.789737,-73.947864,"1621 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in house, grubhub, doordash
 ","Monday- Sunday 8am-1am
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "El Tepeyac",3534,"Ayana H","2020-05-20","212-987-8364","Restaurants/Bars",40.789737,-73.947864,"1621 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in house, grubhub, doordash
 ","Monday-Sunday 12:30pm-11:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Evelyn's Kitchen",3535,"Ayana H","2020-05-20","646-476-7906","Restaurants/Bars",40.797776,-73.934491,"2317 1st Avenue New York, NY 10035 ","Open","Yes","Yes","grubhub, doordash, ubereats
 ","Tuesday - Friday 2pm-9 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Famous Fish Market",3536,"Ayana H","2020-05-20","212-491-8323","Restaurants/Bars",40.823523,-73.944767,"684 St Nicholas Ave New York, NY 10030 ","Open","Yes","No",,"Monday-Thursday 11am-11pm, Friday-Saturday 11am-midnight
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Fieldtrip Harlem",3537,"Ayana H","2020-05-20","917-639-3919","Restaurants/Bars",40.801602,-73.950415,"109 Malcolm X Blvd New York, NY 10026 ","Open","Yes","Yes","in house, grubhub
 ","Monday-Saturday 11am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Floridita",3538,"Ayana H","2020-05-20","212-662-0090","Restaurants/Bars",40.818002,-73.960985,"2276 12th Ave New York, NY 10027 ","Open","Yes","Yes","grubhub,  postmates, delivery.com
 ","Monday-Friday 11am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Frenchy Coffee",3539,"Ayana H","2020-05-20","646-891-0088","Restaurants/Bars",40.789955,-73.948189,"129 E 102nd St New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, uber eats
 ","Monday-Friday 8am-1pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Fruces Juice Bar",3540,"Ayana H","2020-05-20","646-861-3279","Restaurants/Bars",40.81824,-73.953098,"1496 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB, UBER EATS, POSTMATES, DOORDASH, DELIVERY.COM, buy-one, get-one-free drinks
 ","Monday-Friday 8am-5pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Fumo Harlem",3541,"Ayana H","2020-05-20","646-692-6675","Restaurants/Bars",40.821438,-73.950724,"1600 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","IN-house, grubhub, order delivery direct from the website and get 10% off, drop by for  pick-up and get 15% off
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "G&J's Pizzeria",3542,"Ayana H","2020-05-20","212-369-4800","Restaurants/Bars",40.790284,-73.945986,"188 E 104th St New York, NY 10029 ","Open","Yes","Yes","grubhub, slice, offering heart-shaped pizzas, plus kits of ingredients so you can make pizza at home
 ","Monday-Thursday 11am-9pm, Friday-Sunday 11am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Gaudir",3543,"Ayana H","2020-05-20","347-845-9443","Restaurants/Bars",40.79359,-73.940923,"251 E 110th St New York, NY 10029 ","Open","Yes","Yes","Ubereats
 ","Tuesday - Saturday 12pm-6 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Go Go Curry",3544,"Ayana H","2020-05-20","646-833-7143","Restaurants/Bars",40.815535,-73.957794,"567 W 125th St New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, doordash, postmates, uber eats, allset
 ","Monday-Friday 11am-8pm, Saturday & Sunday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Guajillo Mexican Kitchen",3545,"Ayana H","2020-05-20","646-912-9971","Restaurants/Bars",40.796914,-73.935154,"2277 1st Avenue New York, NY 10035 ","Open","Yes","Yes","Grubhub
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Ale House",3546,"Ayana H","2020-05-20","646-692-8412","Restaurants/Bars",40.809334,-73.944863,"101 W 127th St New York, NY 10027 ","Open","Yes","Yes","Grubhub, Uber Eats
 ","Saturday 5-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Blues Cafe",3547,"Ayana H","2020-05-20","917-675-7258","Restaurants/Bars",40.81052,-73.939574,"2144 5th Ave New York, NY 10037 ","Open","Yes","Yes","grubhub, doordash
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Burger Co",3548,"Ayana H","2020-05-20","212-222-9899","Restaurants/Bars",40.805712,-73.954062,"2190 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","in house, grubhub, postmates
 ","Monday-Sunday 12pm-11pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Chocolate Factory",3549,"Ayana H","2020-05-20",,"Restaurants/Bars",40.817323,-73.941691,"2363 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open",,,"for pick-ups in store! You MUST order online and select in-store pick up or you will be charged for shipping
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Food Bar",3550,"Ayana H","2020-05-20","212-222-9570","Restaurants/Bars",40.802746,-73.956191,"2100 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","No",,"Monday-Sunday 3pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Hookah",3551,"Ayana H","2020-05-20","646-912-9905","Restaurants/Bars",40.810658,-73.943844,"381 Malcolm X Blvd New York, NY 10027 ","Open","Yes","Yes",": grubhub, doordash, postmates, uber eats, check out @harlemhookah via soundcloud for their exclusive mixes by d.j. exeqtiv
 ","Monday-Sunday 4pm-2am
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Hops",3552,"Ayana H","2020-05-20","646-998-3444","Restaurants/Bars",40.814441,-73.944777,"2268 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","In house
 ","Monday-Sunday 2pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Pizza Co",3553,"Ayana H","2020-05-20","212-222-9889","Restaurants/Bars",40.802879,-73.951084,"135 W 116th St New York, NY 10026 ","Open","Yes","Yes","
 grubhub, chownow, postmates
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Public",3554,"Ayana H","2020-05-20",,"Restaurants/Bars",40.828657,-73.948229,"3612 Broadway New York, NY 10031 ","Open","Yes","Yes","in house
 ","Monday-Friday 11am-10pm, Weekends 11am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Shake",3555,"Ayana H","2020-05-20","212-222-8300","Restaurants/Bars",40.807114,-73.946426,"100 W 124th St New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, uber eats, postmates, Delivery.com; Use code TENOFF on website to receive 10% discount
 ","Sunday-Thusday 11am-11pm, Friday-Saturday 11am-2am
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Tavern",3556,"Ayana H","2020-05-20","212-866-4500","Restaurants/Bars",40.804789,-73.955591,"2153 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","No",,"Monday-Sunday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Wine Gallery",3557,"Ayana H","2020-05-20","646-912-9365","Restaurants/Bars",40.807776,-73.948725,"2067 Adam Clayton Powell Jr Blvd New York, NY 10027 ","Open","Yes","Yes","delivery ($35 minimum) Wednesday-Sunday 3-7 p.m.: Order online or on the harlem wine gallery app
 ","Monday&Tuesday 3pm-8pm, Wednesday-Sunday 12pm-8pm
-","Wine/Liquor Store","2020-06-15T20:53:30.000Z",,
+",true,true,"Wine/Liquor Store","2020-06-15T20:53:30.000Z",,
 "Hexagon Lounge",3558,"Ayana H","2020-05-20","646-838-6500","Restaurants/Bars",40.821269,-73.944468,"318 W 142nd St New York, NY 10030 ","Open","Yes","Yes","Grubhub, uber eats
 ","Monday-Sunday 11:30am-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Hoghead Tavern",3559,"Ayana H","2020-05-20",,"Restaurants/Bars",40.824058,-73.949353,"126 Hamilton Pl New York, NY 10031 ","Open","Yes","Yes","grubhub, special growler hours Thurs-Sunday 4-7 p.m.
 ","Monday-Sunday 2pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Home Sweet Harlem",3560,"Ayana H","2020-05-20","212-926-9616","Restaurants/Bars",40.819378,-73.952219,"1528 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","grubhub
 ","Tuesday 9am-6pm, Wednesday-Sunday 9am-10-pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Hot Jalapeno",3561,"Ayana H","2020-05-20","646-351-6895","Restaurants/Bars",40.797779,-73.938988,"219 E 116th St New York, NY 10029 ","Open","Yes","Yes","10% off cash sales
 ","Wednesday-Sunday 11:30 a.m.-7:30 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Il Cafe Latte",3562,"Ayana H","2020-05-20","212-222-2241","Restaurants/Bars",40.804398,-73.948416,"189 Malcolm X Blvd New York, NY 10026 ","Open","Yes","Yes","DOORDASH, 10% off purchases over $30
 ","Monday-Sunday 8am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Indian Summer",3563,"Ayana H","2020-05-20","646-952-0300","Restaurants/Bars",40.805897,-73.947318,"239 Malcolm X Blvd   New York, NY 10027 ","Open","Yes","Yes","Grubhub, Postmates
 ","Tuesday 5pm-10pm, Wednesday-Sunday 11:30am-2:30pm & 5pm-9:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Island Bites Caribbean",3564,"Ayana H","2020-05-20","646-850-8855","Restaurants/Bars",40.791193,-73.939396,"2107 1st Avenue New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, uber eats
 ","Tuesday-Saturday 11:30am-8pm, Sunday 11:30am-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Jacob's Soul Food",3565,"Ayana H","2020-05-20","212-283-3663","Restaurants/Bars",40.821754,-73.943054,"2695 Frederick Douglass Blvd New York, NY 10030 ","Open","Yes","No",,"Monday-Sunday 10am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Jacob's Soul Food",3566,"Ayana H","2020-05-20","212-866-3663","Restaurants/Bars",40.810309,-73.944016,"373 Malcolm X Blvd New York, NY 10027 ","Open","Yes","No",,"Monday-Sunday 10am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Jaguar Restaurant",3567,"Ayana H","2020-05-20","212-423-9096","Restaurants/Bars",40.793549,-73.94504,"1735 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","grubhub
 ","Monday-Sunday 10am-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Jin Ramen",3568,"Ayana H","2020-05-20","646-559-2862","Restaurants/Bars",40.815486,-73.959056,"3183 Broadway New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, doordash, get 10 percent off in-house orders with the code supportjin
 ","Monday-Sunday 11am-3:30PM, 5PM-10PM
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Joy Burger Bar",3569,"Ayana H","2020-05-20","212-289-6222","Restaurants/Bars",40.788454,-73.948722,"1567 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in-house, GRUBHUB, new in-house delivery zone from 79th to 116th streets, fifth avenue to the fdr
 ","Monday-Sunday 11am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "L.A. Sweets",3570,"Ayana H","2020-05-20","646-964-5855","Restaurants/Bars",40.804213,-73.947621,"192 Malcolm X Blvd New York, NY 10026 ","Open","Yes","Yes","grubhub, uber eats, postmates
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Avenida",3571,"Ayana H","2020-05-20","212-828-2247","Restaurants/Bars",40.795731,-73.935963,"2247 1st Avenue New York, NY 10029 ","Open","Yes","No",,"Tuesday - Saturday
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Chula",3572,"Ayana H","2020-05-20","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 E 116th St New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
 ","Wednesday - Sunday 12pm-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Fonda Boricua",3573,"Ayana H","2020-05-20","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 E 106th St New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Lechonera",3574,"Ayana H","2020-05-20","212-996-1972","Restaurants/Bars",40.802697,-73.934096,"256 E 125th St New York, NY 10035 ","Open","Yes","Yes","uber eats
 ","Monday- Sunday 7am-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Nostra Pizzeria",3575,"Ayana H","2020-05-20","212-360-7453","Restaurants/Bars",40.793155,-73.940173,"2146 2nd Ave New York, NY 10029 ","Open","Yes","Yes"," grubhub, postmates
 ","Monday-Sunday 10 a.m.-9 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Savane",3576,"Ayana H","2020-05-20","646-490-4644","Restaurants/Bars",40.804201,-73.954223,"239 W 116th St New York, NY 10026 ","Open","Yes","Yes","Ubereats
 ","Monday-Sunday 1pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "La Tropezienne Bakery",3577,"Ayana H","2020-05-20","212-860-5324","Restaurants/Bars",40.792061,-73.938593,"2131 1st Avenue New York, NY 10029 ","Open","Yes","No",,"Monday-Sunday 11am-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Las Delicias Mexicanas",3578,"Ayana H","2020-05-20","212-828-3659","Restaurants/Bars",40.797363,-73.940127,"2109 3rd Ave New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, doordash, postmates
 ","Monday-Sunday 11 a.m.-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Le Baobab",3579,"Ayana H","2020-05-20","212-864-4700","Restaurants/Bars",40.802335,-73.951183,"120 W 116th St New York, NY 10026 ","Open","Yes","Yes","ubereats
 ","Monday-Sunday 1pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lee Lee's Bakery",3580,"Ayana H","2020-05-20","917-493-6633","Restaurants/Bars",40.805712,-73.954062,"283 W 118th St New York, NY 10026 ","Open","Yes","Yes","grubhub
 ","Monday-Saturday 1pm-6pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lenox Coffee",3581,"Ayana H","2020-05-20","646-833-7839","Restaurants/Bars",40.809964,-73.943208,"60 W 129th St New York, NY 10027 ","Open","Yes","No","check their instagram for Mondayday-night zoom open mic
 ","Monday-Sunday 9am-2pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lenox Saphire",3582,"Ayana H","2020-05-20","212-866-9700","Restaurants/Bars",40.809379,-73.94483,"341 Malcolm X Blvd New York, NY 10027 ","Open","Yes","Yes","Grubhub, Uber Eats
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Levain Bakery Harlem",3583,"Ayana H","2020-05-20","917-464-3789","Restaurants/Bars",40.805129,-73.95539,"2167 Frederick Douglass Blvd New York, NY 1002","Open","Yes","Yes","
 CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 ","Monday- Saturday 8am-7pm, Sunday 8am-9pm, Sunday 8am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lexington Pizza Parlour & Harlem Baking Co",3584,"Ayana H","2020-05-20",,"Restaurants/Bars",40.789283,-73.948734,"1590 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in-house, GRUBHUB, uber eats, delivery.com, slice, 15% off first order placed via restaurant website
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lighthouse Fish Market",3585,"Ayana H","2020-05-20","212-203-2241","Restaurants/Bars",40.814307,-73.948507,"2451 Frederick Douglass Blvd New York, NY 10027 ","Open","Yes","No","accepting walk-in orders only (no phone orders)
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lloyd's Carrot Cake & Joosed by Lloyd's",3586,"Ayana H","2020-05-20",,"Restaurants/Bars",40.787867,-73.949174,"1553 Lexington Ave New York, NY 10029 ","Open","Yes","No",,"Monday- Friday 9am-5pm, Saturday-Sunday 10am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lolo's Seafood Shack",3587,"Ayana H","2020-05-20","646-649-3356","Restaurants/Bars",40.804817,-73.955695,"303 W 116th St New York, NY 10026 ","Open","Yes","Yes","Grubhub, Seamless, Postmates, Delivery.com, Uber Eats
 ","Tuesday-Thursdau 12pm-10pm, Friday-Saturday 12om-10:30pm, Sunday 12-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Love Cafe",3588,"Ayana H","2020-05-20","212-369-6916","Restaurants/Bars",40.794607,-73.933801,"283 Pleasant Ave New York, NY 10029 ","Open","Yes","Yes","Uber eats
 ","Monday - Friday 7 a.m.- 3:30 p.m., Saturday 7:30 a.m.-2:30 p.m.:
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lulu & Teddy's Cafe/Bar",3589,"Ayana H","2020-05-20","917-261-5615","Restaurants/Bars",40.794297,-73.940173,"2171 2nd Ave New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB
 ","Monday - Friday  12pm- 8 P.M
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Lyn-Genet's Kitchen",3590,"Ayana H","2020-05-20","646-590-0554","Restaurants/Bars",40.824477,-73.95236,"3473 Broadway New York, NY 10031 ","Open","Yes","Yes","in house
 ","Wednesday & Sundays 4pm-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Made in Mexico",3591,"Ayana H","2020-05-20","917-265-8408","Restaurants/Bars",40.794031,-73.940304,"2161 2nd Ave New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, uber eats, postmates,
 ","Monday- Sunday  1pm -9 P.M
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Maison Harlem",3592,"Ayana H","2020-05-20","212-222-9224","Restaurants/Bars",40.812355,-73.951579,"341 St Nicholas Ave New York, NY 10027 ","Open","Yes","Yes","in house
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Makana Hawaiian Eatery",3593,"Ayana H","2020-05-20","212-368-5033","Restaurants/Bars",40.818468,-73.952914,"1502 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","in house, grubhub
 ","Monday-Saturday 11am-9pm, Sunday 12pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Make My Cake",3594,"Ayana H","2020-05-20","212-234-2344","Restaurants/Bars",40.818162,-73.94207,"2380 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","IN-HOUSE, grubhub, doordash, uber eats
 ","Monday-Sunday 10am-6pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Malii Thai Kitchen",3595,"Ayana H","2020-05-20","212-289-2789","Restaurants/Bars",40.789438,-73.942973,"2028 2nd Ave New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, uber eats, caviar, delivery.com,
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Mamasushi",3596,"Ayana H","2020-05-20","646-682-7879","Restaurants/Bars",40.827444,-73.950199,"3569 Broadway New York, NY 10031 ","Open","Yes","Yes","n-house, grubhub, doordash, postmates, uber eats, get 20% off your first order and 10% off future orders when you use the mamasushi app
 ","Monday-Sunday 1pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Manhattanville Coffee",3597,"Ayana H","2020-05-20",,"Restaurants/Bars",40.817207,-73.935611,"W 142nd St & Edgecombe Ave New York, NY 10030 ","Open","Yes","No","check website and/or instagram stories for updates
 ","Monday-Thursday 9am-4pm, Friday-Sunday 8am-5pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Manna's Soul Food",3598,"Ayana H","2020-05-20","212-749-9084","Restaurants/Bars",40.811138,-73.950875,"2353 Frederick Douglass Blvd New York, NY 10027 ","Open","Yes","No",,"Sunday-Thursday 8am-9pm, Friday-Saturday 8am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Massawa",3599,"Ayana H","2020-05-20","212-663-0505","Restaurants/Bars",40.809698,-73.958535,"1239 Amsterdam Ave   New York, NY 10027 ","Open","Yes","Yes","seamless, grubhub, uber eats, postmates
 ","Monday-Sunday 1pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Maxwell's Central Park ",3600,"Ayana H","2020-05-20","646-657-0933","Restaurants/Bars",40.797623,-73.948164,"1325 5th Ave New York, NY 10029 ","Open","Yes","Yes","grubhub,
 ","Tuesday -Friday  12pm -8 p.m., Saturday - Sunday 10 a.m.-8 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Melba's",3601,"Ayana H","2020-05-20","212-864-7777","Restaurants/Bars",40.803138,-73.956685,"300 W 114th St New York, NY 10026 ","Open","Yes","Yes","grubhub, uber eat, postmates
 ","Monday-Sunday 12pm-12am
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"Mess Hall Harlem",3602,"Ayana H","2020-05-20","646-692-3092","Restaurants/Bars",40.80584,-73.953997,"2194 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Mess Hall Harlem",3602,"Ayana H","2020-05-20","646-692-3092","Restaurants/Bars",40.80584,-73.953997,"2194 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes",,,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Mojo Mousse Bar",3603,"Ayana H","2020-05-20","917-331-3278","Restaurants/Bars",40.788454,-73.948722,"177 E 100th St New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, SWEETIST
 ","Tuesday-Saturday 12-5pm, Sunday 10am-5pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Mountain Bird",3604,"Ayana H","2020-05-20","607-358-6125","Restaurants/Bars",40.7938,-73.939753,"2162 2nd Ave New York, NY 10029 ","Open","Yes","Yes","seamless, now offering a new izakaya menu with el barrio flair, check for updates on instagram
 ","Monday 12pm -6 P.M
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Naughty Crab",3605,"Ayana H","2020-05-20","646-726-4446","Restaurants/Bars",40.789737,-73.947864,"1621 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in house
 ","Thurs-Friday 5pm-9pm, Saturday-Sunday 2pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "NBHD Brulee",3606,"Ayana H","2020-05-20","646-952-4500","Restaurants/Bars",40.819361,-73.944048,"2620 Frederick Douglass Blvd
 New York, NY 10030
 ","Open","Yes","No",,"Tuesday-Sunday 9am-3pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Nocciola ",3607,"Ayana H","2020-05-20","646-559-5304","Restaurants/Bars",40.797504,-73.938381,"237 E 116th St New York, NY 10029 ","Open","Yes","Yes","Receive 20% OFF on all bottles of wine & beer when you order over the phone
 ","Monday-Sunday 4:30 p.m.-10 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Oso",3608,"Ayana H","2020-05-20","646-858-3139","Restaurants/Bars",40.822021,-73.950288,"1618 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","in house, seamless
 ","Tuesday-Sunday 2pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Pabade Bakery",3609,"Ayana H","2020-05-20","646-490-7863","Restaurants/Bars",40.795154,-73.944678,"135 E 110th St New York, NY 10029 ","Open","Yes","No","YOU CAN still order pastry box deliveries ONLINE
 ","Monday-Friday 8 a.m.-1 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Patisserie Des Ambassades",3610,"Ayana H","2020-05-20","212-066-0078","Restaurants/Bars",40.806022,-73.953866,"2200 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","grubhub, postmates
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Patsy's Pizza",3611,"Ayana H","2020-05-20","212-534-9783","Restaurants/Bars",40.797179,-73.934957,"2287 1st Avenue New York, NY 10035 ","Open","Yes","No",,"Monday-Saturday 11 A.m.-midnight, Sunday 11 a.m.-11 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Perk Kafe",3612,"Ayana H","2020-05-20","212-686-7375","Restaurants/Bars",40.784572,-73.947216,"1867 2nd Ave New York, NY 10029 ","Open","Yes","No",,"Monday-Friday 7:30am-3pm, Saturday-Sunday 8am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Pikine",3613,"Ayana H","2020-05-20","646-922-7015","Restaurants/Bars",40.804257,-73.954347,"243 W 116th St New York, NY 10026 ","Open","Yes","No",,"Monday-Sunday 2pm-midnight
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Pisticci",3614,"Ayana H","2020-05-20","212-932-3500","Restaurants/Bars",40.814387,-73.960277,"125 La Salle St   New York, NY 10027 ","Open","Yes","Yes","
 now back open! 10% off orders via the website
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"PIZZA BY LUCILLE’S ",3615,"Ayana H","2020-05-20","646-370-4270","Restaurants/Bars",40.825832,-73.938819,"26c Macombs PlNew York, NY 10039","Open","Yes","Yes","IN-HOUSE, GRUBHUB, POSTMATES, SLICE, for pick-up orders make sure to order on their website; also offers their pizzas frozen for you to bake at home
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Pizza by Lucille’s",3615,"Ayana H","2020-05-20","646-370-4270","Restaurants/Bars",40.825832,-73.938819,"26c Macombs PlNew York, NY 10039","Open","Yes","Yes","IN-HOUSE, GRUBHUB, POSTMATES, SLICE, for pick-up orders make sure to order on their website; also offers their pizzas frozen for you to bake at home
 ","Tuesday-Sunday 12pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Polash Indian",3616,"Ayana H","2020-05-20","212-410-0276","Restaurants/Bars",40.799593,-73.938444,"2179 3rd Ave New York, NY 10035 ","Open","Yes","Yes","grubhub, delivery.com
 ","Monday- Sunday 12pm-6 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Ponty Bistro",3617,"Ayana H","2020-05-20","212-234-6475","Restaurants/Bars",40.817585,-73.941523,"2375 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Grubhub, postmates, delivey
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Pro Thai",3618,"Ayana H","2020-05-20","917-475-1494","Restaurants/Bars",40.788821,-73.948453,"1575 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, postmates, uber eats
 ","Monday- Sunday 11:30am-9:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Proof Coffee",3619,"Ayana H","2020-05-20","212-234-8290","Restaurants/Bars",40.814987,-73.94434,"2286 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Seamless
 ","Monday-Sunday 7am-3pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Q&N",3620,"Ayana H","2020-05-20","212-860-2021,","Restaurants/Bars",40.805065,-73.93832,"107 E 125th St","Open","Yes","Yes","n-house delivery when you call them by phone
 ","Monday- Sunday 6 a.m.-5 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"Quechua Nostra PERUVIAN",3621,"Ayana H","2020-05-20","212-410-0707","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, UBER EATS, POSTMATES, DOORDASH, DELIVERY.COM
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Quechua Nostra ",3621,"Ayana H","2020-05-20","212-410-0707","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, UBER EATS, POSTMATES, DOORDASH, DELIVERY.COM
 ","Monday-Wednesday 11am-10pm, Thursday-Saturday 11am-11pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"QUESADILLAS DOÑA MATY",3622,"Ayana H","2020-05-20","646-789-6237","Restaurants/Bars",40.797266,-73.939006,"228 E 116th St New York, NY 10029 ","Open","Yes","No",,"Monday-Sunday 10 a.m.-11 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Quesadillas Dona Maty",3622,"Ayana H","2020-05-20","646-789-6237","Restaurants/Bars",40.797266,-73.939006,"228 E 116th St New York, NY 10029 ","Open","Yes","No",,"Monday-Sunday 10 a.m.-11 p.m.
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Rai Rai Ken",3623,"Ayana H","2020-05-20","917-639-3342","Restaurants/Bars",40.817109,-73.953175,"1467 Amsterdam Ave New York, NY 10027 ","Open","Yes","Yes","grubhub, uber eats
 ","Tuesday-Sunday 1pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"rancho vegano",3624,"Ayana H","2020-05-20","212-987-4196","Restaurants/Bars",40.797289,-73.937239,"2270 2nd Ave New York, NY 10035 ","Open","Yes","Yes",,"Monday-Sunday  8 A.M.-8 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Rancho Vegano",3624,"Ayana H","2020-05-20","212-987-4196","Restaurants/Bars",40.797289,-73.937239,"2270 2nd Ave New York, NY 10035 ","Open","Yes","Yes",,"Monday-Sunday  8 A.M.-8 p.m.
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Rao's",3625,"Ayana H","2020-05-20","212-722-6709","Restaurants/Bars",40.794012,-73.934212,"455 E 114th St New York, NY 10029 ","Open","Yes","No","join the waitlist for a taste of Rao’s by sending a direct message via instagram; you will be contacted if selected and then assigned a date to pick up a dinner for two of penne marinara, meatballs, leMonday chicken & salad, for $80 (cash only), Tax and gratuity included
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Renaissance Harlem",3626,"Ayana H","2020-05-20","646-838-7604","Restaurants/Bars",40.813341,-73.94468,"2245 Adam Clayton Powell Jr Blvd New York, NY 10027 ","Open","Yes","Yes","Grubhub, Seamless, Uber Eats, Postmastes, Doordash
 ","Monday-Sunday 11am-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Reverence",3627,"Ayana H","2020-05-20",,"Restaurants/Bars",40.818506,-73.944794,"2592 Frederick Douglass Blvd New York, NY 10030 ","Open",,,"curated bento boxes are available for pre-order on select dates here
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Roland's",3628,"Ayana H","2020-05-20","646-682-7810","Restaurants/Bars",40.81203,-73.95077,"303 W 127th St New York, NY 10027 ","Open","Yes","Yes","Grubhub
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Ruby's Vintage",3629,"Ayana H","2020-05-20","646-454-9899","Restaurants/Bars",40.81694,-73.943021,"2340 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Gubhub, check out their new offerings including family meals, plus get 10% off when you place your order by calling the restaurant
 ","Monday-Sunday 4pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Safari",3630,"Ayana H","2020-05-20","646-964-4252","Restaurants/Bars",40.803851,-73.953414,"219 W 116th St New York, NY 10026 ","Open","Yes","Yes","postmates
 ","Monday-Sunday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sam's Famous Pizzeria",3631,"Ayana H","2020-05-20","212-348-9437","Restaurants/Bars",40.798324,-73.941637,"150 E 116th St New York, NY 10029 ","Open","Yes","Yes","Grubhub
 ","Monday -Saturday 11 A.M.-9 P.M.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "San Agustin Bakery",3632,"Ayana H","2020-05-20","212-996-5223","Restaurants/Bars",40.797394,-73.938027,"249 E 116th St New York, NY 10029 ","Open","Yes","No",,"Monday-Sunday 11:30 a.m.-11:30 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "SANDY RESTAURANT",3633,"Ayana H","2020-05-20","212-348-8654","Restaurants/Bars",40.79726,-73.937937,"2261 2nd Ave New York, NY 10035 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB, UBER EATS, DOORDASH
 ","Monday-Sunday 8 A.M.-9 P.M
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "SANTIAGO’S BEER GARDEN —",3634,"Ayana H","2020-05-20","212-920-6165","Restaurants/Bars",40.798532,-73.933872,"2337 1st Avenue New York, NY 10035 ","Open","Yes","Yes","seamless, uber eats, ez cater,
 ","Monday-Sunday 11 a.m.-9 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sapoara Wood-Roasting Grill & Bar",3635,"Ayana H","2020-05-20","212- 256-0199","Restaurants/Bars",40.796157,-73.934986,"2262 1st Avenue New York, NY 10035 ","Open","Yes","Yes","grubhub, ez cater, free chicken soup for anyone who needs it (until supplies run out)
 ","Monday, Wednesday-Saturday 12-8 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Seasibed Vegan",3636,"Ayana H","2020-05-20","212-222-0092","Restaurants/Bars",40.800677,-73.95281,"55 St Nicholas Ave New York, NY 10026 ","Open","Yes",,"(reduced hours, and may change so check instagram): uber eats, postmates
 ","Wednesday-Friday 5pm-10pm, Saturday 1pm-10pm, Sunday 4pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Seregenti Teas & Spices",3637,"Ayana H","2020-05-20",,"Restaurants/Bars",40.805779,-73.941304,"22 E 125th St New York, NY 10035 ","Open","Yes","Yes","in-house
 ","Wednesday -Saturday 12pm -4 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Settepani",3638,"Ayana H","2020-05-20","646-964-5855","Restaurants/Bars",40.804306,-73.947583,"196 Malcolm X Blvd New York, NY 10026 ","Open","Yes","Yes","caviar
 ","Monday-Snday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sidewalk Tacos",3639,"Ayana H","2020-05-20","6464549255/646-454-9966","Restaurants/Bars",40.794093,-73.940259,"2163 2nd Ave New York, NY 10029 ","Open","Yes","Yes","call in advance because hours may vary
 ","Monday- Sunday 11am-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sisters Cuisine",3640,"Ayana H","2020-05-20","212-410-3000","Restaurants/Bars",40.805079,-73.940816,"47 E 124th St New York, NY 10035 ","Open","Yes","Yes","POSTMATES, doordash, uber eats
 ","Tuesday- Sunday 11 a.m.-9 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sita Thai",3641,"Ayana H","2020-05-20","646-901-5623","Restaurants/Bars",40.828944,-73.949066,"3609 Broadway New York, NY 10031 ","Open","Yes","Yes","grubhub
 ","Monday-Sunday 12pm-11pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "SoFridayto",3642,"Ayana H","2020-05-20","212-754-5999","Restaurants/Bars",40.827282,-73.955282,"679 Riverside Dr New York, NY 10031 ","Open","Yes","Yes","in-house
 ","Tuesday-Sunday 12pm-9m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Solace Bar & Grill",3643,"Ayana H","2020-05-20","212-926-0166","Restaurants/Bars",40.824797,-73.951264,"3496 Broadway New York, NY 10031 ","Open","Yes","Yes","in house
 ","Wednesday-Sunday 4pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sottocasa",3644,"Ayana H","2020-05-20","646-928-4870","Restaurants/Bars",40.805579,-73.947526,"227 Malcolm X Blvd   New York, NY 10027 ","Open","Yes","Yes","IN-HOUSE, 10 PERCENT OFF ORDERS ON THE WEBSITE & free margherita pizza when you purchase a bottle of wine
 ","Monday-Sunday 5pm-9:30pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Spice Hut Indian",3645,"Ayana H","2020-05-20","646-859-7055","Restaurants/Bars",40.789675,-73.942797,"2036 2nd Ave New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, grubhub, doordash, postmates, uber eats, HAD BEEN CLOSED, BUT OPEN AS OF MAY 1! 30% OFF YOUR FIRST ORDER PLACED VIA THEIR WEBSITE
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sugar Hill Creamery",3646,"Ayana H","2020-05-20","212-634-9004","Restaurants/Bars",40.803968,-73.947793,"184 Malcolm X Blvd New York, NY 10026 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS, try out their ice cream subscription
 ","Monday-Thursday 2:30pm-10pm Friday 2:30pm-11pm Saturday 12pm-11pm, Sunday 12pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sugar Monk Lounge",3647,"Ayana H","2020-05-20","917-409-0028","Restaurants/Bars",40.808918,-73.951737,"2292 Frederick Douglass Blvd New York, NY 10027 ","Open","Yes","Yes","in-house, doordash
 ","Friday-Saturday 4pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Super Nice Coffee & Bakery",3648,"Ayana H","2020-05-20","917-261-5069","Restaurants/Bars",40.79903,-73.941056,"156 E 117th St New York, NY 10035 ","Open","Yes","Yes","POSTMATES, doordash, uber eats, add virtual tips for staff here, plus let them know if you like the idea of “bread day” here. plus now Fridaydays-Sundaydays they’re offering late-night donuts from 7-11 p.m.
 ","Tuesday - Sunday 9 a.m.-5 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z","Fridaydays-Sundaydays they’re offering late-night donuts from 7-11 p.m.",
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","Fridaydays-Sundaydays they’re offering late-night donuts from 7-11 p.m.",
 "Sweet Chef Southern Style Bakery",3649,"Ayana H","2020-05-20","212-862-5909","Restaurants/Bars",40.824058,-73.949353,"122 Hamilton Pl New York, NY 10031","Open","Yes","Yes","grubhub, uber eats
 ","Monday-Saturday 12pm-8:30pm Sunday 12pm-7pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Sylvia's Restaurant",3650,"Ayana H","2020-05-20","212-996-0660","Restaurants/Bars",40.808588,-73.944428,"328 Malcolm X Blvd New York, NY 10027 ","Open","Yes","Yes","Uber Eats, postmates, doordash, check out the sylvias family package that feeds 4-5 people for $50 (family-style Fridayed or baked chicken with two sides)
 ","Monday-Sunday 11am-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Taco Mix",3651,"Ayana H","2020-05-20","212-289-2693","Restaurants/Bars",40.797142,-73.93876,"234 E 116th St New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, POSTMATES, uber eats, 10% discount for orders placed in-house
 ","Monday-Sunday 1 p.m.-3 a.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Taqueria Guadalupe ",3652,"Ayana H","2020-05-20","212-828-6520","Restaurants/Bars",40.79372,-73.944945,"1743 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","grubhub, DELIVERY.COM
 ","Monday- Sunday 12pm-Midnight
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Taste of Seafood",3653,"Ayana H","2020-05-20","212-866-0275","Restaurants/Bars",40.816189,-73.946424,"2530 Frederick Douglass Blvd New York, NY 10030 ","Open","Yes","Yes","Grubhub
 ","Tuesday-Friday 11am-8pm, Saturday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "teamworkon3 juice bar",3654,"Ayana H","2020-05-20","646-657-0788","Restaurants/Bars",40.802445,-73.938564,"2007 Lexington Ave New York, NY 10035 ","Open","Yes","Yes","grubhub, uber eats
 ","Monday-Sunday10 a.m.-10 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Teranga",3655,"Ayana H","2020-05-20",,"Restaurants/Bars",40.7963,-73.949103,"1280 5th Ave
 New York, NY 10029
 ","Open","Yes","Yes","in-house, grubhub, uber eats, caviar, doordash
 ","Tuesday-Sunday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "thai bkk",3656,"Ayana H","2020-05-20","212-860-2270","Restaurants/Bars",40.802815,-73.938332,"2021 Lexington Ave New York, NY 10035 ","Open","Yes","Yes","grubhub, postmates
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "thai super",3657,"Ayana H","2020-05-20","646-559-1339","Restaurants/Bars",40.799377,-73.939908,"166 E 118th St New York, NY 10035 ","Open","Yes","Yes","in-house, grubhub, uber eats
 ","Monday- Sunday 12:30-9:45 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Chipped Cup",3658,"Ayana H","2020-05-20","212-368-8881","Restaurants/Bars",40.82852,-73.948515,"3610 Broadway New York, NY 10031 ","Open","Yes","Yes","postmates
 ","Monday-Sunday 8am-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Craftsman",3659,"Ayana H","2020-05-20","212-933-0602","Restaurants/Bars",40.814702,-73.959456,"3155 Broadway New York, NY 10027 ","Open","Yes","Yes","Grubhub, uber eats, postmates
 ","Monday-Sunday 12pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Edge",3660,"Ayana H","2020-05-20","212-939-9688","Restaurants/Bars",40.821112,-73.945257,"131 Edgecombe Ave New York, NY 10030 ","Open","Yes","Yes","Seamless, Grubhub, Postmates
 ","Monday-Saturday 11am-9pm, Sunday 12pm-4pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Expat",3661,"Ayana H","2020-05-20","646-410-2922","Restaurants/Bars",40.81544,-73.960192,"64 Tiemann Pl New York, NY 10027 ","Open","Yes","Yes","in house
 ","Monday-Sunday 11:30am-11pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Garange Bar & Eatrery",3662,"Ayana H","2020-05-20","212-491-1635","Restaurants/Bars",40.822412,-73.949397,"1635 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","brunch on Saturdayurdays and Sundaydays 12-4 p.m.: SEAMLESS, uber eats, get 10 percent off pick-up orders
 ","Monday-Sunday 4pm-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Handpulled Noodle",3663,"Ayana H","2020-05-20","917-262-0213","Restaurants/Bars",40.828326,-73.948634,"3600 Broadway New York, NY 10031 ","Open","Yes","Yes","in-house, grubhub, postmates, uber Eats
 ","Sunday-Thursday 11:30am-11pm, Friday & Saturday 11:30am-midnight 
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Lexington Social",3664,"Ayana H","2020-05-20","646-820-7013","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029 ","Open","Yes","No","grubhub, delivery.com, bottles of wine are $15 with food purchase
 ","Monday-Saturday 2pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "The Rochard NYC",3665,"Ayana H","2020-05-20","212-722-8959","Restaurants/Bars",40.786761,-73.950649,"1504 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","Grubhub
 ","Wednesday-Saturday 3pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Tres Leche Cafe",3666,"Ayana H","2020-05-20","646-559-0176","Restaurants/Bars",40.793496,-73.937818,"356 E 112th St New York, NY 10029 ","Open","Yes","No",,"Monday - Saturday 10 a.m.-3 p.m
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Tsion Cafe",3667,"Ayana H","2020-05-20","212-234-2070","Restaurants/Bars",40.82632,-73.943487,"763 St Nicholas Ave New York, NY 1003","Open","Yes","Yes","in-house, GRUBHUB, offering meals for various dietary needs (call for more info)
 ","Tuesday-Sunday 2pm-8pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Uncle Tony's Pizza",3668,"Ayana H","2020-05-20","212-690-7500","Restaurants/Bars",40.821438,-73.950724,"1596 Amsterdam Ave New York, NY 10031 ","Open","Yes","Yes","in house, grubhub, uber eats, slice
 ","Monday-Sunday 11am-10pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Uptown Veg ",3669,"Ayana H","2020-05-20","212-987-2660","Restaurants/Bars",40.805461,-73.940583,"52 E 125th St New York, NY 10035 ","Open","Yes","Yes","grubhub (PREFERRED), POSTMATES, uber eats
 ","Monday- Sunday 10 a.m.-8 p.m.
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Vinateria",3670,"Ayana H","2020-05-20","212-662-8462","Restaurants/Bars",40.806649,-73.954074,"2211 Frederick Douglass Blvd New York, NY 10026 ","Open","Yes","Yes","in house, grubhub
 ","Monday-Thursday 4pm-9pm, Friday 4pm-10pm, Saturday 12pm-10pm, Sunday 12pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Wat's On Your Plate",3671,"Ayana H","2020-05-20","212-234-4411","Restaurants/Bars",40.825801,-73.94839,"513 W 145th St New York, NY 10031 ","Open","Yes","Yes","Ubereats
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Wat's On Your Plate II",3672,"Ayana H","2020-05-20","646-767-9355","Restaurants/Bars",40.818791,-73.937902,"641 Malcolm X Blvd New York, NY 10030 ","Open",,,"grubhub, uber eats, postmates, DOORDASH
-",,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
-"Watkins Health Food Store",3673,"Ayana H","2020-05-20","212-831-2955","Restaurants/Bars",40.806889,-73.944108,"46 W 125th St New York, NY 10027 ","Open","Yes","No",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+"Watkins Health Food Store",3673,"Ayana H","2020-05-20","212-831-2955","Restaurants/Bars",40.806889,-73.944108,"46 W 125th St New York, NY 10027 ","Open","Yes","No",,,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Yuzu Harlem",3674,"Ayana H","2020-05-20","646-861-3883","Restaurants/Bars",40.809322,-73.943887,"350 Malcolm X Blvd New York, NY 10027 ","Open","Yes","Yes","ORDER PICK-UP HERE, ORDER DELIVERY HERE, ALSO AVAILABLE ON GRUBHUB, UBER EATS, DOORDASH,
 ","Monday-Wednesday 4:30pm-8pm, Thursday-Saturday 4:30pm-9pm
-","Restaurant/Bar","2020-06-15T20:53:30.000Z",,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,
 "Harlem Fresh ",3675,,"2020-05-29","212-369-7424","Grocery Store",40.805949,-73.94182,"10 East 125th New York, NY 10035","Open",,"No",,"Monday-Sunday 7am-9pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"City Fresh Market",3676,,"2020-05-29","212-876-1500","Grocery Store",40.801049,-73.938169,"2212 3rd Ave  New York, NY 10035","Open","No","No",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"City Fresh Market",3676,,"2020-05-29","212-876-1500","Grocery Store",40.801049,-73.938169,"2212 3rd Ave  New York, NY 10035","Open","No","No",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Food Town ",3677,,"2020-05-29","917-639-3800","Grocery Store",40.800762,-73.937394,"2211 3d Ave  New York, NY 10035","Open",,"Yes","DELIVERY online via Instacart, OR free delivery with an in-store minimum purchase of $50,
 ","Monday-Saturday 7am-9pm, Sunday 8am-8pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Senior Shopping Hour Daily 6:30am-7:30am"
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Senior Shopping Hour Daily 6:30am-7:30am"
 "Fine Fare",3678,,"2020-05-29","212-410-1640","Grocery Store",40.798178,-73.93341,"2330 1st Ave New York, NY 10035","Open",,"Yes","free Delivery for orders over $10 when you call
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Costco",3679,,"2020-05-29","212-896-5873","Grocery Store",40.795608,-73.930897,"517 e 117th New York, NY 10035","Open",,"Yes","Delivery available when you order online via Instacart;
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Tuesday, Wednesday, Thursday 8am-9am"
-"Aldi",3680,,"2020-05-29","679-879-8100","Grocery Store",40.795608,-73.930897,"517 e 117th New York, NY 10035","Open",,"Yes",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Tuesdays & Thursday 8:30-9am"
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Tuesday, Wednesday, Thursday 8am-9am"
+"Aldi",3680,,"2020-05-29","679-879-8100","Grocery Store",40.795608,-73.930897,"517 e 117th New York, NY 10035","Open",,"Yes",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Tuesdays & Thursday 8:30-9am"
 "Target",3681,,"2020-05-29","212-835-0860","Grocery Store",40.795608,-73.930897,"517 e 117th New York, NY 10035","Open",,"Yes","order online via the target website for mail delivery or via shipt;
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Tuesdays & Wednesdays 8am-9am"
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"Tuesdays & Wednesdays 8am-9am"
 "Fine Fare",3682,,"2020-05-29","212-360-7608","Grocery Store",40.798491,-73.946325,"1718 Madison Ave New York, NY 10029","Open",,"Yes","delivery with in-store purchase of $50, or in special cases for seniors or disabled populations
 ","Monday-Sunday 7am-10pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Cherry Valley",3683,,"2020-05-29","212-722-8200","Grocery Store",40.796273,-73.937538,"309 E 115th St New York, NY 10029","Open",,"No",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"NYC Fresh Market",3684,,"2020-05-29","212-886-4600","Grocery Store",40.796655,-73.947855,"1660 Madison Ave New York, NY 10029","Open",,"No",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Cherry Valley",3683,,"2020-05-29","212-722-8200","Grocery Store",40.796273,-73.937538,"309 E 115th St New York, NY 10029","Open",,"No",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"NYC Fresh Market",3684,,"2020-05-29","212-886-4600","Grocery Store",40.796655,-73.947855,"1660 Madison Ave New York, NY 10029","Open",,"No",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Food Universe",3685,,"2020-05-29","212-860-2999","Grocery Store",40.794314,-73.943891,"160 E 110th St New York, NY 10029","Open",,"Yes","delivery with in-store purchase of $30; in the store only 20 customers are alloWednesday in at a time
 ","Monday-Sunday 7am-10pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Dear Mama Coffee",3686,,"2020-05-29","929-279-2225","Grocery Store",40.792214,-73.940676,"308 East 109th St New York, NY 10029","Open",,"Yes","A CAFE THAT HAS PIVOTED TO NOW OFFER the dear mama market FEATURING grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves; DROP BY THE SHOP TO PICK UP OR ORDER FOR DELIVERY VIA THE WEBSITE 
 ","Monday-Sunday 7am-7pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Farm Country",3687,,"2020-05-29","212-410-5200","Grocery Store",40.790197,-73.938541,"2076 1st ave New York, NY 10029","Open",,"Yes","delivery with in-store purchase of $30
 ","Monday-Sunday 7am-10pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "City Fresh Market",3688,,"2020-05-29","212-369-8444","Grocery Store",40.791126,-73.942905,"235 E 106th St  New York, NY 10029","Open",,"Yes","free delivery with no minimum when you call the store
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Fine Fare",3689,,"2020-05-29","212-987-8059","Grocery Store",40.790555,-73.944963,"1891 3rd Ave New York, NY 10029","Open",,"No",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Fine Fare",3689,,"2020-05-29","212-987-8059","Grocery Store",40.790555,-73.944963,"1891 3rd Ave New York, NY 10029","Open",,"No",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Super Fi Emporium",3690,,"2020-05-29","212-410-6733","Grocery Store",40.790512,-73.947187,"1635 Lexington Ave New York, NY 10029","Open",,"Yes","delivery with in-store purchase of $50, or Delivery also available when you order online via Instacart
 ","Monday-Saturday 7am-9pm, Sunday 8am-9pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Cherry Valley",3691,,"2020-05-29","212-369-2974","Grocery Store",40.787445,-73.944291,"1968 2nd Ave New York, NY 10029","Open",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Cherry Valley",3691,,"2020-05-29","212-369-2974","Grocery Store",40.787445,-73.944291,"1968 2nd Ave New York, NY 10029","Open",,,,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "City Fresh Market",3692,,"2020-05-29","646-590-3050","Grocery Store",40.799013,-73.941798,"125 e 116th St New York, NY 10029","Open",,,,"24/7
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Shop Fair Supermarket",3693,,"2020-05-29","917-409-1293","Grocery Store",40.797913,-73.940821,"178 e 116th St New York, NY 10029","Open",,"Yes","DELIVERY WITH IN STORE PURCHASE
 ","Monday-Saturday 7am-10pm, Sunday 8am-10pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Ideal Food Basket",3694,,"2020-05-29","212-410-6733","Grocery Store",40.790512,-73.947187,"1635 Lexington Ave New York, NY 10029","Open",,"Yes","DELIVERY W/ IN STORE PURCHASE OF $50
 ","Monday-Saturday 7am-8pm Sunday 8am-8pm 
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Dave's Marketplace ",3695,,"2020-05-29","212-289-9400","Grocery Store",40.786101,-73.942,"1944 1st Ave New York, NY 10029","Open",,,,"Monday-Sunday 6am-8pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Midtown Fish Meat Market",3696,,"2020-05-29","212-722-7828","Grocery Store",40.799846,-73.943861,"87 E 116th St New York, NY 10029","Open",,,,"Monday-Sunday 7:30am-6pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Fairway",3697,,"2020-05-29","718-423-2100","Grocery Store",40.819694,-73.959474,"2328 12th Avenue New York, NY 10027","Open",,,"Delivery available when you order online via Instacart or via shipt
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Foodtown",3698,,"2020-05-29","212-368-7052","Grocery Store",40.814718,-73.948259,"2463 Frederick Douglass Blvd New York, NY 10027","Open",,,,"Monday-Saturday 7am-11pm Sunday 7am-10pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Pioneer",3699,,"2020-05-29","212-427-4615","Grocery Store",40.810394,-73.943084,"380 Malcolm X New York, NY 10027","Open",,,"delivery available for $5 with $45 order within a 5-block radius when you order at the store 212-427-4615
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Shop Fair",3700,,"2020-05-29","646-476-5799","Grocery Store",40.809636,-73.948411,"2110 ADAM CLAYTON POWELL New York, NY 10027","Open",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Shop Fair",3700,,"2020-05-29","646-476-5799","Grocery Store",40.809636,-73.948411,"2110 ADAM CLAYTON POWELL New York, NY 10027","Open",,,,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "C-Town",3701,,"2020-05-29","212-662-2388","Grocery Store",40.814869,-73.958003,"560 W 125th St New York, NY 10027","Open",,"No",,"Monday-Saturday 8am-7pm Sunday 8am-6pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Key Food",3702,,"2020-05-29","212-749-0200","Grocery Store",40.812055,-73.954721,"421 W 125th St New York, NY 10027","Open",,,,"Monday-Saturday 7am-8pm Sunday 8am-8pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Met Foods",3703,,"2020-05-29","212-662-1644","Grocery Store",40.812339,-73.95743,"1316 Amsterdam Ave New York, NY 10027","Open",,"Yes","free delivery with in-store purchase
 ","Monday-Sunday 7am-9pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"SPECIAL SENIOR & DISABILITY SHOPPING HOURS daily from 7-8 A.M."
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,"SPECIAL SENIOR & DISABILITY SHOPPING HOURS daily from 7-8 A.M."
 "Appletree Market",3704,,"2020-05-29","212-865-8840","Grocery Store",40.809429,-73.958833,"1225 Amsterdam Ave New York, NY 10027","Open",,,,"24/7
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Pioneer Supermarket",3705,,"2020-05-29","212-427-4615","Grocery Store",40.810394,-73.943084,"380 Malcolm X New York, NY 10026","Open",,"Yes","DELIVERY AVAILABLE BY CALLING THE STORE FOR $5 CHARGE WITH $50 MINIMUM PURCHASE, DELIVERY RADIUS WITHIN WALKING DISTANC
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Best Yet Market",3706,,"2020-05-29","212-377-2300","Grocery Store",40.806173,-73.954501,"2187 Frederick Douglass Blvd New York, NY 10026","Open",,"Yes","DELIVERY AVAILABLE VIA SHIPT ON THIS COVERAGE MAP, FREE DELIVERY FOR ORDERS OVER $35, AND FOR A $7 FEE FOR ORDERS UNDER $35
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Fine Fare",3707,,"2020-05-29","212-828-9951","Grocery Store",40.802066,-73.948673,"136 Malcolm X New York, NY 10026","Open",,"Yes","DELIVERY WITH IN STORE PURCHASE OF $50
 ","Monday-Sunday 7am-9pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "C Town",3708,,"2020-05-29","212-222-1379","Grocery Store",40.803687,-73.954355,"238 W 116th St New York, NY 10026","Open",,"Yes","DELIVERY WITH IN STORE PURCHASE OF $50, SENIOR & DISABILITY HOURS 7AM-8AM
 ","Monday-Sunday 7am-9pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Fine Fare",3709,,"2020-05-29","212-222-2211","Grocery Store",40.79939,-73.952057,"37 Malcolm X New York, NY 10026","Open",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Fine Fare",3709,,"2020-05-29","212-222-2211","Grocery Store",40.79939,-73.952057,"37 Malcolm X New York, NY 10026","Open",,,,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Key Food",3710,,"2020-05-29",,"Grocery Store",40.81973,-73.94378,"2630 Frederick Douglass Blvd New York, NY 10030","Open",,"Yes","FREE DELIVERY AVAILABLE WITH $10 MINIMUM PURCHASE WHEN YOU ORDER ONLINE VIA INSTACART, GET FREE DELIVERY FOR TWO WEEKS WITH INSTACART EXPRESS (CAN CANCEL BEFORE $99 ANNUAL CHARGE)
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"C-Town",3711,,"2020-05-29","212-491-7239","Grocery Store",40.829241,-73.947884,"3632 Broadway New York, NY 10031","Open",,"No",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"C-Town",3711,,"2020-05-29","212-491-7239","Grocery Store",40.829241,-73.947884,"3632 Broadway New York, NY 10031","Open",,"No",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Foodtown",3712,,"2020-05-29","212-368-6464","Grocery Store",40.825874,-73.942977,"756 St. Nicholas Ave New York, NY 10031","Open",,"Yes","DELIVERY AVAILABLE WHEN YOU ORDER ONLINE VIA INSTACART
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Keyfood",3713,,"2020-05-29","212-926-6756","Grocery Store",40.826716,-73.949727,"3550 Broadway New York, NY 10031","Open",,"Yes","DELIVERY WITH IN-STORE PURCHASE, $0 MIN OR OVER THE PHONE 212-926-6756   
 ","Monday-Sunday 7am-7pm
-","Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Smart Super Value Market",3714,,"2020-05-29","212-926-0666","Grocery Store",40.824231,-73.952546,"3461 Broaddway New York, NY 10031","Open",,"No",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Smart Super Value Market",3714,,"2020-05-29","212-926-0666","Grocery Store",40.824231,-73.952546,"3461 Broaddway New York, NY 10031","Open",,"No",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Food Universe",3715,,"2020-05-29","212-234-0128","Grocery Store",40.822136,-73.952962,"538 W 138th St New York, NY 10031","Open",,"Yes","DELIVERY WITH $50 ORDER WITHIN WALKING DISTANCE WHEN YOU ORDER AT THE STORE
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "C-Town",3716,,"2020-05-29","212-234-8100","Grocery Store",40.81958,-73.95496,"3320 Broadway New York, NY 10031","Open",,"No","FREE DELIVERY WITH NO MINIMUM WHEN YOU CALL THE STORE
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Key Food",3717,,"2020-05-29","212-926-5470","Grocery Store",40.816987,-73.938273,"592 Malcolm X Blvd New York, NY 10037","Open",,"Yes","FREE DELIVERY AVAILABLE WITH $10 MINIMUM PURCHASE WHEN YOU ORDER ONLINE VIA INSTACART, GET FREE DELIVERY FOR TWO WEEKS WITH INSTACART EXPRESS (CAN CANCEL BEFORE $99 ANNUAL CHARGE)
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
-"Fine Fare",3718,,"2020-05-29","212-368-0090","Grocery Store",40.813092,-73.939201,"24  W 135th St New York, NY 10037","Open",,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+"Fine Fare",3718,,"2020-05-29","212-368-0090","Grocery Store",40.813092,-73.939201,"24  W 135th St New York, NY 10037","Open",,,,,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "City Fresh Market",3719,,"2020-05-29","212-281-1201","Grocery Store",40.812359,-73.941619,"448 Malcolm X Blvd New York, NY 10037","Open",,"Yes","FREE DELIVERY WITH A $50 MINIMUM PURCHASE; GO TO THE WEBSITE, PLACE YOUR ORDER ONLINE, AND THEN CALL THE STORE TO CONFIRM THE ORDER
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Pioneer Supermarket",3720,,"2020-05-29","212-862-0239","Grocery Store",40.82324,-73.937397,"2541 Adam Clayton Powell Blvd New York, NY 10039","Open",,"Yes","DELIVERY AVAILABLE WITHIN WALKING DISTANCE FOR $5 WITH $50 MINIMUM PURCHASE WHEN YOU CALL THE STORE
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "Super Foodtown",3721,,"2020-05-29","212-281-3158","Grocery Store",40.822701,-73.942752,"300 W 145th St New York, NY 10039","Open",,"Yes","DELIVERY IS POSSIBLE AT SELECT LOCATIONS; SEE THIS MAP; APPLICABLE FEES VARY BY LOCATION
-",,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
+",,,,"Grocery Store/Supermarket","2020-06-15T20:53:30.000Z",,
 "el barrio hardware",3722,,"2020-05-30","212-860-5053","Hardware Store",40.790101,-73.94612,"1876 3rd Ave New York, NY 10029","Open",,,,"Monday-Friday 10-6pm, Saturday 10-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "hakimi hardware",3723,,"2020-05-30","917-388-3592","Hardware Store",40.79823,-73.940172,"2128 3rd ave New York, NY 10035","Open",,,,"Monday-Saturday 9-6:30 Sunday 10-5:30pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "hardware ny",3724,,"2020-05-30","212-534-3030","Hardware Store",40.78986,-73.943407,"
 2035 2ND AVE New York, NY 10029","Open",,,,"Monday- Saturday 10-4pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "j&m hardware & houseware",3725,,"2020-05-30","212-722-4243","Hardware Store",40.795243,-73.941769,"196 E 112th St New York, NY 10029","Open",,,,"Monday-Saturday 9am-7pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "NHS Hardware",3726,,"2020-05-30","212-360-6548","Hardware Store",40.801185,-73.935203,"2383 2nd Ave New York, NY 10035","Open",,,,"Monday-Friday 8am-6:30pm, Saturday 9am-6pm, Sunday 10am-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "nhs hardware",3727,,"2020-05-30","917-475-1472","Hardware Store",40.818828,-73.940638,"2413 adam clayton powell New York,  NY 10030","Open",,,,"Monday-Saturday 9-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "sma garden hardware inc",3728,,"2020-05-30","212-831-2000","Hardware Store",40.797542,-73.939633,"206E EAST 116TH New York, NY 10029","Open",,,,"Monday- Saturday 10-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "third ave hardware",3729,,"2020-05-30","212-289-7402","Hardware Store",40.792383,-73.943745,"1959 3rd Avenue New York, NY 10029","Open",,,,"Monday-Saturday 9-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "urban garden center",3730,,"2020-05-30","646-872-3991","Hardware Store",40.799365,-73.943143,"1640 park ave New York, NY 10035","Open","Yes","No","CLICK HERE FOR VEGETABLE AND HERB PLANT AVAILABILITY
 ","Monday-Friday 12pm-6pm, Offering curbside Monday-Saturday 10am-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "gensis hardware & locks",3731,,"2020-05-30","212-926-5172","Hardware Store",40.823509,-73.952988,"3447 boadway New York, NY 10031","Open",,,,"Monday- Saturday 9-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "hardware houseware variety",3732,,"2020-05-30","212-283-2541","Hardware Store",40.828252,-73.937523,"272 w 154th st New York, NY 10039","Open",,,,"Monday-Saturday 9 A.M.-6 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Mega building supply",3733,,"2020-05-30","212-776-0900","Hardware Store",40.821958,-73.939314,"201 w 145th st New York, NY 10039","Open",,,,"Monday-Friday 8 A.M.-7 P.M., Saturday CLOSED, Sunday 10 A.M.-3 P.M
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "mushtari hardware",3734,,"2020-05-30","212-996-5544","Hardware Store",40.807231,-73.943448,"31 w 125th ave New York, NY 10039","Open",,,,"Monday-Saturday 10 A.M.-6 P.M
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "nhs hardware",3735,,"2020-05-30","212-234-1341","Hardware Store",40.822382,-73.953843,"3405 broadway New York, NY 10031","Open",,,,"Monday- Saturday 9-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "sugar hill hardware",3736,,"2020-05-30","212-926-0525","Hardware Store",40.826144,-73.949077,"529 w 145th st New York, NY 10031","Open",,,,"9-4pm Monday-Friday
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "true value discount llc",3737,,"2020-05-30","212-662-8783","Hardware Store",40.810599,-73.950511,"2346 frederick douglass blvd New York, NY 10027","Open",,,,"Monday-Saturday 9:30 AM-6 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "united hardware",3738,,"2020-05-30","212-666-7778","Hardware Store",40.804556,-73.954969,"2160 frederick douglass blvd","Open","No","No",,"Monday-Friday 8 A.M.-7 P.M., Saturday & Sunday 10 A.M.-7 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "2117 8th Avenue Laundromat",3739,,"2020-05-30","212-866-4553","Laundromat, Cleaners",40.803521,-73.956407,"2117 8th Avenue New York, NY 10026","Open","No","No",,"Monday-Sunday 8:30 A.M.-4 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Baby Girl's Bubbles & Cleane",3740,,"2020-05-30","212-662-1080","Laundromat, Cleaners",40.806394,-73.953556,"2212 Frederick Douglas  New York, NY 10026","Open","Yes","Yes",,"Monday-Sunday 6 A.M.-10 P.M,, OFFERS PICK UP/DELIVERY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Derek's Laundromat",3741,,"2020-05-30","212-870-0001","Laundromat, Cleaners",40.766378,-73.978999,"59 St Nicholas  New York, NY 10026","Open","No","No","wash, dry fold only
 ","Monday-Sunday 7 A.M.-7 P.M., WASH, DRY, FOLD ONLY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Epanema Laundry",3742,,"2020-05-30","212-665-7409","Laundromat, Cleaners",40.79939,-73.952057,"25 Malcom X Blvd  New York, NY 10026","Open","No","No","drop-off only
 ","Monday-Sunday 8 A.M.-4 P.M., DROP-OFF ONLY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Express Cleaners Inc",3743,,"2020-05-30","212-281-3611","Laundromat, Cleaners",40.812359,-73.941619,"458 Malcom X Blvd New York, NY 10037","Open","Yes","Yes",,"MON-SAT 8 A.M -6 P.M., SUN CLOSED, OFFERS PICK UP/DELIVERY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Lee Wash & Dry Laundromat",3744,,"2020-05-30","212-866-1109","Laundromat, Cleaners",40.803046,-73.951446,"143 w 116th st  New York, NY 10026","Open","No","No",,"Monday-Sunday 8 A.M.-9 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundomat",3745,,"2020-05-30","212-939-9413","Laundromat, Cleaners",40.82422,-73.951602,"3476 Broadway New York, NY 10031","Open","No","No",,"Monday- Sunday, 9-10pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundomat",3746,,"2020-05-30","212-876-7600","Laundromat, Cleaners",40.803775,-73.95455,"242 W 116th street  New York, NY 10026","Open","Yes","Yes",,"Monday-Sunday 8 A.M.-10 P.M., PICKUP/DELIVERY Monday-Sunday 12 P.M.-9 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundomat",3747,,"2020-05-30","646-861-0273","Laundromat, Cleaners",40.817874,-73.938641,"617 Lenox Avenue New York, NY 10037","Open","Yes","Yes",,"Monday-Sunday 8 A.M.-11 P.M. (8 P.M. LAST WASH), OFFERS PICK UP/DELIVERY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundomat",3748,,"2020-05-30","646-484-6205","Laundromat, Cleaners",40.813078,-73.94213,"465 Malcolm X New York, NY 10037","Open","Yes","Yes",,"Monday-Sunday 8AM-10PM, OFFERS PICK UP/DELIVERY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundomat",3749,,"2020-05-30","212-281-0919","Laundromat, Cleaners",40.810162,-73.937755,"2096 madison Avenue New York, NY 10037","Open","No","No",,"Monday-Sunday 8 A.M.-10 P.M
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Mondayarch Cleaners",3750,,"2020-05-30","917-974-0702","Laundromat, Cleaners",40.825492,-73.951802,"3507 Broadway New York, NY 10031","Open","No","No",,"Monday-Sunday, 10-4pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Old Broadway Laundromat",3751,,"2020-05-30","212-876-7600","Laundromat, Cleaners",40.829968,-73.948361,"3643 Broadway Ave New York, NY 10031","Open","No","No",,"Monday- Sunday, 8am-10pm (last wash 8pm)
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "One Day Laundromat",3752,,"2020-05-30","212-510-8599","Laundromat, Cleaners",40.831219,-73.947542,"3675 Broadway New York, NY 10031","Open","No","No",,"Monday- Sunday, 7-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Super Plan laundromat",3753,,"2020-05-30","212-234-8760","Laundromat, Cleaners",40.825633,-73.943145,"754A St Nicholas New York, NY 10031","Open","No","No",,"Monday-Sunday, 7-8pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Tags Laundry Inc",3754,,"2020-05-30","212-283-8247","Laundromat, Cleaners",40.82749,-73.945569,"1793 Amsterdam Ave New York, NY 10031","Open","No","No",,"24 hours, Monday-Sunday
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Tenda 8 Laundromat",3755,,"2020-05-30","646-912-9872","Laundromat, Cleaners",40.825477,-73.948946,"518 W 145th St New York, NY 10031","Open","No","No",,"Monday- Sunday 8-8pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Wash & Fold Laundromat",3756,,"2020-05-30","212-281-0919","Laundromat, Cleaners",40.810162,-73.937755,"24 E 132nd St New York, NY 10037","Open","Yes","Yes",,"Monday-Sunday 8 A.M.-10 P.M., DELIVERY/PICK UP 10:30 A.M.-8 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Atmi Junior Laundromat",3757,,"2020-05-30","212-534-2350","Laundromat, Cleaners",40.789351,-73.947805,"158 E 102nd St New York, NY 10029","Open","No","No",,"24 hours
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Bubble Pop Laundromat & Dry Cleaners",3758,,"2020-05-30","212-388-1511","Laundromat, Cleaners",40.795979,-73.936032,"354 E 116th St New York, NY 10029","Open","No","No",,"Monday-Sunday 7:30- 8pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Family Laundromat",3759,,"2020-05-30","646-490-4240","Laundromat, Cleaners",40.820526,-73.94402,"301 W 141 St New York,  NY 10030","Open","No","No",,"Monday-Sunday 8-8pm, last was 6p
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Harlem Spin City Laundromat",3760,,"2020-05-30","212-427-7746","Laundromat, Cleaners",40.802634,-73.936186,"2275 3rd Avenue New York, NY 10035","Open","Yes","Yes",,"Monday-Sunday  8am -8pm, 6pm last wash
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Laundry Basket of First Avenue",3761,,"2020-05-30","212-410-9475","Laundromat, Cleaners",40.797525,-73.934648,"2295 1st Avenue New York, NY 10035","Open","No","No",,"24/7 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Laundry Works",3762,,"2020-05-30","646-852-6918","Laundromat, Cleaners",40.814835,-73.941985,"123 W 135th St New York,  NY 10030","Open","Yes","Yes","pick up/delivery
 ","Monday - Sunday 9-9pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundomat",3763,,"2020-05-30","212-234-4334","Laundromat, Cleaners",40.815881,-73.939989,"545 Malcolm X New York,  NY 10030","Open","Yes",,"pick up, 12-9 Monday-Sunday
 ","Monday- Sunday, 8-10pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Miss Bubble Laundromat",3764,,"2020-05-30","212-722-2356","Laundromat, Cleaners",40.803243,-73.945082,"1492 5th Avenue New York, NY 10035","Open","Yes","Yes",,"Monday- Sunday 8am-9pm, last wash 8pm, Delivery 4pm-9pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Oxford Cleaners",3765,,"2020-05-30","212-876-6638","Laundromat, Cleaners",40.800975,-73.943844,"1791 Madison ave New York, NY 10035","Open","No","No",,"Monday, Wednesday, Thurs, Saturday 8am-1pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Soap N Suds Laundry mat",3766,,"2020-05-30","212-348-8903","Laundromat, Cleaners",40.789183,-73.9408,"359 E 105th St New York, NY 10035","Open","No","No",,"Monday-Sunday, 7am-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Soap N Suds Laundry mat",3767,,"2020-05-30","212-348-8903","Laundromat, Cleaners",40.789183,-73.9408,"359 E 105th St New York, NY 10029","Open","No","No",,"7- 6:30pm (last wash) Monday-Sunday
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Sparkle Laundry Services",3768,,"2020-05-30","347-470-4453","Laundromat, Cleaners",40.789862,-73.947786,"1625 Lexington Ave New York, NY 10029","Open","No","No",,"Monday- Sunday 8am-8:00pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Super King Laundromat Inc",3769,,"2020-05-30","212-281-3538","Laundromat, Cleaners",40.816,-73.946091,"266 W 135th St New York,  NY 10030","Open","No","No",,"Monday-Sunday, 8:30-3:30 last wash, 6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Susdy Water Dry Cleaners",3770,,"2020-05-30","646-692-9505","Laundromat, Cleaners",40.818518,-73.941912,"2394 Adam Clayton Powell New York,  NY 10030","Open","Yes","Yes","pick up/delivery Monday-Saturday 9-5p
 ","Monday-Sunday 8-8pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Taino Towers Dry Cleaners",3771,,"2020-05-30","212-348-5312","Laundromat, Cleaners",40.801779,-73.936669,"2253 3rd Avenue New York, NY 10035","Open","No","No",,"Monday- Sunday, 9 -4:30pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Three-Fiften Laundromat",3772,,"2020-05-30","212-828-0680","Laundromat, Cleaners",40.795863,-73.948264,"1638 Madison Ave New York, NY 10029","Open","No","No",,"Monday-Sunday 8-5:30pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "VM Cleaners",3773,,"2020-05-30","212-694-9190","Laundromat, Cleaners",40.819447,-73.940209,"160 W 142nd St New York,  NY 10030","Open","No","No",,"Monday - Sunday 8-5;30pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "139 pharmacy",3774,,"2020-05-30","212-283-5549","Pharmacy/Drug Store",40.822575,-73.953704,"3415 broadway New York, NY 10031","Open",,,,"Monday-Friday 10-5:30pm Saturday 10-4pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "145th St Pharmacy",3775,,"2020-05-30","212-281-3480","Pharmacy/Drug Store",40.822701,-73.942752,"300 w 145th st New York, NY 10039","Open",,,,"Monday-Friday 10 A.M.-7 P.M., Saturday 10 A.M.-5 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "2000 ninos pharmacy inc",3776,,"2020-05-30","212-491-2910","Pharmacy/Drug Store",40.830588,-73.948,"3663 broadway  New York, NY 10031","Open",,,,"Monday-Friday 10-7pm Saturday 10-5pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "8th ave pharmacy",3777,,"2020-05-30","212-234-3900","Pharmacy/Drug Store",40.826224,-73.939185,"2830 frederick douglass blvd New York, NY 10039","Open",,,,"Monday-Friday 9 A.M.-6 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "abc drugs",3778,,"2020-05-30","212-491-2501","Pharmacy/Drug Store",40.809933,-73.937221,"2095 madison ave New York, NY 10037","Open",,,,"Monday-Friday 10 A.M.-5 P.M., Saturday 10 A.M.-4 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Amsterdam Pharmacy",3779,,"2020-05-30","212-234-7959","Pharmacy/Drug Store",40.826005,-73.946665,"1743 amstedam ave New York, NY 10031","Open",,,,"Monday-Saturday 10-6pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "brother pharmacy & surgicals",3780,,"2020-05-30","212-281-2345","Pharmacy/Drug Store",40.816702,-73.939551,"565 lenox ave New York, NY 10037","Open",,,,"Monday-Friday 9 A.M.-7 P.M., Saturday 10 A.M.-7 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Daliza Pharmacy",3781,,"2020-05-30","212-281-9410","Pharmacy/Drug Store",40.824806,-73.952195,"5612 3481 Broadway New York, NY 10031","Open",,,,"Monday-Friday 10-4pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Drug Shoppe Llc",3782,,"2020-05-30","212-222-3652","Pharmacy/Drug Store",40.801961,-73.956798,"2074 Frederick Douglass Blvd  New York, NY 10026","Open",,"Yes","Bronx only
 ","Monday-Friday 9 A.M.-6 P.M., Saturday 10-4 P.M., DELIVERY TO BRONX ONLY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "dunbar pharmacy",3783,,"2020-05-30","212-234-4493","Pharmacy/Drug Store",40.824842,-73.937393,"2580 adam clayton powell New York, NY 10039","Open",,,,"Monday-Friday 10 A.M.-6 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Embassy Pharmacy",3784,,"2020-05-30","212-690-1331","Pharmacy/Drug Store",40.829941,-73.943894,"1873 amsterdam avenue New York, NY 10031","Open",,,,"Monday-Friday 9-6pm Saturday 9-4pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Fein's ethcal pharmacy corp",3785,,"2020-05-30","212-862-3315","Pharmacy/Drug Store",40.827745,-73.948844,"3586 broadway New York, NY 10031","Open",,,,"Monday-Friday 10-7pm Saturday 10-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Harlem community pharmacy",3786,,"2020-05-30","212-926-7500","Pharmacy/Drug Store",40.815291,-73.93916,"67 w 137th st New York, NY 10037","Open",,,,"Monday-Friday 9 A.M.-6 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "harlem rx",3787,,"2020-05-30","212-666-8100","Pharmacy/Drug Store",40.801989,-73.950196,"102 w 116th st  New York, NY 10026","Open",,,,"Monday-Friday 9 A.M.-7 P.M., Saturday 9 A.M.-5 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Lenda Pharmacy",3788,,"2020-05-30","212-368-3130","Pharmacy/Drug Store",40.821882,-73.954183,"3397 broadway ave New York, NY 10031","Open",,,,"Monday-Friday 9-4:45pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "lenox drug corp",3789,,"2020-05-30","212-281-7408","Pharmacy/Drug Store",40.815081,-73.940582,"523 malcolm x blvd New York, NY 10037","Open",,,,"Monday-Friday 10 A.M.-8 P.M., Saturday 9 A.M.-8 P.M
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Lenox Terrace Drug",3790,,"2020-05-30","212-234-2050","Pharmacy/Drug Store",40.812989,-73.938951,"20 W 135th St New York, NY 10037","Open",,"Yes",,"Monday-Friday 8:30 A.M.-5 P.M., Saturday 9 A.M.-5 P.M., OFFERS DELIVERY
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "life pharmacy",3791,,"2020-05-30","212-694-5700","Pharmacy/Drug Store",40.813261,-73.941962,"471 Lenox Ave","Open",,,,"Monday-Friday 10 A.M.-7 P.M., Saturday 10 A.M.-5 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Malcolm Pharmacy",3792,,"2020-05-30","212-722-1550","Pharmacy/Drug Store",40.803276,-73.948285,"160 Malcolm X Blvd  New York, NY 10026","Open",,,,"Monday-Friday 9:30 A.M.-7 P.M., Saturday 10 A.M.-4 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Mishkin's Drug Store",3793,,"2020-05-30","212-926-2801","Pharmacy/Drug Store",40.825203,-73.948,"1714 Amsterdam Ave New York, NY 10031","Open",,,,"Monday-Friday 9-5pm Saturday 10-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Natural Essential & Wellness",3794,,"2020-05-30","212-222-0437","Pharmacy/Drug Store",40.805383,-73.9541,"280 W 118th st  New York, NY 10026","Open",,,,"Monday-Friday 9 A.M.-9 P.M., Saturday 10 A.M.-6 P.M., Sunday 10 A.M.-7 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "palace pharmacy",3795,,"2020-05-30","212-283-2136","Pharmacy/Drug Store",40.815822,-73.940033,"543 macolm x blvd New York, NY 10037","Open",,,,"Monday-Friday 10 A.M.-7 P.M., Saturday 11 A.M.-5 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "rangel pharmacy",3796,,"2020-05-30","212-283-7200","Pharmacy/Drug Store",40.832244,-73.935747,"159-12 harlem river dr New York, NY 10039","Open",,,,"Monday-Friday 9 A.M.-6 P.M., Saturday 10 A.M.-4 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "riverside pharmacy",3797,,"2020-05-30","212-491-5500","Pharmacy/Drug Store",40.82872,-73.937259,"2920 frederick douglass blvd New York, NY 10039","Open",,,,"Monday-Friday 10 A.M.-7 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Smart Aid Pharmacy",3798,,"2020-05-30","212-234-4299","Pharmacy/Drug Store",40.824113,-73.944251,"708 St Nicholas New York, NY 10031","Open",,,,"Monday-Friday 9-5pm, Saturday 10-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Sugar Hill pharmacy",3799,,"2020-05-30","212-281-8300","Pharmacy/Drug Store",40.825278,-73.943464,"742 st nicholas ave New York, NY 10031","Open",,,,"Monday-Friday 8:30-6p, Saturday 10-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Upper Manhattan Pharmacy",3800,,"2020-05-30","(212) 694-6666","Pharmacy/Drug Store",40.825731,-73.947578,"1728 amsterdam ave New York, NY 10031","Open",,,,"Monday- Friday 9-5:30pm Saturday closed
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "7th Ave Pharmacy",3801,,"2020-05-30","212-862-0505","Pharmacy/Drug Store",40.820223,-73.940613,"2454 Adam Clayton Powell Blvd New York,  NY 10030","Open",,,,"hours may vary, call ahead
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Blake Pharmacy",3802,,"2020-05-30","212-369-1350","Pharmacy/Drug Store",40.789852,-73.946272,"1868 3rd Avenue New York, NY 10029","Open","No","Yes","free delivery, blister packing 
 ","Monday- fr 9-7pm Saturday 9-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Charlie Pharmacy",3803,,"2020-05-30","646-596-7028","Pharmacy/Drug Store",40.789617,-73.94284,"2034 2nd Ave New York, NY 10029","Open","No","Yes","delivery
 ","Monday - Friday 10-6pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Drug Stop Pharmacy",3804,,"2020-05-30","212-410-0509","Pharmacy/Drug Store",40.790372,-73.942299,"2062 2nd Ave New York, NY 10029","Open","No","Yes","delivery
 ","Monday - Friday 9-6:30pm Saturday 10-3pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "East End Pharmacy",3805,,"2020-05-30","212-831-1730","Pharmacy/Drug Store",40.797501,-73.939508,"210 E 116th St New York, NY 10029","Open",,,,"Monday-Friday 10-6pm, Saturday 10-4pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "east harlem pharmacy",3806,,"2020-05-30","212-987-3600","Pharmacy/Drug Store",40.800731,-73.935387,"2371 2nd ave New York, NY 10035","Open",,,,"Monday-Friday 9am-5pm, Saturday 10am-3pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Ecogreen Pharmacy",3807,,"2020-05-30","212-369-3084","Pharmacy/Drug Store",40.794537,-73.949068,"1600 Madison Ave New York, NY 10029","Open",,,,"Monday- Friday 9-6pm Saturday 10-2pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Enexia Pharmacy",3808,,"2020-05-30","212-995-9400","Pharmacy/Drug Store",40.80336,-73.935623,"200 E 125th St New York, NY 10035","Open",,,,"Monday-Friday 9 A.M.-8 P.M., Saturday 9 A.M.-6 P.M., Sunday 9 A.M.-4 P.M.
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Fifth Ave Pharmacy",3809,,"2020-05-30","646-822-0909","Pharmacy/Drug Store",40.797623,-73.948164,"1325 5th Ave New York, NY 10029","Open",,,"call first b/c hours may vary
 ","Monday-Friday 10-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "gothman pharmacy ",3810,,"2020-05-30","212-289-7800","Pharmacy/Drug Store",40.802382,-73.937151,"2258 3rd ave New York, NY 10035","Open",,,,"Monday-Friday 10am-6:30pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "healthcare pharmacy",3811,,"2020-05-30","212-369-5555","Pharmacy/Drug Store",40.801429,-73.943463,"1825 madison ave New York, NY 10035","Open",,,,"Monday-Friday 8am-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "healthworld rx",3812,,"2020-05-30","646-861-0888","Pharmacy/Drug Store",40.798548,-73.936268,"2310 2nd ave New York, NY 10035","Open",,,,"Monday-Friday 10am-5pm Saturday 10am-3pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Isla Drug Stores",3813,,"2020-05-30","212-427-7123","Pharmacy/Drug Store",40.793963,-73.943312,"1994 3rd Ave New York, NY 10029","Open",,,,"Monday Friday 10-4pm, Saturday closed 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Lex Care Pharmacy",3814,,"2020-05-30","212-722-5222","Pharmacy/Drug Store",40.788644,-73.949269,"1570 Lexington Ave New York, NY 10029","Open",,,,"Monday-Friday 10-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "lexington ave pharmacy",3815,,"2020-05-30","212-426-5555","Pharmacy/Drug Store",40.804221,-73.937762,"2056 lexington ave New York, NY 10035","Open",,,,"Monday-Friday 930-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Marcia Pharmacy",3816,,"2020-05-30","212-534-1939","Pharmacy/Drug Store",40.791557,-73.943889,"217 E 106th St New York, NY 10029","Open",,,"delivery
 ","Monday- Friday 8:30-5pm Saturday 8-4pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Maxwell Pharmacy",3817,,"2020-05-30","212-534-7700","Pharmacy/Drug Store",40.792802,-73.946162,"1706 lexington ave New York, NY 10029","Open",,,,"Monday-thu 9-7pm Friday 9-5pm Sunday 10-5
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "METRORX",3818,,"2020-05-30","212-831-1222","Pharmacy/Drug Store",40.78784,-73.944096,"300 e 102nd ave New York, NY 10029","Open",,,"delivery
 ","Monday- Friday 8-5pm, Saturday 9-5
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Norwood Pharmacy",3819,,"2020-05-30","212-234-6611","Pharmacy/Drug Store",40.815182,-73.947116,"2490 Frederick Douglass Blvd New York,  NY 10030","Open",,,,"Monday-Friday 10-3pm Saturday closed
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Preferred Pharmacy",3820,,"2020-05-30","212-722-0000","Pharmacy/Drug Store",40.79994,-73.946526,"3 e 115th st New York, NY 10029","Open",,,"delivery
 ","Monday- Friday 10-7pm Saturday 10-6pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Raysol Drugs",3821,,"2020-05-30","212-348-2117","Pharmacy/Drug Store",40.798488,-73.94204,"1870 Lexington Ave New York, NY 10029","Open",,,"delivery
 ","Monday- - Friday 9-5pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Red Ribbon Pharmacy Inc",3822,,"2020-05-30","(646) 901-4699","Pharmacy/Drug Store",40.821333,-73.939741,"2484 Adam Clayton Powell Jr New York,  NY 10030","Open",,,,"Monday-Friday 9:30-7pm Saturday 10-3pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Rite Hope Pharmacy Inc",3823,,"2020-05-30","212-348-3341","Pharmacy/Drug Store",40.800975,-73.943844,"1793 Madison Ave New York, NY 10035","Open",,"Yes",,"Monday- Friday 9-7pm, Saturday 10-6pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "riverton pharmacy",3824,,"2020-05-30","212-283-8300","Pharmacy/Drug Store",40.804863,-73.936853,"2085 lexington ave New York, NY 10035","Open",,"Yes",,"Monday- Friday 9am -6pm Saturday 10am-3pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Ror Madison Pharmacy",3825,,"2020-05-30","212-369-0700","Pharmacy/Drug Store",40.795863,-73.948264,"1636 Madison Ave New York, NY 10029","Open",,,,"Monday- Friday 9-5pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "S B pharmacy",3826,,"2020-05-30","212-534-2849","Pharmacy/Drug Store",40.805327,-73.941223,"27 e 124th New York, NY 10035","Open",,,,"Monday-Friday 10am -3pm 
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "S&J Laundromat, Tailoring",3827,,"2020-05-30","212-996-0400","Pharmacy/Drug Store",40.795788,-73.946306,"83 110th St New York, NY 10029","Open",,,"pickup/delivery after 6pm
 ","8-5:30pm Monday-Sunday
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Second Ave Pharmacy",3828,,"2020-05-30","212-876-8300","Pharmacy/Drug Store",40.796548,-73.938499,"249 E 115th St New York, NY 10029","Open",,,"prescription & over the counter meds only
 ","Monday- Saturday 10-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "tower drugs/lexington pharmacy",3829,,"2020-05-30","212-369-6500","Pharmacy/Drug Store",40.802838,-73.936775,"2272 3rd ave New York, NY 10035","Open",,,,"Monday-Friday 9-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Upper Madison Drugs",3830,,"2020-05-30","212-427-4382","Pharmacy/Drug Store",40.794268,-73.949636,"1590 Madison Ave New York, NY 10029","Open",,,,"Monday-Friday 9-5pm , 10-3pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
 "Uptown Care Pharmacy",3831,,"2020-05-30","212) 221-8355","Pharmacy/Drug Store",40.796643,-73.937666,"2254 2nd Ave New York, NY 10029","Open",,,,"Monday-Friday 10-5pm
-",,"2020-06-15T20:53:30.000Z",,
+",,,,"2020-06-15T20:53:30.000Z",,
