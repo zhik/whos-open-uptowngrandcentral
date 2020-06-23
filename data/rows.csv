@@ -6,18 +6,18 @@
 "Accra Restaurant",3472,"Ayana H","2020-05-20","203-407-8000","Restaurants/Bars",40.807646,-73.948864,"2065 Adam Clayton Powell Jr Blvd New York, NY 10027 ","Open","Yes","Yes","GRUBHUB, UBER EATS
 ","Monday-Sunday 10am-8pm
 ",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
-"Africa Kine",3473,"Ayana H","2020-05-20","212-666-9400","Restaurants/Bars",40.81415,-73.944109,"2267 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Grubhub, Doordash, Uber Eats
+"Africa Kine",3473,"Ayana H","2020-06-23","212-666-9400","Restaurants/Bars",40.81415,-73.944109,"2267 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Grubhub, Doordash, Uber Eats
 ","Monday-Sunday 10am-10pm
-",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z","no",,
 "Alison Restaurant",3474,"Ayana H","2020-05-20","646-876-1054","Restaurants/Bars",40.790948,-73.946939,"1651 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","but now open! oRDER VIA PHONE AND CHECK INSTAGRAM FOR SPECIALS including buy two burgers and get a free bottle of wine
 ","Monday- Sunday 4pm-9:30pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Amor Cubano",3475,"Ayana H","2020-06-23","212-996-1220","Restaurants/Bars",40.794755,-73.942661,"2018 Third Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, delivery.com, ezcater
 ","Monday - Sunday 12 p.m.- 10 p.m.	
 ",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
-"Amy Ruth's",3476,"Ayana H","2020-05-20","212-280-8779","Restaurants/Bars",40.802494,-73.950048,"113 W 116th St New York, NY 10026 ","Open","Yes","Yes","grubhub, doordash
-","Monday-Sunday 11am-9pm
-",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+"Amy Ruth's",3476,"Ayana H","2020-06-23","212-280-8779","Restaurants/Bars",40.802494,-73.950048,"113 W 116th St New York, NY 10026 ","Open","Yes","Yes","grubhub, doordash
+","Monday-Sunday 11 a.m. -8 p.m.
+",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z","no",,
 "Anchor Wine Bar",3477,"Ayana H","2020-05-20","212-234-3048","Restaurants/Bars",40.825271,-73.950886,"3508 Broadway, New York, NY 10031 `","Open","Yes","Yes","grubhub, postmates
 ","Monday-Sunday 4pm-9pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -157,8 +157,9 @@ with 50 percent off wine list
 ","Tuesday-Thursday 3pm-8pm, Friday 3pm-9pm, Saturday 12pm-4pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "East Harlem Bottling Co",3527,"Ayana H","2020-06-23","212-534-2626","Restaurants/Bars",40.792262,-73.945712,"153 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","in-house
-","Monday-Friday 8:30am-4pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+","### Monday - Friday 4 p.m. -11 p.m, Saturday 12 p.m. -11 p.m., Sun 12 p.m.-10 p.m.
+
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "El Barrista Cafe",3528,"Ayana H","2020-05-20","718-413-0191","Restaurants/Bars",40.799166,-73.939544,"2154 Third Avenue, New York, NY 10035 ","Open","Yes","Yes",,"Monday-Sunday 7:30 a.m.-3 p.m
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "El Kallejon",3529,"Ayana H","2020-06-23","646-649-4795","Restaurants/Bars",40.798501,-73.93883,"209 East 117th Street, New York, NY 10035 ","Open","Yes","No",,"Tuesday - Sunday 2	p.m.-8 p.m
@@ -188,9 +189,9 @@ with 50 percent off wine list
 "Floridita",3538,"Ayana H","2020-05-20","212-662-0090","Restaurants/Bars",40.818002,-73.960985,"2276 Twelfth Avenue, New York, NY 10027 ","Open","Yes","Yes","grubhub,  postmates, delivery.com
 ","Monday-Friday 11am-9pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
-"Frenchy Coffee",3539,"Ayana H","2020-05-20","646-891-0088","Restaurants/Bars",40.789955,-73.948189,"129 East 102nd Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, uber eats
+"Frenchy Coffee",3539,"Ayana H","2020-06-23","646-891-0088","Restaurants/Bars",40.789955,-73.948189,"129 East 102nd Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, uber eats
 ","Monday-Friday 8am-1pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "Fruces Juice Bar",3540,"Ayana H","2020-05-20","646-861-3279","Restaurants/Bars",40.81824,-73.953098,"1496 Amsterdam Avenue, New York, NY 10031 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB, UBER EATS, POSTMATES, DOORDASH, DELIVERY.COM, buy-one, get-one-free drinks
 ","Monday-Friday 8am-5pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -271,9 +272,9 @@ grubhub, chownow, postmates
 "Jin Ramen",3568,"Ayana H","2020-05-20","646-559-2862","Restaurants/Bars",40.815486,-73.959056,"3183 Broadway, New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, doordash, get 10 percent off in-house orders with the code supportjin
 ","Monday-Sunday 11am-3:30PM, 5PM-10PM
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
-"Joy Burger Bar",3569,"Ayana H","2020-05-20","212-289-6222","Restaurants/Bars",40.788454,-73.948722,"1567 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, GRUBHUB, new in-house delivery zone from 79th to 116th streets, fifth avenue to the fdr
+"Joy Burger Bar",3569,"Ayana H","2020-06-23","212-289-6222","Restaurants/Bars",40.788454,-73.948722,"1567 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, GRUBHUB, new in-house delivery zone from 79th to 116th streets, fifth avenue to the fdr
 ","Monday-Sunday 11am-10pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "L.A. Sweets",3570,"Ayana H","2020-05-20","646-964-5855","Restaurants/Bars",40.804213,-73.947621,"192 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","grubhub, uber eats, postmates
 ",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "La Avenida",3571,"Ayana H","2020-05-20","212-828-2247","Restaurants/Bars",40.795731,-73.935963,"2247 First Avenue, New York, NY 10029 ","Open","Yes","No",,"Tuesday - Saturday
@@ -281,8 +282,11 @@ grubhub, chownow, postmates
 "La Chula",3572,"Ayana H","2020-06-23","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
 ","Wednesday - Sunday 12pm-8 p.m
 ",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
-"La Fonda Boricua",3573,"Ayana H","2020-05-20","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
-",,true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+"La Fonda Boricua",3573,"Ayana H","2020-06-23","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
+","### Saturday 5 p.m. -9 p.m., Sunday 1 p.m. 
+### -7 p.m
+
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "La Lechonera",3574,"Ayana H","2020-05-20","212-996-1972","Restaurants/Bars",40.802697,-73.934096,"256 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","uber eats
 ","Monday- Sunday 7am-7pm
 ",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -363,10 +367,11 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 ",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Mess Hall Harlem",3602,"Ayana H","2020-05-20","646-692-3092","Restaurants/Bars",40.80584,-73.953997,"2194 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","Yes",,,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Mojo Mousse Bar",3603,"Ayana H","2020-05-20","917-331-3278","Restaurants/Bars",40.788454,-73.948722,"177 East 100th Street, New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, SWEETIST
-","Tuesday-Saturday 12-5pm, Sunday 10am-5pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
-"Mountain Bird",3604,"Ayana H","2020-05-20","607-358-6125","Restaurants/Bars",40.7938,-73.939753,"2162 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","seamless, now offering a new izakaya menu with el barrio flair, check for updates on instagram
-","Monday 12pm -6 P.M
+","### Tuesday - Saturday 12 p.m.-6 p.m., Sunday 10 a.m.-6 p.m.
+
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
+"Mountain Bird",3604,"Ayana H","2020-06-23","607-358-6125","Restaurants/Bars",40.7938,-73.939753,"2162 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","seamless, now offering a new izakaya menu with el barrio flair, check for updates on instagram
+","Monday - Sunday 12 p.m. - 6 p.m.
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Naughty Crab",3605,"Ayana H","2020-05-20","646-726-4446","Restaurants/Bars",40.789737,-73.947864,"1621 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house
 ","Thurs-Friday 5pm-9pm, Saturday-Sunday 2pm-9pm
@@ -429,9 +434,9 @@ now back open! 10% off orders via the website
 ",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Roland's",3628,"Ayana H","2020-05-20","646-682-7810","Restaurants/Bars",40.81203,-73.95077,"303 West 127th Street, New York, NY 10027 ","Open","Yes","Yes","Grubhub
 ",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
-"Ruby's Vintage",3629,"Ayana H","2020-05-20","646-454-9899","Restaurants/Bars",40.81694,-73.943021,"2340 Adam Clayton Powell Boulevard, New York, NY 10030 ","Open","Yes","Yes","Gubhub, check out their new offerings including family meals, plus get 10% off when you place your order by calling the restaurant
+"Ruby's Vintage",3629,"Ayana H","2020-06-23","646-454-9899","Restaurants/Bars",40.81694,-73.943021,"2340 Adam Clayton Powell Boulevard, New York, NY 10030 ","Open","Yes","Yes","Gubhub, check out their new offerings including family meals, plus get 10% off when you place your order by calling the restaurant
 ","Monday-Sunday 4pm-10pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "Safari",3630,"Ayana H","2020-05-20","646-964-4252","Restaurants/Bars",40.803851,-73.953414,"219 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","postmates
 ","Monday-Sunday 12pm-8pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -533,9 +538,10 @@ New York, NY 10029
 "The Handpulled Noodle",3663,"Ayana H","2020-05-20","917-262-0213","Restaurants/Bars",40.828326,-73.948634,"3600 Broadway New York, NY 10031 ","Open","Yes","Yes","in-house, grubhub, postmates, uber Eats
 ","Sunday-Thursday 11:30am-11pm, Friday & Saturday 11:30am-midnight 
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
-"The Lexington Social",3664,"Ayana H","2020-05-20","646-820-7013","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029 ","Open","Yes","No","grubhub, delivery.com, bottles of wine are $15 with food purchase
-","Monday-Saturday 2pm-9pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+"The Lexington Social",3664,"Ayana H","2020-06-23","646-820-7013","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","grubhub, delivery.com, bottles of wine are $15 with food purchase
+","### Monday - Friday 12 p.m.- 10 P.M., Saturday- Sunday 1 p.m. -10 p.m
+	
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "The Rochard NYC",3665,"Ayana H","2020-05-20","212-722-8959","Restaurants/Bars",40.786761,-73.950649,"1504 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","Grubhub
 ","Wednesday-Saturday 3pm-8pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -900,5 +906,7 @@ New York, NY 10029
 ",,,,"2020-06-22T23:22:48.000Z","yes",,
 "Kiosk",3834,,"2020-06-23",,"Restaurants/Bars",,,"80 East 116th Street New York, NY 10029","Open","Yes","Yes",,"Monday -Saturday 11 a.m. .-10:30 p.m.
 ",,,,"2020-06-23T18:14:00.000Z","yes",,
-,3835,,,,,,,,,,,,,,,,"2020-06-23T18:23:37.000Z",,,
+"Angel of Harlem",3835,,"2020-06-23","212-316-0350","Restaurants/Bars",,,"2272 Frederick Douglass Blvd, New York, NY 10027","Open","Yes","Yes",,"Friday-Sunday 4 p. m. -11 p. m.	 	
+",,,,"2020-06-23T18:23:37.000Z","yes",,
 ,3836,,,,,,,,,,,,,,,,"2020-06-23T18:25:23.000Z",,,
+,3837,,,,,,,,,,,,,,,,"2020-06-23T20:07:44.000Z",,,
