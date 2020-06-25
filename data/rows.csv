@@ -141,10 +141,10 @@ with 50 percent off wine list
 ",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Dear Mama Coffee",3521,"Ayana H","2020-05-20","929-279-2225","Restaurants/Bars",40.792214,-73.940676,"308 East 109th Street, New York, NY 10029 ","Open","Yes","Yes","in house, now offering the dear mama market selling grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves, plus order-ahead roast chickens and chocolate-chip cookie dough; also sponsoring a buy-a-meal-for-a-neighbor where you can donate a meal for a neighbor in need or coffee for a frontline worker
 ","Monday - Sunday 7am-7pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "Dear Mama Coffee",3522,"Ayana H","2020-05-20",,"Restaurants/Bars",40.816993,-73.958486,"611 West 129th Street, New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, postmates, doordash, uber eats; sponsoring a buy-a-meal-for-a-neighbor where you can donate a meal for a neighbor in need or coffee for a frontline worker, plus now offering the dear mama market selling grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves
 ","Monday-Friday 8am-7pm, Saturday & Sunday 10am-7pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "Dinosaur BBQ",3523,"Ayana H","2020-05-20","212-694-1777","Restaurants/Bars",40.818002,-73.960985,"700 West 125th Street, New York, NY 10027 ","Open","Yes","Yes","doordash
 ","Monday-Sunday 11am-9pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -348,7 +348,9 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 ","Monday-Sunday 10am-6pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
 "Malii Thai Kitchen",3595,"Ayana H","2020-05-20","212-289-2789","Restaurants/Bars",40.789438,-73.942973,"2028 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, uber eats, caviar, delivery.com,
-",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
+","### Sunday-Thursday 11:30 a.m.-10 p.m., Friday-Saturday 
+11:30 a.m.-10:30 p.m. 
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,
 "Mamasushi",3596,"Ayana H","2020-05-20","646-682-7879","Restaurants/Bars",40.827444,-73.950199,"3569 Broadway, New York, NY 10031 ","Open","Yes","Yes","n-house, grubhub, doordash, postmates, uber eats, get 20% off your first order and 10% off future orders when you use the mamasushi app
 ","Monday-Sunday 1pm-10pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,
@@ -913,4 +915,6 @@ now back open! 10% off orders via the website
 ",,,,"2020-06-23T18:25:23.000Z","yes",,
 "The Grange Bar & Eatery",3837,,"2020-06-23","212-491-1635","Restaurants/Bars",,,"1635  Amersterdam Ave New York, NY 10031 ","Open","Yes","Yes",,"Monday-Friday 4 p.m.-11 p.m. Saturday & Sunday 10-11 p.m. 
 ",,,,"2020-06-23T20:07:44.000Z","yes",,
-,3838,,,,,,,,,,,,,,,,"2020-06-23T21:59:04.000Z",,,
+"Lion Lion Bar",3838,,"2020-06-25","917-262-0517","Restaurants/Bars",,,"332 East 116th Street, New York, NY 10029","Open","Yes","Yes",,"Wednesday-Sunday 2-11 p.m.
+",,,,"2020-06-23T21:59:04.000Z","yes",,
+,3839,,,,,,,,,,,,,,,,"2020-06-25T13:38:59.000Z",,,
