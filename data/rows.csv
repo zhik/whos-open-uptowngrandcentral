@@ -14,7 +14,7 @@
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
 "Amor Cubano",3475,"Ayana H","2020-06-23","212-996-1220","Restaurants/Bars",40.794755,-73.942661,"2018 Third Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, delivery.com, ezcater
 ","Monday - Sunday 12 p.m.- 10 p.m.	
-",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes","Yes",,,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
 "Amy Ruth's",3476,"Ayana H","2020-06-23","212-280-8779","Restaurants/Bars",40.802494,-73.950048,"113 W 116th St New York, NY 10026 ","Open","Yes","Yes","grubhub, doordash
 ","Monday-Sunday 11 a.m. -8 p.m.
 ",true,true,"Restaurant/Bar","2020-06-15T20:53:30.000Z","no",,,,
@@ -28,7 +28,7 @@
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
 "Au Jus Oklahoma BBQ",3480,"Ayana H","2020-05-20","212-360-7200","Restaurants/Bars",40.788582,-73.948637,"1569 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house
 ","Monday-Sunday 12-9pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,"Yes",,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "Babbalucci",3481,"Ayana H","2020-06-23","646-918-6572","Restaurants/Bars",40.808945,-73.945051,"331 Malcolm X Boulevard, New York, NY 10027 ","Open","No","Yes","In House, Grubhub 
 ","Monday- Sunday 4 p.m.-10 p.m.
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
@@ -164,7 +164,7 @@ with 50 percent off wine list
 "El Barrista Cafe",3528,"Ayana H","2020-05-20","718-413-0191","Restaurants/Bars",40.799166,-73.939544,"2154 Third Avenue, New York, NY 10035 ","Open","Yes","Yes",,"Monday-Sunday 7:30 a.m.-3 p.m
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "El Kallejon",3529,"Ayana H","2020-06-23","646-649-4795","Restaurants/Bars",40.798501,-73.93883,"209 East 117th Street, New York, NY 10035 ","Open","Yes","No",,"Tuesday - Sunday 2	p.m.-8 p.m
-",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes","Yes",,,
 "El Nuevo Caridad",3530,"Ayana H","2020-05-20","212-860-8187","Restaurants/Bars",40.796909,-73.938154,"2257 Second Avenue, New York, NY 10029 ","Open",,,"grubhub
 ",,true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "El Paso Cafe",3531,"Ayana H","2020-05-20","917-472-7289","Restaurants/Bars",40.790909,-73.947499,"1642 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","Call First on Sundays, GRUBHUB
@@ -932,4 +932,6 @@ now back open! 10% off orders via the website
 ",,,,"2020-06-28T00:54:50.000Z",,,,,
 "El Agave",3845,,"2020-07-04","(646) 368-1856","Restaurants/Bars",,,"218 East 116th Street, New York, NY 10029","Open","Yes",,,"Daily, 12-8 p.m.	
 ",,,,"2020-06-28T01:08:29.000Z","yes",,,,
-,3846,,,,,,,,,,,,,,,,"2020-07-04T10:30:23.000Z",,,,,
+"Travertino",3846,,"2020-07-04","(646) 864-0040","Restaurants/Bars",,,"118 East 116th Street, New York, NY 10029","Open","Yes","Yes",,"Tuesday-Sunday, 12:30-8:30 p.m.	
+",,,,"2020-07-04T10:30:23.000Z","yes",,,,
+,3847,,,,,,,,,,,,,,,,"2020-07-04T12:25:52.000Z",,,,,
