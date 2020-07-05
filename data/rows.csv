@@ -106,7 +106,7 @@ with 50 percent off wine list
 ",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "Cascalote Latin Bistro",3508,"Ayana H","2020-05-20","646-351-6574,","Restaurants/Bars",40.792681,-73.940623,"2126 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","order on the restaurant website with code fcovid19 and get 10% off all orders included alcohol
 ","Thursday 4pm-9pm, Friday-Saturday 2pm-9pm, Sunday 2pm-8pm
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes","Yes",,,
 "Champignon Cafe",3509,"Ayana H","2020-05-20","212-987-1700","Restaurants/Bars",40.787337,-73.953721,"1389 Madison Avenue, New York, NY 10029 ","Open","Yes","Yes","In house
 ","Monday- Friday 7am-9pm, Saturday-Sunday 7am-7pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
@@ -319,7 +319,7 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 ","Monday- Saturday 8am-7pm, Sunday 8am-9pm, Sunday 8am-9pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "Lexington Pizza Parlour & Harlem Baking Co",3584,"Ayana H","2020-05-20",,"Restaurants/Bars",40.789283,-73.948734,"1590 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, GRUBHUB, uber eats, delivery.com, slice, 15% off first order placed via restaurant website
-",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,"Yes",,,
+",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "Lighthouse Fish Market",3585,"Ayana H","2020-05-20","212-203-2241","Restaurants/Bars",40.814307,-73.948507,"2451 Frederick Douglass Boulvard, New York, NY 10027 ","Open","Yes","No","accepting walk-in orders only (no phone orders)
 ",,,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "Lloyd's Carrot Cake & Joosed by Lloyd's",3586,"Ayana H","2020-05-20",,"Restaurants/Bars",40.787867,-73.949174,"1553 Lexington Ave New York, NY 10029 ","Open","Yes","No",,"Monday- Friday 9am-5pm, Saturday-Sunday 10am-4pm
@@ -332,7 +332,7 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
 "Lulu & Teddy's Cafe/Bar",3589,"Ayana H","2020-06-23","917-261-5615","Restaurants/Bars",40.794297,-73.940173,"2171 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB
 ","Monday - Friday  12pm- 8 P.M
-",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes","Yes",,,
+",true,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
 "Lyn-Genet's Kitchen",3590,"Ayana H","2020-05-20","646-590-0554","Restaurants/Bars",40.824477,-73.95236,"3473 Broadway, New York, NY 10031 ","Open","Yes","Yes","in house
 ","Wednesday & Sundays 4pm-7pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
@@ -558,7 +558,7 @@ now back open! 10% off orders via the website
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
 "Uptown Veg ",3669,"AH","2020-06-23","212-987-2660","Restaurants/Bars",40.805461,-73.940583,"52 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","grubhub (PREFERRED), POSTMATES, uber eats
 ","Monday- Sunday 10 a.m.-8 p.m.
-",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes",,,,
+",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z","yes","Yes",,,
 "Vinateria",3670,"Ayana H","2020-05-20","212-662-8462","Restaurants/Bars",40.806649,-73.954074,"2211 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","Yes","in house, grubhub
 ","Monday-Thursday 4pm-9pm, Friday 4pm-10pm, Saturday 12pm-10pm, Sunday 12pm-9pm
 ",,,"Restaurant/Bar","2020-06-15T20:53:30.000Z",,,,,
@@ -918,7 +918,7 @@ now back open! 10% off orders via the website
 "Lion Lion Bar",3838,,"2020-06-25","917-262-0517","Restaurants/Bars",,,"332 East 116th Street, New York, NY 10029","Open","Yes","Yes",,"Wednesday-Sunday 2-11 p.m.
 ",,,,"2020-06-23T21:59:04.000Z","yes",,,,
 "Ricardo Steakhouse",3839,,"2020-06-27","(212) 289-5895","Restaurants/Bars",,,"2145 Second Avenue, New York, NY 10029","Open","Yes","No",,"Sunday-Wednesday 11 a.m.-11 p.m., Thursday-Saturday 11 a.m.-Midnight
-",,,,"2020-06-25T13:38:59.000Z","yes",,,,"Outdoor dining is by reservation only.
+",,,,"2020-06-25T13:38:59.000Z","yes","Yes",,,"Outdoor dining is by reservation only.
 "
 "Le Petit Parisien",3840,,"2020-06-27","(917) 262-0524","Restaurants/Bars",,,"151 Malcolm X Boulevard, New York, NY 10027","Open","Yes","Yes",,"Daily 8 a.m.-7:30 p.m
 ",,,,"2020-06-27T23:36:52.000Z","yes",,,,
@@ -931,7 +931,7 @@ now back open! 10% off orders via the website
 "Catch & Grill ",3844,,"2020-06-27","646-448-4162","Restaurants/Bars",,,"342 Malcolm X Boulevard, New York, NY 10027","Open","Yes",,,"Monday-Thursday, 11 a.m.-Midnight, Friday-Sunday 11 a.m.-2 a.m.	
 ",,,,"2020-06-28T00:54:50.000Z",,,,,
 "El Agave",3845,,"2020-07-04","(646) 368-1856","Restaurants/Bars",,,"218 East 116th Street, New York, NY 10029","Open","Yes",,,"Daily, 12-8 p.m.	
-",,,,"2020-06-28T01:08:29.000Z","yes",,,,
+",,,,"2020-06-28T01:08:29.000Z","yes","Yes",,,
 "Travertino",3846,,"2020-07-04","(646) 864-0040","Restaurants/Bars",,,"118 East 116th Street, New York, NY 10029","Open","Yes","Yes",,"Tuesday-Sunday, 12:30-8:30 p.m.	
 ",,,,"2020-07-04T10:30:23.000Z","yes",,,,
 ,3847,,,,,,,,,,,,,,,,"2020-07-04T12:25:52.000Z",,,,,
