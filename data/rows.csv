@@ -917,8 +917,8 @@ now back open! 10% off orders via the website
 ",,,,"2020-06-15T20:53:30.000Z",,,,
 "Uptown Care Pharmacy",3831,,"2020-05-30","212) 221-8355","Pharmacy/Drug Store",40.796643,-73.937666,"2254 2nd Ave New York, NY 10029","Open",,,,"Monday-Friday 10-5pm
 ",,,,"2020-06-15T20:53:30.000Z",,,,
-"Daps",3832,"UGC website","2020-07-27","(212) 408-3277","Restaurants/Bars",40.805726,-73.9399,"63 East 125th Street, New York, NY 10035","Open","Yes","Yes",,"Tuesday -Saturday 10 A.M.-7 P.M
-",,,"no","2020-06-22T22:48:57.000Z",,,,
+"Daps",3832,"UGC website","2020-08-03","(212) 408-3277","Restaurants/Bars",40.805726,-73.9399,"63 East 125th Street, New York, NY 10035","Open","Yes","Yes",,"Tuesday -Saturday 10 A.M.-7 P.M
+",,,"yes","2020-06-22T22:48:57.000Z",,,,
 "Cassava House",3833,"UGC Website","2020-07-27","646-928-0219","Restaurants/Bars",40.796333,-73.934818,"2270 1st Avenue New York, NY 10035","Open","Yes","Yes",,"Monday-Friday 8 A.M.-4 P.M., Saturday-Sunday 8 A.M.-3 P.M
 ",,,"yes","2020-06-22T23:22:48.000Z",,,,
 "Kiosk",3834,"UGC Website","2020-07-27",,"Restaurants/Bars",40.799187,-73.943789,"80 East 116th Street New York, NY 10029","Open","Yes","Yes",,"Monday -Saturday 11 a.m. .-10:30 p.m.
@@ -996,8 +996,8 @@ now back open! 10% off orders via the website
 ",,,"no","2020-07-28T03:24:12.000Z",,,,
 "Pipo's Mexican ",3867,"UGC website","2020-07-27","(212) 828-2382","Restaurants/Bars",40.799377,-73.939908,"166 East 118th New York, NY 10035","Open","Yes","Yes",,"Monday 10 a.m. - midnight 	
 ",,,"no","2020-07-28T03:29:08.000Z",,,,
-"El Aguila",3868,"UGC website","2020-07-27","(212) 426-2221","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029","Open","Yes","Yes",,"Monday - Sunday 11 a.m. - 9 p.m.
-",,,"no","2020-07-28T03:30:15.000Z",,,,
+"El Aguila",3868,"UGC website","2020-08-03","(212) 426-2221","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Ave New York, NY 10029","Open","Yes","Yes",,"Monday - Sunday 11 a.m. - 9 p.m.
+",,,"yes","2020-07-28T03:30:15.000Z",,,,
 "Don Paco Lopez Panaderia",3869,"UGc website","2020-07-27","917-868-7802","Restaurants/Bars",40.798115,-73.939591,"2129 3rd Avenue New York, NY 10035","Open","Yes","No",,"Monday - Saturday 6 a.m. - 7 p.m. Sunday 8 a.m. - 2 p.m.
 
 ",,,"no","2020-07-28T03:33:45.000Z",,,,
@@ -1060,3 +1060,17 @@ now back open! 10% off orders via the website
 ",,,,"2020-07-28T12:47:08.000Z",,,,
 "Xclusive Arrivals",3899,"UGC website","2020-07-28","(646) 267-6535","Independent Retail",40.792926,-73.940392,"2132 Second Avenue New York, NY 10029","Open",,,,"Monday - Sunday 3 p.m. - 6 p.m.
 ",,,,"2020-07-28T12:49:55.000Z",,,,
+"El Nuevo Carribeno Restaurant",3900,"CK","2020-08-03","(212) 831-3906","Restaurants/Bars",,,"1675 Lexington Avenue New York, NY 10029","Open","Yes","Yes","Grubhub	
+","Monday - Sunday 12 p.m. - 8 p.m.	
+",,,"yes","2020-08-04T04:02:49.000Z",,,,
+"Boca Prime Steakhouse",3901,"CK","2020-08-03","(646) 998-4256","Restaurants/Bars",,,"2257 First Avenue New York, NY 10029","Open","Yes","Yes","Uber eats, Grubhub	
+","Monday - Saturday 3 p.m. - 11 p.m. Sunday 12 p.m. - 11 p.m.	
+",,,"yes","2020-08-04T04:04:39.000Z",,,,
+"SpaHa Soul",3902,"CK","2020-08-04","(347) 463-7387","Restaurants/Bars",,,"2294 Second Avenue New York, NY 10035","Open","Yes",,,"Saturday & Sunday	
+",,,"yes","2020-08-04T04:06:30.000Z",,"Call in advance for reservation
+
+",,
+"El Paso Taqueria",3903,"CK","2020-08-04","(212) 996-1739","Restaurants/Bars",,,"64 East 97th Street New York, NY 10029","Open","Yes",,"grubhub, uber eats	
+","Monday - Sunday 11 a.m. - 9: 45 p.m.	
+",,,"yes","2020-08-04T04:08:11.000Z",,,,
+"Andy's Restaurant",3904,,"2020-08-04",,,,,"2262 Third Avenue ",,,,,,,,,"2020-08-04T04:09:44.000Z",,,,
