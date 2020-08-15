@@ -531,7 +531,7 @@ now back open! 10% off orders via the website
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,
 "Teranga",3655,"UGC website","2020-07-27",,"Restaurants/Bars",40.7963,-73.949103,"1280 Fifth Avenue, New York, NY 10029","Open","Yes","Yes","in-house, grubhub, uber eats, caviar, doordash
 ","Tuesday-Sunday 12pm-8pm
-",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,
+",true,true,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,
 "Thai BKK",3656,"Ayana H","2020-05-20","212-860-2270","Restaurants/Bars",40.802815,-73.938332,"2021 Lexington Avenue, New York, NY 10035 ","Open","Yes","Yes","grubhub, postmates
 ",,,,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,
 "Thai Super",3657,"UGC website","2020-07-27","646-559-1339","Restaurants/Bars",40.799377,-73.939908,"166 East 118th Street, New York, NY 10035 ","Open","Yes","Yes","in-house, grubhub, uber eats
@@ -809,11 +809,11 @@ now back open! 10% off orders via the website
 "Drug Shoppe Llc",3782,,"2020-05-30","212-222-3652","Pharmacy/Drug Store",40.801961,-73.956798,"2074 Frederick Douglass Blvd  New York, NY 10026","Open",,"Yes","Bronx only
 ","Monday-Friday 9 A.M.-6 P.M., Saturday 10-4 P.M., DELIVERY TO BRONX ONLY
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"dunbar pharmacy",3783,,"2020-05-30","212-234-4493","Pharmacy/Drug Store",40.824842,-73.937393,"2580 adam clayton powell New York, NY 10039","Open",,,,"Monday-Friday 10 A.M.-6 P.M.
+"Dunbar Pharmacy",3783,,"2020-05-30","212-234-4493","Pharmacy/Drug Store",40.824842,-73.937393,"2580 adam clayton powell New York, NY 10039","Open",,,,"Monday-Friday 10 A.M.-6 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Embassy Pharmacy",3784,,"2020-05-30","212-690-1331","Pharmacy/Drug Store",40.829941,-73.943894,"1873 amsterdam avenue New York, NY 10031","Open",,,,"Monday-Friday 9-6pm Saturday 9-4pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"Fein's ethcal pharmacy corp",3785,,"2020-05-30","212-862-3315","Pharmacy/Drug Store",40.827745,-73.948844,"3586 broadway New York, NY 10031","Open",,,,"Monday-Friday 10-7pm Saturday 10-6pm
+"Fein's ",3785,,"2020-05-30","212-862-3315","Pharmacy/Drug Store",40.827745,-73.948844,"3586 broadway New York, NY 10031","Open",,,,"Monday-Friday 10-7pm Saturday 10-6pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Harlem community pharmacy",3786,,"2020-05-30","212-926-7500","Pharmacy/Drug Store",40.815291,-73.93916,"67 w 137th st New York, NY 10037","Open",,,,"Monday-Friday 9 A.M.-6 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -858,7 +858,7 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "East End Pharmacy",3805,,"2020-05-30","212-831-1730","Pharmacy/Drug Store",40.797501,-73.939508,"210 E 116th St New York, NY 10029","Open",,,,"Monday-Friday 10-6pm, Saturday 10-4pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"east harlem pharmacy",3806,,"2020-05-30","212-987-3600","Pharmacy/Drug Store",40.800731,-73.935387,"2371 2nd ave New York, NY 10035","Open",,,,"Monday-Friday 9am-5pm, Saturday 10am-3pm
+"East Harlem Pharmacy",3806,,"2020-05-30","212-987-3600","Pharmacy/Drug Store",40.800731,-73.935387,"2371 2nd ave New York, NY 10035","Open",,,,"Monday-Friday 9am-5pm, Saturday 10am-3pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Ecogreen Pharmacy",3807,,"2020-05-30","212-369-3084","Pharmacy/Drug Store",40.794537,-73.949068,"1600 Madison Ave New York, NY 10029","Open",,,,"Monday- Friday 9-6pm Saturday 10-2pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -1070,7 +1070,7 @@ now back open! 10% off orders via the website
 ",true,true,,"yes","2020-08-04T04:06:30.000Z","Call in advance for reservation
 
 ",,
-"El Paso Taqueria",3903,"CK","2020-08-04","(212) 996-1739","Restaurants/Bars",,,"64 East 97th Street New York, NY 10029","Open","Yes",,"grubhub, uber eats	
+"El Paso Taqueria",3903,"CK","2020-08-15","(212) 996-1739","Restaurants/Bars",,,"64 East 97th Street New York, NY 10029","Open","Yes",,"grubhub, uber eats	
 ","Monday - Sunday 11 a.m. - 9: 45 p.m.	
 ",true,,,"yes","2020-08-04T04:08:11.000Z",,,
 "Andy's Restaurant",3904,"CK","2020-08-04","(212) 860-2614","Restaurants/Bars",,,"2262 Third Avenue New York, NY 10035","Open","Yes","Yes","grubhub
