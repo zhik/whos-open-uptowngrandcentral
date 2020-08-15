@@ -289,8 +289,8 @@ grubhub, chownow, postmates
 ",,,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,
 "La Avenida",3571,"Ugc website","2020-07-27","212-828-2247","Restaurants/Bars",40.795731,-73.935963,"2247 First Avenue, New York, NY 10029 ","Open","Yes","No",,"Tuesday - Saturday
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,
-"La Chula",3572,"Ugc website","2020-07-27","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
-","Wednesday - Sunday 12pm-8 p.m
+"La Chula",3572,"Ugc website","2020-08-15","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
+","Tuesday-Sunday 12 p.m.-8 p.m
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,
 "La Fonda Boricua",3573,"UGC website","2020-07-27","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
 ","### Saturday 5 p.m. -9 p.m., Sunday 1 p.m. 
@@ -472,12 +472,12 @@ now back open! 10% off orders via the website
 "Sapoara Wood-Roasting Grill & Bar",3635,"UGC website","2020-07-27","212- 256-0199","Restaurants/Bars",40.796157,-73.934986,"2262 First Avenue, New York, NY 10035 ","Open","Yes","Yes","grubhub, ez cater, free chicken soup for anyone who needs it (until supplies run out)
 ","Monday, Wednesday-Saturday 12-8 p.m.
 ",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,
-"Seasibed Vegan",3636,"Ayana H","2020-05-20","212-222-0092","Restaurants/Bars",40.800677,-73.95281,"55 St Nicholas Avenue, New York, NY 10026 ","Open","Yes",,"(reduced hours, and may change so check instagram): uber eats, postmates
+"Seasoned Vegan",3636,"Ayana H","2020-05-20","212-222-0092","Restaurants/Bars",40.800677,-73.95281,"55 St Nicholas Avenue, New York, NY 10026 ","Open","Yes",,"(reduced hours, and may change so check instagram): uber eats, postmates
 ","Wednesday-Friday 5pm-10pm, Saturday 1pm-10pm, Sunday 4pm-9pm
 ",true,true,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,
-"Seregenti Teas & Spices",3637,"Ayana H","2020-05-20",,"Restaurants/Bars",40.805779,-73.941304,"22 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","in-house
-","Wednesday -Saturday 12pm -4 p.m.
-",true,true,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,
+"Seregenti Teas & Spices",3637,"Ayana H","2020-08-15","(212) 837-1057","Restaurants/Bars",40.805779,-73.941304,"22 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","in-house
+","Thursday-Saturday 1-5 p.m.
+",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,
 "Settepani",3638,"UGC Website","2020-07-27","646-964-5855","Restaurants/Bars",40.804306,-73.947583,"196 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","caviar
 ","Friday -Sunday 4 p.m.-11 p.m.
 ",true,true,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,
@@ -690,16 +690,16 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "NHS Hardware",3726,,"2020-05-30","212-360-6548","Hardware Store",40.801185,-73.935203,"2383 2nd Ave New York, NY 10035","Open",,,,"Monday-Friday 8am-6:30pm, Saturday 9am-6pm, Sunday 10am-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"nhs hardware",3727,,"2020-05-30","917-475-1472","Hardware Store",40.818828,-73.940638,"2413 adam clayton powell New York,  NY 10030","Open",,,,"Monday-Saturday 9-6pm
+"NHS Hardware",3727,,"2020-05-30","917-475-1472","Hardware Store",40.818828,-73.940638,"2413 adam clayton powell New York,  NY 10030","Open",,,,"Monday-Saturday 9-6pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"sma garden hardware inc",3728,,"2020-05-30","212-831-2000","Hardware Store",40.797542,-73.939633,"206E EAST 116TH New York, NY 10029","Open",,,,"Monday- Saturday 10-6pm
+"SMA Garden Hardware",3728,,"2020-05-30","212-831-2000","Hardware Store",40.797542,-73.939633,"206E EAST 116TH New York, NY 10029","Open",,,,"Monday- Saturday 10-6pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "third ave hardware",3729,,"2020-05-30","212-289-7402","Hardware Store",40.792383,-73.943745,"1959 3rd Avenue New York, NY 10029","Open",,,,"Monday-Saturday 9-6pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Urban Garden Center",3730,,"2020-07-28","646-872-3991","Hardware Store",40.799365,-73.943143,"1640 Park ave New York, NY 10035","Open","Yes","No","CLICK HERE FOR VEGETABLE AND HERB PLANT AVAILABILITY
 ","Monday-Friday 12pm-6pm, Offering curbside Monday-Saturday 10am-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"gensis hardware & locks",3731,,"2020-05-30","212-926-5172","Hardware Store",40.823509,-73.952988,"3447 boadway New York, NY 10031","Open",,,,"Monday- Saturday 9-5pm
+"gensis hardware & locks",3731,,"2020-05-30","212-926-5172","Hardware Store",40.823509,-73.952988,"3447 Broadway, New York, NY 10031","Open",,,,"Monday- Saturday 9-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "hardware houseware variety",3732,,"2020-05-30","212-283-2541","Hardware Store",40.828252,-73.937523,"272 w 154th st New York, NY 10039","Open",,,,"Monday-Saturday 9 A.M.-6 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -707,9 +707,9 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Mushtari Hardware",3734,,"2020-05-30","212-996-5544","Hardware Store",40.807231,-73.943448,"31 w 125th ave New York, NY 10039","Open",,,,"Monday-Saturday 10 A.M.-6 P.M
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"nhs hardware",3735,,"2020-05-30","212-234-1341","Hardware Store",40.822382,-73.953843,"3405 broadway New York, NY 10031","Open",,,,"Monday- Saturday 9-6pm
+" NHS Hardware",3735,,"2020-05-30","212-234-1341","Hardware Store",40.822382,-73.953843,"3405 broadway New York, NY 10031","Open",,,,"Monday- Saturday 9-6pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"sugar hill hardware",3736,,"2020-05-30","212-926-0525","Hardware Store",40.826144,-73.949077,"529 w 145th st New York, NY 10031","Open",,,,"9-4pm Monday-Friday
+"Sugar Hill Hardware",3736,,"2020-05-30","212-926-0525","Hardware Store",40.826144,-73.949077,"529 w 145th st New York, NY 10031","Open",,,,"9-4pm Monday-Friday
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "true value discount llc",3737,,"2020-05-30","212-662-8783","Hardware Store",40.810599,-73.950511,"2346 frederick douglass blvd New York, NY 10027","Open",,,,"Monday-Saturday 9:30 AM-6 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -825,7 +825,7 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Lenox Terrace Drug",3790,,"2020-05-30","212-234-2050","Pharmacy/Drug Store",40.812989,-73.938951,"20 W 135th St New York, NY 10037","Open",,"Yes",,"Monday-Friday 8:30 A.M.-5 P.M., Saturday 9 A.M.-5 P.M., OFFERS DELIVERY
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"life pharmacy",3791,,"2020-05-30","212-694-5700","Pharmacy/Drug Store",40.813261,-73.941962,"471 Lenox Ave","Open",,,,"Monday-Friday 10 A.M.-7 P.M., Saturday 10 A.M.-5 P.M.
+"Life Pharmacy",3791,,"2020-05-30","212-694-5700","Pharmacy/Drug Store",40.813261,-73.941962,"471 Lenox Ave","Open",,,,"Monday-Friday 10 A.M.-7 P.M., Saturday 10 A.M.-5 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Malcolm Pharmacy",3792,,"2020-05-30","212-722-1550","Pharmacy/Drug Store",40.803276,-73.948285,"160 Malcolm X Blvd  New York, NY 10026","Open",,,,"Monday-Friday 9:30 A.M.-7 P.M., Saturday 10 A.M.-4 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -841,7 +841,7 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Smart Aid Pharmacy",3798,,"2020-05-30","212-234-4299","Pharmacy/Drug Store",40.824113,-73.944251,"708 St Nicholas New York, NY 10031","Open",,,,"Monday-Friday 9-5pm, Saturday 10-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"Sugar Hill pharmacy",3799,,"2020-05-30","212-281-8300","Pharmacy/Drug Store",40.825278,-73.943464,"742 st nicholas ave New York, NY 10031","Open",,,,"Monday-Friday 8:30-6p, Saturday 10-5pm
+"Sugar Hill Pharmacy",3799,,"2020-05-30","212-281-8300","Pharmacy/Drug Store",40.825278,-73.943464,"742 st nicholas ave New York, NY 10031","Open",,,,"Monday-Friday 8:30-6p, Saturday 10-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Upper Manhattan Pharmacy",3800,,"2020-05-30","(212) 694-6666","Pharmacy/Drug Store",40.825731,-73.947578,"1728 amsterdam ave New York, NY 10031","Open",,,,"Monday- Friday 9-5:30pm Saturday closed
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -867,7 +867,7 @@ now back open! 10% off orders via the website
 "Fifth Ave Pharmacy",3809,,"2020-05-30","646-822-0909","Pharmacy/Drug Store",40.797623,-73.948164,"1325 5th Ave New York, NY 10029","Open",,,"call first b/c hours may vary
 ","Monday-Friday 10-6pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"gothman pharmacy ",3810,,"2020-05-30","212-289-7800","Pharmacy/Drug Store",40.802382,-73.937151,"2258 3rd ave New York, NY 10035","Open",,,,"Monday-Friday 10am-6:30pm
+"gothman pharmacy ",3810,,"2020-05-30","212-289-7800","Pharmacy/Drug Store",40.802382,-73.937151,"2258 Third Avenue, New York, NY 10035","Open",,,,"Monday-Friday 10am-6:30pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "healthcare pharmacy",3811,,"2020-05-30","212-369-5555","Pharmacy/Drug Store",40.801429,-73.943463,"1825 madison ave New York, NY 10035","Open",,,,"Monday-Friday 8am-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
@@ -877,7 +877,7 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Lex Care Pharmacy",3814,,"2020-05-30","212-722-5222","Pharmacy/Drug Store",40.788644,-73.949269,"1570 Lexington Ave New York, NY 10029","Open",,,,"Monday-Friday 10-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"lexington ave pharmacy",3815,,"2020-05-30","212-426-5555","Pharmacy/Drug Store",40.804221,-73.937762,"2056 lexington ave New York, NY 10035","Open",,,,"Monday-Friday 930-5pm
+"Lexington Ave Pharmacy",3815,,"2020-05-30","212-426-5555","Pharmacy/Drug Store",40.804221,-73.937762,"2056 lexington ave New York, NY 10035","Open",,,,"Monday-Friday 930-5pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Marcia Pharmacy",3816,,"2020-05-30","212-534-1939","Pharmacy/Drug Store",40.791557,-73.943889,"217 E 106th St New York, NY 10029","Open",,,"delivery
 ","Monday- Friday 8:30-5pm Saturday 8-4pm
@@ -903,7 +903,7 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "Ror Madison Pharmacy",3825,,"2020-05-30","212-369-0700","Pharmacy/Drug Store",40.795863,-73.948264,"1636 Madison Ave New York, NY 10029","Open",,,,"Monday- Friday 9-5pm 
 ",,,,,"2020-06-15T20:53:30.000Z",,,
-"S B pharmacy",3826,,"2020-05-30","212-534-2849","Pharmacy/Drug Store",40.805327,-73.941223,"27 e 124th New York, NY 10035","Open",,,,"Monday-Friday 10am -3pm 
+"S B Pharmacy",3826,,"2020-05-30","212-534-2849","Pharmacy/Drug Store",40.805327,-73.941223,"27 e 124th New York, NY 10035","Open",,,,"Monday-Friday 10am -3pm 
 ",,,,,"2020-06-15T20:53:30.000Z",,,
 "S&J Laundromat, Tailoring",3827,,"2020-05-30","212-996-0400","Pharmacy/Drug Store",40.795788,-73.946306,"83 110th St New York, NY 10029","Open",,,"pickup/delivery after 6pm
 ","Monday-Sunday 8 a.m.- 5:30 p.m.
@@ -985,13 +985,13 @@ now back open! 10% off orders via the website
 "Rokc",3863,"UGC website","2020-07-27","(332) 217-8755","Restaurants/Bars",40.823651,-73.952092,"3452 Broadway New York, NY 10031","Open","Yes","Yes",,"### Monday - Sunday 2 p.m, -9 p.m.	
 
 ",,,,"yes","2020-07-28T03:05:44.000Z",,,
-"Jahlookova ",3864,"UGC website","2020-07-27","(646) 907-0000","Restaurants/Bars",40.805839,-73.940262,"51 E 125th St New York, NY 10035","Open","Yes","Yes",,"Monday - Sunday 9 a.m. - 7 p.m.	
+"Jahlookova ",3864,"UGC website","2020-07-27","(646) 907-0000","Restaurants/Bars",40.805839,-73.940262,"51 East 125th Street, New York, NY 10035","Open","Yes","Yes",,"Monday - Sunday 9 a.m. - 7 p.m.	
 ",true,true,,"no","2020-07-28T03:12:34.000Z","
 
 ",,
-"Ginjan Cafe",3865,"UGC website","2020-07-27",,"Restaurants/Bars",40.80539,-73.93927,"85 E 125th St New York, NY 10035","Open","Yes","No",,"Monday - Saturday 8 a.m.  - 2 p.m.	
+"Ginjan Cafe",3865,"UGC website","2020-07-27",,"Restaurants/Bars",40.80539,-73.93927,"85 East 125th Street, New York, NY 10035","Open","Yes","No",,"Monday - Saturday 8 a.m.  - 2 p.m.	
 ",true,true,,"no","2020-07-28T03:22:35.000Z",,,
-"Zaro's Family Bakery",3866,"UGC website","2020-07-27","(332) 213-2440","Restaurants/Bars",40.805145,-73.9385,"1825 Park New York, NY 10035","Open","Yes","Yes",,"### Monday -Friday 6 a.m.-2 p.m.	
+"Zaro's Family Bakery",3866,"UGC website","2020-07-27","(332) 213-2440","Restaurants/Bars",40.805145,-73.9385,"1825 Park New York, NY 10035","Closed","Yes","Yes",,"### Monday -Friday 6 a.m.-2 p.m.	
 
 ",,,,"no","2020-07-28T03:24:12.000Z",,,
 "Pipo's Mexican ",3867,"UGC website","2020-07-27","(212) 828-2382","Restaurants/Bars",40.799377,-73.939908,"166 East 118th New York, NY 10035","Open","Yes","Yes",,"Monday 10 a.m. - midnight 	
@@ -1052,7 +1052,8 @@ now back open! 10% off orders via the website
 ",true,true,,,"2020-07-28T12:41:58.000Z",,,
 "Raices Dominicanas Cigars",3894,"UGC website","2020-07-28","(212) 410-6824","Independent Retail",40.795618,-73.935336,"2250 1st Avenue New York, NY 10029","Open",,,,"Monday - Saturday 10 a.m. - 8 p.m.
 ",true,,,,"2020-07-28T12:43:14.000Z",,,
-"Serengeti Teas & Spices",3895,"UGC website","2020-07-28",,"Independent Retail",40.805779,-73.941304,"22 E 125th Street New York, NY 10035","Open",,,,,true,true,,,"2020-07-28T12:44:47.000Z",,,
+"Serengeti Teas & Spices",3895,"UGC website","2020-08-15","(212) 837-1057","Independent Retail",40.805779,-73.941304,"22 East 125th Street, New York, NY 10035","Open",,,,"Thursday-Saturday 1-5 p.m.
+",true,true,,,"2020-07-28T12:44:47.000Z",,,
 "Solestice",3896,"UGC website","2020-07-28","(212) 876-8088","Independent Retail",40.797508,-73.940022,"2115 Third Avenue New York, NY 10035","Open",,,,"Monday - Saturday 11 a.m. - 7 p.m.
 
 ",,,,,"2020-07-28T12:45:49.000Z",,,
@@ -1066,17 +1067,20 @@ now back open! 10% off orders via the website
 "Boca Prime Steakhouse",3901,"CK","2020-08-03","(646) 998-4256","Restaurants/Bars",,,"2257 First Avenue New York, NY 10029","Open","Yes","Yes","Uber eats, Grubhub	
 ","Monday - Saturday 3 p.m. - 11 p.m. Sunday 12 p.m. - 11 p.m.	
 ",,,,"yes","2020-08-04T04:04:39.000Z",,,
-"SpaHa Soul",3902,"CK","2020-08-04","(347) 463-7387","Restaurants/Bars",,,"2294 Second Avenue New York, NY 10035","Open","Yes",,,"Saturday & Sunday	
-",true,true,,"yes","2020-08-04T04:06:30.000Z","Call in advance for reservation
+"SpaHa Soul",3902,"CK","2020-08-15","(347) 463-7387","Restaurants/Bars",,,"2294 Second Avenue, New York, NY 10035","Open","Yes",,,"Tuesday-Sunday 5-11 p.m. (Reservations only; call in advance)	
 
-",,
+",true,true,,"yes","2020-08-04T04:06:30.000Z","Reservations only; call in advance.	
+
+",,"Reservations only; call in advance."
 "El Paso Taqueria",3903,"CK","2020-08-15","(212) 996-1739","Restaurants/Bars",,,"64 East 97th Street New York, NY 10029","Open","Yes",,"grubhub, uber eats	
-","Monday - Sunday 11 a.m. - 9: 45 p.m.	
+","Monday - Sunday 10 a.m. - 10 p.m.	
 ",true,,,"yes","2020-08-04T04:08:11.000Z",,,
 "Andy's Restaurant",3904,"CK","2020-08-04","(212) 860-2614","Restaurants/Bars",,,"2262 Third Avenue New York, NY 10035","Open","Yes","Yes","grubhub
 ","Monday - Saturday 6 a.m. - 5 p.m. Sunday 7 a.m. - 4 p.m. 
 ",,,,"yes","2020-08-04T04:09:44.000Z",,,
-"Kahlua's Cafe and Restaurant",3905,"CK","2020-08-04","(212) 348-0311","Restaurants/Bars",,,"2117 Third Avenue New York, NY 10029","Open","Yes",,,,true,,,"yes","2020-08-04T04:11:14.000Z",,,
+"Kahlua's ",3905,"CK","2020-08-15","(212) 348-0311","Restaurants/Bars",,,"2117 Third Avenue, New York, NY 10029","Open","Yes","Yes","In-house		
+","Monday-Thursday 11 a.m.-10 p.m., Friday-Sunday 11 a.m.-Midnight
+",true,,,"yes","2020-08-04T04:11:14.000Z",,,
 "Brother's Bakery & Cafe",3906,"CK","2020-08-04","(212) 641-0646","Restaurants/Bars",,,"2155 Second Avenue New York, NY 10029","Open","Yes","Yes","grubhub	
 ","Monday - Sunday 7 a.m. - 5 p.m.	
 ",true,,,"yes","2020-08-04T04:12:19.000Z",,,
@@ -1085,3 +1089,6 @@ now back open! 10% off orders via the website
 "MY NY Bakery Cafe",3908,"CK","2020-08-04","(212) 722-7383","Restaurants/Bars",,,"1565 Lexington Avenue New York, NY 10029","Open","Yes","Yes","grubhub
 ","Monday - Sunday 7 a.m. - 6:45 p.m.	
 ",true,,,"no","2020-08-04T04:14:39.000Z",,,
+"El Paso Restaurante",3909,"Carey","2020-08-15","646-590-8640","Restaurants/Bars",,,"123 East 110th Street, New York, NY 10029","Open","Yes","Yes",,"Daily, 11:30 a.m.-10 p.m.	
+",true,,,"yes","2020-08-15T14:12:26.000Z",,,
+,3910,,,,,,,,,,,,,,,,,"2020-08-15T14:14:33.000Z",,,
