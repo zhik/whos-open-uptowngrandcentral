@@ -22,7 +22,7 @@
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Anchor Wine Bar",3477,"UGC website","2020-07-28","212-234-3048","Independent Retail",40.825271,-73.950886,"3508 Broadway, New York, NY 10031 `","Open","Yes","Yes","grubhub, postmates
 ","Monday-Sunday 4pm-9pm
-",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z","The creation of three long-time Italian friends, Fabrizio, Luigi, and Maurizio",,,
 "Archer and Goat",3478,"UGC website ","2020-07-28","917-261-6602","Restaurants/Bars",40.80434,-73.948417,"187 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","Yelp Deliver, cocktail kits that serve a party of four pre-batched for you to take home
 ","Monday-Sunday 5pm-8pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -53,10 +53,10 @@ with 50 percent off wine list
 ",,,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Barepas",3488,"UGC website","2020-07-28","646-410-0261","Restaurants/Bars",40.827715,-73.946167,"1792 Amsterdam Avenue, New York, NY 10031","Open","Yes","Yes","grubhub
 ","Monday- Thursday 4 p.m. -9 p.m., Saturday & Sunday 4p.m. - 10 p.m
-",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
+",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","Yency and Jen Perez",,,
 "Barwachi ",3489,"UGC website","2020-07-27","212-289-7700","Restaurants/Bars",40.792794,-73.950375,"1546 Madison Avenue, New York, NY 10029 ","Open","Yes","No","place order over phone
 ","Monday- Saturday 12pm-8pm
-",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Benyam Cuisine",3490,"UGC website","2020-07-27","212-510-7353","Restaurants/Bars",40.825222,-73.94055,"2795 Frederick Douglass Boulvard, New York, NY 10039 ","Open","Yes","Yes","Grubhub, Uber Eats
 ","Thursday-Saturday 12pm-8pm, Sunday 12-7pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -66,7 +66,7 @@ with 50 percent off wine list
 ","Monday- Sunday 12 p.m.- 11 p.m.	
 
 
-",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
+",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "Blue Coco",3493,"UGC website","2020-07-27","212-534-2626","Restaurants/Bars",40.792262,-73.945712,"153 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, postmates, delivery.com, uber eats
 ","Monday- Friday 8:30am-4pm
 ",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -75,17 +75,17 @@ with 50 percent off wine list
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Bo's Bagels",3495,"UGC website","2020-07-28","917-902-8345","Restaurants/Bars",40.804148,-73.954096,"235 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","in house,  delivery zone increased to 96th-136th streets, hudson river to second avenue
 ","Monday-Sunday 9am-3pm
-",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z","Andrew Martinez and Ashley Dikos",,,
 "Bono Trattoria",3496,"UGC website","2020-07-27","646-682-9249","Restaurants/Bars",40.830223,-73.946964,"3658 Broadway New York, NY 10031 ","Open","Yes","Yes","IN-HOUSE, CHECK OUT THEIR WEEKEND DINNER SPECIALS FOR TWO
 ","Monday-Sunday 4 p.m. - 10 p.m.
 ",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
-"Branson's Got Juice",3497,"UGC website","2020-07-28","212-283-2700","Restaurants/Bars",40.825558,-73.943898,"741 St Nicholas Avenue, New York, NY 10031 ","Open","Yes","No",,,,,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,,
+"Branson Got Juice",3497,"UGC website","2020-07-28","212-283-2700","Restaurants/Bars",40.825558,-73.943898,"741 St Nicholas Avenue, New York, NY 10031 ","Open","Yes","No",,,true,true,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z","Branson",,,
 "Break Juicery",3498,"Ayana H","2020-06-23","646-892-3034","Restaurants/Bars",40.820986,-73.944733,"132 Edgecombe Avenue, New York, NY 10030 ","Open","Yes","Yes","Grubhub
 ","Monday-Sunday 8 a.m.- 8 p.m.
-",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z","Nicolas Chase",,,
 "Buddha Taco Bar",3499,"UGC website","2020-07-28","646-478-8086","Restaurants/Bars",40.829106,-73.948084,"3628 Broadway, New York, NY 10031 ","Open","Yes","Yes","uber eats, postmates, doordash
 ","Monday-Sunday 12pm-7pm
-",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z","James Lee",,,
 "Burritos y Mas",3500,"UGC website","2020-07-27","646-918-7478","Restaurants/Bars",40.788701,-73.948549,"1571 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, uber eats, 10% off first orders placed on their website
 ","Monday- Sunday 11am-10pm
 ",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -975,7 +975,7 @@ now back open! 10% off orders via the website
 
 ",,,,"yes","2020-07-28T02:44:35.000Z",,,,
 "Baylander Steel Beach",3860,"UGC website","2020-07-27",,"Restaurants/Bars",40.819082,-73.962251,"Hudson River Greenway, New York, NY 10027","Open","Yes",,,"Tuesday - Friday 3 p.m. -10 p.m. & Saturday - Sunday 2 p.m. - 10 p.m.
-",,,,"yes","2020-07-28T02:57:05.000Z",,,,
+",,,,"yes","2020-07-28T02:57:05.000Z","Michael Trenk and his partners – who own Prohibition on 84th and Columbus Ave – are about to expand in a major way. They’re about to open a new restaurant and bar on the Baylander – a former US Navy ship stationed at the West Harlem Piers at 125th Street! ",,,
 "Sofrito",3861,"UGC website","2020-07-27","(212) 754-5999","Restaurants/Bars",40.827282,-73.955282,"679 Riverside Dr New York, NY 10031","Open","Yes","Yes",,"### Tuesday- Sunday 12 p.m.-9 p.m.
 
 ",,,,"yes","2020-07-28T02:58:17.000Z",,,,
@@ -1093,7 +1093,7 @@ now back open! 10% off orders via the website
 ",true,,,"yes","2020-08-15T14:12:26.000Z",,,,
 "The Cecil Steakhouse / Minton's Playhouse",3910,"Carey","2020-08-16","(212) 866-1262","Restaurants/Bars",,," 210 West 118th Street, New York, NY 10026","Open","Yes","Yes",,"Tuesday-Sunday, 10 a.m.-5 p.m.	
 ",,,,"yes","2020-08-15T14:14:33.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
-"El San Juan Restaurant",3911,"Carey","2020-08-16",,"Restaurants/Bars",,,,"Open",,,,,,,,,"2020-08-16T11:19:58.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
+"El San Juan Restaurant",3911,"Carey","2020-08-16",,"Restaurants/Bars",,,"1429 Fifth Avenue, New York, NY 10035","Open",,,,,,,,,"2020-08-16T11:19:58.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
 "Paint 'N Pour",3912,"Carey","2020-08-17","(212) 203-4361","Restaurants/Bars",,,"2080 Frederick Douglass, New York, NY 10026","Open","No","No",,"Wednesday-Friday 2-10 p.m., Saturday-Sunday 12-10 p.m.
 ",true,true,,"yes","2020-08-16T11:37:55.000Z","Tinesha Sharpe and Tyson Belgrave–a married couple with a major entrepreneurial streak",,,
 "Bean & Barley",3913,"Carey","2020-08-17","(646) 767-0125","Restaurants/Bars",,,"2118 Frederick Douglass, New York, NY 10026","Open","No","No",,"### Sunday-Thursday 11 a.m.-2 a.m., Fri-Sat 11 a.m.-3 a.m.
