@@ -4,11 +4,12 @@
     import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
     import MaterialIcon from '../../MaterialIcon.svelte'
     import OwnedByFilters from './OwnedByFilters.svelte'
+    import OutdoorSeating from './OutdoorSeating.svelte'
 
     let opened = false
 
 </script>
-
+<OutdoorSeating/>
 <CategoryFilters/>
 <button class="full" on:click={() => opened = !opened}>
     More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>

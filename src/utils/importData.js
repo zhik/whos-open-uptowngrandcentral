@@ -61,7 +61,7 @@ function removeOverlap(rows) {
 }
 
 function sortByAlphabet(rows) {
-    return rows.sort((a,b) => a.Name.localeCompare(b.Name))
+    return rows.sort((a,b) => a.Name.trim().localeCompare(b.Name.trim()))
 }
 
 
