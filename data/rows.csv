@@ -28,9 +28,9 @@
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Armonie Pizza Bistro",3479,"UGC website","2020-07-27","212-722-6400","Restaurants/Bars",40.799729,-73.94261,"1649 Park Avenue, New York, NY 10035 ","Open","Yes","No",,"Wednesday-Sunday 12pm-8 p.m
 ",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
-"Au Jus Oklahoma BBQ",3480,"UGC website","2020-07-27","212-360-7200","Restaurants/Bars",40.788582,-73.948637,"1569 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house
+"Au Jus Oklahoma BBQ",3480,"UGC website","2020-08-22","212-360-7200","Restaurants/Bars",40.788582,-73.948637,"1569 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house
 ","Monday-Sunday 12-9pm
-",,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "Babbalucci",3481,"UGC website","2020-07-27","646-918-6572","Restaurants/Bars",40.808945,-73.945051,"331 Malcolm X Boulevard, New York, NY 10027 ","Open","No","Yes","In House, Grubhub 
 ","Monday- Sunday 4 p.m.-10 p.m.
 ",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
@@ -46,8 +46,8 @@
 "Barawine",3485,"UGC website","2020-07-28","646-756-4154","Restaurants/Bars",40.804529,-73.947381,"200 Malcolm X Boulevard, NY 10027","Open","Yes","Yes","grubhub, 
 with 50 percent off wine list
 ",,,,"Wine/Liquor Store","no","2020-06-15T20:53:30.000Z","Fabrice Warin (French)",,,
-"Barcha",3486,"Ayana H","2020-07-27","646-455-0046","Restaurants/Bars",40.795587,-73.936068,"2241 First Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, ez cater; take-out orders over $65 receive a free quart of red or white sangria (while supplies last),
-","Monday- Sunday 1pm -7 p.m
+"Barcha",3486,"Ayana H","2020-08-22","646-455-0046","Restaurants/Bars",40.795587,-73.936068,"2241 First Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, ez cater; take-out orders over $65 receive a free quart of red or white sangria (while supplies last),
+","Monday- Saturday 11 a.m.-8 p.m.
 ",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Bardolino Pizza",3487,"UGC website","2020-07-27","646-918-7455","Restaurants/Bars",40.786607,-73.950088,"1505 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, delivery.com, slice
 ",,,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -1099,3 +1099,6 @@ now back open! 10% off orders via the website
 ",true,true,,"yes","2020-08-16T11:37:55.000Z","Tinesha Sharpe and Tyson Belgrave–a married couple with a major entrepreneurial streak",,,
 "Bean & Barley",3913,"Carey","2020-08-17","(646) 767-0125","Restaurants/Bars",,,"2118 Frederick Douglass, New York, NY 10026","Open","No","No",,"### Sunday-Thursday 11 a.m.-2 a.m., Fri-Sat 11 a.m.-3 a.m.
 ",,,,"yes","2020-08-18T01:10:07.000Z",,,,
+"Judy's Spanish Restaurant",3914,"Carey","2020-08-22","(212) 831-0193","Restaurants/Bars",,,"1505 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 8 a.m.-10 p.m.	
+",true,,,"yes","2020-08-22T13:41:47.000Z",,,,
+,3915,,,,,,,,,,,,,,,,,"2020-08-22T13:44:01.000Z",,,,
