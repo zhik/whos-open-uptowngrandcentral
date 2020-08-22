@@ -292,9 +292,8 @@ grubhub, chownow, postmates
 "La Chula",3572,"Ugc website","2020-08-15","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
 ","Tuesday-Sunday 12 p.m.-8 p.m
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
-"La Fonda Boricua",3573,"UGC website","2020-07-27","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
-","### Saturday 5 p.m. -9 p.m., Sunday 1 p.m. 
-### -7 p.m
+"La Fonda Boricua",3573,"UGC website","2020-08-22","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
+","### Thursday-Friday 3-8 p.m., Saturday Brunch 2-6 p.m., Dinner 6-8 p.m., Sunday Brunch 1-4:30 p.m., Dinner 4:30-8 p.m.
 
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "La Lechonera",3574,"UGC website","2020-07-27","212-996-1972","Restaurants/Bars",40.802697,-73.934096,"256 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","uber eats
@@ -314,7 +313,7 @@ grubhub, chownow, postmates
 "Le Baobab",3579,"UGC website","2020-07-28","212-864-4700","Restaurants/Bars",40.802335,-73.951183,"120 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","ubereats
 ","Monday-Sunday 1pm-10pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
-"Lee Lee's Bakery",3580,"UGC website","2020-07-28","917-493-6633","Restaurants/Bars",40.805712,-73.954062,"283 W 118th St New York, NY 10026 ","Open","Yes","Yes","grubhub
+"Lee Lee's Bakery",3580,"UGC website","2020-07-28","917-493-6633","Restaurants/Bars",40.805712,-73.954062,"283 West 118th Street, New York, NY 10026 ","Open","Yes","Yes","grubhub
 ","Monday-Saturday 1pm-6pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
 "Lenox Coffee",3581,"UGC website","2020-07-27","646-833-7839","Restaurants/Bars",40.809964,-73.943208,"60 West 129th Street, New York, NY 10027 ","Open","Yes","No","check their instagram for Mondayday-night zoom open mic
@@ -728,7 +727,7 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
 "Express Cleaners Inc",3743,,"2020-05-30","212-281-3611","Laundromat, Cleaners",40.812359,-73.941619,"458 Malcom X Blvd New York, NY 10037","Open","Yes","Yes",,"MON-SAT 8 A.M -6 P.M., SUN CLOSED, OFFERS PICK UP/DELIVERY
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
-"Lee Wash & Dry Laundromat",3744,,"2020-05-30","212-866-1109","Laundromat, Cleaners",40.803046,-73.951446,"143 w 116th st  New York, NY 10026","Open","No","No",,"Monday-Sunday 8 A.M.-9 P.M.
+"Lee Wash & Dry Laundromat",3744,,"2020-05-30","212-866-1109","Laundromat, Cleaners",40.803046,-73.951446,"143 West 116th Street,  New York, NY 10026","Open","No","No",,"Monday-Sunday 8 A.M.-9 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
 "Miss Bubble Laundomat",3745,,"2020-05-30","212-939-9413","Laundromat, Cleaners",40.82422,-73.951602,"3476 Broadway New York, NY 10031","Open","No","No",,"Monday- Sunday, 9-10pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
@@ -762,9 +761,9 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
 "Harlem Spin City Laundromat",3760,,"2020-05-30","212-427-7746","Laundromat, Cleaners",40.802634,-73.936186,"2275 3rd Avenue New York, NY 10035","Open","Yes","Yes",,"Monday-Sunday  8am -8pm, 6pm last wash
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
-"Laundry Basket of First Avenue",3761,,"2020-05-30","212-410-9475","Laundromat, Cleaners",40.797525,-73.934648,"2295 1st Avenue New York, NY 10035","Open","No","No",,"24/7 
+"Laundry Basket of First Avenue",3761,,"2020-05-30","212-410-9475","Laundromat, Cleaners",40.797525,-73.934648,"2295 First Avenue New York, NY 10035","Open","No","No",,"24/7 
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
-"Laundry Works",3762,,"2020-05-30","646-852-6918","Laundromat, Cleaners",40.814835,-73.941985,"123 W 135th St New York,  NY 10030","Open","Yes","Yes","pick up/delivery
+"Laundry Works",3762,,"2020-05-30","646-852-6918","Laundromat, Cleaners",40.814835,-73.941985,"123 West 135th St New York,  NY 10030","Open","Yes","Yes","pick up/delivery
 ","Monday - Sunday 9-9pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
 "Miss Bubble Laundomat",3763,,"2020-05-30","212-234-4334","Laundromat, Cleaners",40.815881,-73.939989,"545 Malcolm X New York,  NY 10030","Open","Yes",,"pick up, 12-9 Monday-Sunday
@@ -820,9 +819,9 @@ now back open! 10% off orders via the website
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
 "Harlem RX",3787,,"2020-05-30","212-666-8100","Pharmacy/Drug Store",40.801989,-73.950196,"102 w 116th st  New York, NY 10026","Open",,,,"Monday-Friday 9 A.M.-7 P.M., Saturday 9 A.M.-5 P.M.
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
-"Lenda Pharmacy",3788,,"2020-05-30","212-368-3130","Pharmacy/Drug Store",40.821882,-73.954183,"3397 broadway ave New York, NY 10031","Open",,,,"Monday-Friday 9-4:45pm
+"Lenda Pharmacy",3788,,"2020-05-30","212-368-3130","Pharmacy/Drug Store",40.821882,-73.954183,"3397 Broadway, New York, NY 10031","Open",,,,"Monday-Friday 9-4:45pm
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
-"lenox drug corp",3789,,"2020-05-30","212-281-7408","Pharmacy/Drug Store",40.815081,-73.940582,"523 malcolm x blvd New York, NY 10037","Open",,,,"Monday-Friday 10 A.M.-8 P.M., Saturday 9 A.M.-8 P.M
+"lenox drug corp",3789,,"2020-05-30","212-281-7408","Pharmacy/Drug Store",40.815081,-73.940582,"523 Malcolm X Boulevard, New York, NY 10037","Open",,,,"Monday-Friday 10 A.M.-8 P.M., Saturday 9 A.M.-8 P.M
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
 "Lenox Terrace Drug",3790,,"2020-05-30","212-234-2050","Pharmacy/Drug Store",40.812989,-73.938951,"20 W 135th St New York, NY 10037","Open",,"Yes",,"Monday-Friday 8:30 A.M.-5 P.M., Saturday 9 A.M.-5 P.M., OFFERS DELIVERY
 ",,,,,"2020-06-15T20:53:30.000Z",,,,
@@ -955,7 +954,7 @@ now back open! 10% off orders via the website
 ","Monday - Sunday 9:30am - 10:30pm	
 
 ",true,,,"yes","2020-07-28T01:49:37.000Z",,,,
-"Las Panteras Negras",3851,"UGC website","2020-07-27","(917) 261-2568","Restaurants/Bars",40.792801,-73.940534,"2130 2nd Ave New York, NY 10029","Open","Yes","Yes","Grubhub			
+"Las Panteras Negras",3851,"UGC website","2020-07-27","(917) 261-2568","Restaurants/Bars",40.792801,-73.940534,"2130 Second Ave New York, NY 10029","Open","Yes","Yes","Grubhub			
 ","Sunday- Thursday 9 a.m. - 10 p.m.		
 ",true,,,"yes","2020-07-28T01:54:24.000Z",,,,
 "Chaiwali",3852,"UGC website","2020-07-27","646-688-5414","Restaurants/Bars",40.806742,-73.945801,"274 Malcom X New York, NY 10027","Open","Yes",,,"Tuesday- Saturday 5 p.m. - 10 p.m. & Sunday 5 p.m. - 9 p.m.	
@@ -1090,8 +1089,9 @@ now back open! 10% off orders via the website
 "MY NY Bakery Cafe",3908,"CK","2020-08-04","(212) 722-7383","Restaurants/Bars",,,"1565 Lexington Avenue New York, NY 10029","Open","Yes","Yes","grubhub
 ","Monday - Sunday 7 a.m. - 6:45 p.m.	
 ",true,,,"no","2020-08-04T04:14:39.000Z",,,,
-"El Paso Restaurante",3909,"Carey","2020-08-15","646-590-8640","Restaurants/Bars",,,"123 East 110th Street, New York, NY 10029","Open","Yes","Yes",,"Daily, 11:30 a.m.-10 p.m.	
-",true,,,"yes","2020-08-15T14:12:26.000Z",,,,
+"El Paso Restaurante",3909,"Carey","2020-08-22","646-590-8640","Restaurants/Bars",,,"123 East 110th Street, New York, NY 10029","Open","Yes","Yes",,"### Monday-Friday 11 a.m.-10:30 p.m., Saturday-Sunday Brunch 12-4 p.m., Dinner 4-10:30 p.m.
+
+",true,,,"yes","2020-08-15T14:12:26.000Z",,,,"Drag ""Bronche"" on Sundays!"
 "The Cecil Steakhouse / Minton's Playhouse",3910,"Carey","2020-08-16","(212) 866-1262","Restaurants/Bars",,," 210 West 118th Street, New York, NY 10026","Open","Yes","Yes",,"Tuesday-Sunday, 10 a.m.-5 p.m.	
 ",,,,"yes","2020-08-15T14:14:33.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
 "El San Juan Restaurant",3911,"Carey","2020-08-16",,"Restaurants/Bars",,,"1429 Fifth Avenue, New York, NY 10035","Open",,,,,,,,,"2020-08-16T11:19:58.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
@@ -1102,3 +1102,4 @@ now back open! 10% off orders via the website
 "Judy's Spanish Restaurant",3914,"Carey","2020-08-22","(212) 831-0193","Restaurants/Bars",,,"1505 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 8 a.m.-10 p.m.	
 ",true,,,"yes","2020-08-22T13:41:47.000Z",,,,
 "El Chevere Cuchifritos & Bakery",3915,"Carey","2020-08-22",,,,,"2000 Third Avenue, New York, NY 10029","Open",,,,,,,,,"2020-08-22T13:44:01.000Z",,,,
+"San Francisco de Assis / 1779 Restaurant",3916,,"2020-08-22",,,,,"1779 Lexington ",,,,,,,,,,"2020-08-22T18:11:12.000Z",,,,
