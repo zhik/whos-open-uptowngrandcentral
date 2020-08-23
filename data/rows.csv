@@ -194,8 +194,8 @@ with 50 percent off wine list
 "Floridita",3538,"UGC website","2020-07-28","212-662-0090","Restaurants/Bars",40.818002,-73.960985,"2276 Twelfth Avenue, New York, NY 10027 ","Open","Yes","Yes","grubhub,  postmates, delivery.com
 ","Monday-Friday 11am-9pm
 ",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
-"Frenchy Coffee",3539,"UGC website","2020-07-27","646-891-0088","Restaurants/Bars",40.789955,-73.948189,"129 East 102nd Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, uber eats
-","Monday-Friday 8am-1pm
+"Frenchy Coffee",3539,"UGC website","2020-08-22","646-891-0088","Restaurants/Bars",40.789955,-73.948189,"129 East 102nd Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, uber eats
+","Monday-Saturday 8 a.m.-3 p.m.
 ",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "Fruces Juice Bar",3540,"UGC website","2020-07-28","646-861-3279","Restaurants/Bars",40.81824,-73.953098,"1496 Amsterdam Avenue, New York, NY 10031 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB, UBER EATS, POSTMATES, DOORDASH, DELIVERY.COM, buy-one, get-one-free drinks
 ","Monday-Friday 8am-5pm
@@ -299,9 +299,9 @@ grubhub, chownow, postmates
 "La Lechonera",3574,"UGC website","2020-07-27","212-996-1972","Restaurants/Bars",40.802697,-73.934096,"256 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","uber eats
 ","Monday- Sunday 7am-7pm
 ",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
-"La Nostra Pizzeria",3575,"Ayana H","2020-05-20","212-360-7453","Restaurants/Bars",40.793155,-73.940173,"2146 Second Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, postmates
+"La Nostra Pizzeria",3575,"Ayana H","2020-08-22","212-360-7453","Restaurants/Bars",40.793155,-73.940173,"2146 Second Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, postmates
 ","Monday-Sunday 10 a.m.-9 p.m
-",,,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,,
+",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "La Savane",3576,"UGC website","2020-07-28","646-490-4644","Restaurants/Bars",40.804201,-73.954223,"239 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","Ubereats
 ","Monday-Sunday 1pm-9pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -606,7 +606,7 @@ now back open! 10% off orders via the website
 ","Monday-Sunday 7am-10pm
 ",,,"Grocery Store/Supermarket",,"2020-06-15T20:53:30.000Z",,,,
 "Dear Mama Coffee",3686,,"2020-07-29","929-279-2225","Grocery Store",40.792214,-73.940676,"308 East 109th St New York, NY 10029","Open","Yes","Yes","A CAFE THAT HAS PIVOTED TO NOW OFFER the dear mama market FEATURING grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves; DROP BY THE SHOP TO PICK UP OR ORDER FOR DELIVERY VIA THE WEBSITE 
-","Monday-Sunday 7am-7pm
+","Monday-Sunday 7 a.m.-9 p.m.
 ",,,"Grocery Store/Supermarket","yes","2020-06-15T20:53:30.000Z",,,,
 "Farm Country",3687,,"2020-05-29","212-410-5200","Grocery Store",40.790197,-73.938541,"2076 1st ave New York, NY 10029","Open",,"Yes","delivery with in-store purchase of $30
 ","Monday-Sunday 7am-10pm
@@ -1113,3 +1113,7 @@ now back open! 10% off orders via the website
 ",,,,"yes","2020-08-22T22:25:35.000Z",,,,
 "Little Luzzo's",3918,"Carey","2020-08-22","(212) 369-2300","Restaurants/Bars",,,"118 East 96th Street, New York, NY 10029","Open","Yes","Yes",,"Monday-Saturday 11 a.m.-10:30 p.m., Sunday 12-9:30 p.m.
 ",,,,"no","2020-08-22T22:50:19.000Z",,,,
+"Lupita's",3919,"Carey","2020-08-23","(646) 590-4202","Restaurants/Bars",,,"2049 Second Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 11 a.m.-10:30 p.m.	
+
+",true,,,"yes","2020-08-23T14:53:21.000Z",,,,
+,3920,,,,,,,,,,,,,,,,,"2020-08-23T14:54:12.000Z",,,,
