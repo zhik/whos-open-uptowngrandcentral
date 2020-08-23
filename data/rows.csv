@@ -36,7 +36,7 @@
 ",,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "Baked Cravings",3482,"UGC website","2020-07-27","646-590-3324","Restaurants/Bars",40.7914,-73.946652,"1673 Lexington Ave New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, POSTMATES, doordash, sweetist
 ","Monday - Friday 11 a.m. - 6 p.m. Saturday 12 p.m. - 5 p.m.		
-",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",true,true,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "Bangklyn",3483,"UGC Website","2020-07-27","646-429-8128","Restaurants/Bars",40.790288,-73.943046,"2051 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS
 ","Monday-Sunday 12pm-9pm
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
@@ -69,7 +69,7 @@ with 50 percent off wine list
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "Blue Coco",3493,"UGC website","2020-07-27","212-534-2626","Restaurants/Bars",40.792262,-73.945712,"153 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, postmates, delivery.com, uber eats
 ","Monday- Friday 8:30am-4pm
-",true,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
+",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,
 "BLVD Bistro",3494,"UGC website","2020-07-28","212-678-6200","Restaurants/Bars",40.804386,-73.95581,"2149 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","Yes","Seamless, Uber Eats, 20% discount on all pick-up orders
 ","Saturday-Sunday 10am-6pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,
@@ -1085,7 +1085,7 @@ now back open! 10% off orders via the website
 ","Monday - Sunday 7 a.m. - 5 p.m.	
 ",true,,,"yes","2020-08-04T04:12:19.000Z",,,,
 "Daniel & Companies Coffee Shop",3907,"CK","2020-08-04","(646) 524-5585","Restaurants/Bars",,,"2315 Second Avenue New York, NY 10035","Open","Yes","No",,"Monday - Saturday 7 a.m. - 2 p.m.	
-",,,,"no","2020-08-04T04:13:29.000Z",,,,
+",,,,"yes","2020-08-04T04:13:29.000Z",,,,
 "MY NY Bakery Cafe",3908,"CK","2020-08-04","(212) 722-7383","Restaurants/Bars",,,"1565 Lexington Avenue New York, NY 10029","Open","Yes","Yes","grubhub
 ","Monday - Sunday 7 a.m. - 6:45 p.m.	
 ",true,,,"no","2020-08-04T04:14:39.000Z",,,,
@@ -1094,14 +1094,15 @@ now back open! 10% off orders via the website
 ",true,,,"yes","2020-08-15T14:12:26.000Z",,,,"Drag ""Bronche"" on Sundays!"
 "The Cecil Steakhouse / Minton's Playhouse",3910,"Carey","2020-08-16","(212) 866-1262","Restaurants/Bars",,," 210 West 118th Street, New York, NY 10026","Open","Yes","Yes",,"Tuesday-Sunday, 10 a.m.-5 p.m.	
 ",,,,"yes","2020-08-15T14:14:33.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
-"El San Juan Restaurant",3911,"Carey","2020-08-16",,"Restaurants/Bars",,,"1429 Fifth Avenue, New York, NY 10035","Open",,,,,,,,,"2020-08-16T11:19:58.000Z","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
+"El San Juan Restaurant",3911,"Carey","2020-08-16","(646) 726-4222","Restaurants/Bars",,,"1429 Fifth Avenue, New York, NY 10035","Open","Yes","No",,"Tuesday-Wednesday 4-10 p.m., Thursday-Saturday 4-11 p.m., Sunday 2-10 p.m.
+",true,,,"yes","2020-08-16T11:19:58.000Z",,,,
 "Paint 'N Pour",3912,"Carey","2020-08-17","(212) 203-4361","Restaurants/Bars",,,"2080 Frederick Douglass, New York, NY 10026","Open","No","No",,"Wednesday-Friday 2-10 p.m., Saturday-Sunday 12-10 p.m.
 ",true,true,,"yes","2020-08-16T11:37:55.000Z","Tinesha Sharpe and Tyson Belgrave–a married couple with a major entrepreneurial streak",,,
 "Bean & Barley",3913,"Carey","2020-08-17","(646) 767-0125","Restaurants/Bars",,,"2118 Frederick Douglass, New York, NY 10026","Open","No","No",,"### Sunday-Thursday 11 a.m.-2 a.m., Fri-Sat 11 a.m.-3 a.m.
 ",,,,"yes","2020-08-18T01:10:07.000Z",,,,
 "Judy's Spanish Restaurant",3914,"Carey","2020-08-22","(212) 831-0193","Restaurants/Bars",,,"1505 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 8 a.m.-10 p.m.	
 ",true,,,"yes","2020-08-22T13:41:47.000Z",,,,
-"El Chevere Cuchifritos & Bakery",3915,"Carey","2020-08-22",,"Restaurants/Bars",,,"2000 Third Avenue, New York, NY 10029","Open","Yes","Yes",,"### Daily 6:30 a.m.-10 p.m.
+"El Chevere Cuchifritos & Bakery",3915,"Carey","2020-08-22","(212) 427-3952","Restaurants/Bars",,,"2000 Third Avenue, New York, NY 10029","Open","Yes","Yes",,"### Daily 9 a.m.-8 p.m.
 
 ",,,,"yes","2020-08-22T13:44:01.000Z",,,,
 "1779 Mexican Restaurant / San Francisco de Assis ",3916,"Carey","2020-08-22","(212) 348-5981","Restaurants/Bars",,,"1779 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"### Monday-Saturday 9 a.m.-2 a.m., Sunday 10 a.m.-2 a.m.
