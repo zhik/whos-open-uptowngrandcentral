@@ -17,7 +17,6 @@
     }
 
     function getBorderColor(item, value) {
-        console.log(item)
         return `
             border-bottom: 5px solid ${value.includes(item.value) ? getCustomColor(item.color, true) : getCustomColor(item.color, false)};
         `

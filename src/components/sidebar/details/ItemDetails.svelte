@@ -18,61 +18,75 @@
     }
 </script>
 
-<div class="details">
-    <div class="header">
-        <button class="button is-small back" on:click={resetSelect}>
-            <MaterialIcon icon="keyboard_backspace"/>
-        </button>
-        <img class="icon" src="./icons/{item.icon}"/>
-    </div>
-    <div class="content">
-        <h4 class="is-5 subtitle is-marginless notranslate" translate="no">{item.Name}</h4>
-        <p class="address">
-            <span class="notranslate" translate="no">{item.Address}</span>
-            <a href="http://maps.google.com/?q={item.Address}" target="_blank">
-                <MaterialIcon icon="pin_drop"/>
-            </a>
-        </p>
-        <Status status={item.Status}/>
+{#if item}
+    <div class="details">
+        <div class="header">
+            <button class="button is-small back" on:click={resetSelect}>
+                <MaterialIcon icon="keyboard_backspace"/>
+            </button>
+            <img class="icon" src="./icons/{item.icon}"/>
+        </div>
+        <div class="content">
+            <h4 class="is-5 subtitle is-marginless notranslate" translate="no">{item.Name}</h4>
+            <p class="address">
+                <span class="notranslate" translate="no">{item.Address}</span>
+                <a href="http://maps.google.com/?q={item.Address}" target="_blank">
+                    <MaterialIcon icon="pin_drop"/>
+                </a>
+            </p>
+            <Status status={item.Status}/>
 
-        <div class="category">
-            <strong>{item.Category} - </strong>
-            {#if subCategories.length}
-                <div class="tags are-small">
-                    {#each subCategories as tag}
-                        <span class="tag">{tag}</span>
-                    {/each}
+            <div class="category">
+                <strong>{item.Category} - </strong>
+                {#if subCategories.length}
+                    <div class="tags are-small">
+                        {#each subCategories as tag}
+                            <span class="tag">{tag}</span>
+                        {/each}
+                    </div>
+                {/if}
+            </div>
+
+            {#if item['Indoor Dining'] && item['Indoor Dining'].toLowerCase().includes('yes')}
+                <div class="category">
+                    <strong>Indoor Dining</strong>
+                    <p><span
+                            class="tag is-primary is-small">{item['Indoor Dining'].replace(/^\w/, c => c.toUpperCase())}</span>
+                    </p>
                 </div>
             {/if}
+
+            {#if item['Outdoor Dining'] && item['Outdoor Dining'].toLowerCase().includes('yes')}
+                <div class="category">
+                    <strong>Outdoor Dining</strong>
+                    <p><span
+                            class="tag is-primary is-small">{item['Outdoor Dining'].replace(/^\w/, c => c.toUpperCase())}</span>
+                    </p>
+                </div>
+            {/if}
+
+            <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
+            <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
+            <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
+            <ItemDetailsInfo url={item.Donate} text="Donate" icon="card_giftcard" type="website"/>
+
+            <MarkdownField title="Hours" content={item.Hours}/>
+            <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
+            <!--        <MarkdownField title="Notes" content={item.Notes}/>-->
+            <hr>
+
+            <PickupDelivery
+                    pickup={item['Pickup Offered']}
+                    delivery={item['Delivery Offered']}
+                    notes={item['Delivery/Pickup Notes']}
+            />
+
+            <LastUpdated lastUpdated={item['Last Updated']} source={item['Source']}/>
+
         </div>
-
-        {#if item['Outdoor Dining'] && item['Outdoor Dining'].toLowerCase().includes('yes')}
-            <div class="category">
-                <strong>Outdoor Dining</strong>
-                <p><span class="tag is-primary is-small">{item['Outdoor Dining'].replace(/^\w/, c => c.toUpperCase())}</span></p>
-            </div>
-        {/if}
-
-        <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
-        <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
-        <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
-        <ItemDetailsInfo url={item.Donate} text="Donate" icon="card_giftcard" type="website"/>
-
-        <MarkdownField title="Hours" content={item.Hours}/>
-        <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
-<!--        <MarkdownField title="Notes" content={item.Notes}/>-->
-        <hr>
-
-        <PickupDelivery
-                pickup={item['Pickup Offered']}
-                delivery={item['Delivery Offered']}
-                notes={item['Delivery/Pickup Notes']}
-        />
-
-        <LastUpdated lastUpdated={item['Last Updated']} source={item['Source']}/>
-
     </div>
-</div>
+{/if}
+
 
 <style>
     .details {

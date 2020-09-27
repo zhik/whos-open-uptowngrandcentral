@@ -7,23 +7,26 @@
     import OutdoorSeating from './OutdoorSeating.svelte'
     import IndoorSeating from './IndoorSeating.svelte'
 
+    export let hidden = false
     let opened = false
-
 </script>
-<OutdoorSeating/>
-<IndoorSeating/>
-<CategoryFilters/>
-<button class="full" on:click={() => opened = !opened}>
+
+<div class="filters {hidden ? 'hidden' : ''}" >
+    <OutdoorSeating/>
+    <IndoorSeating/>
+    <CategoryFilters/>
+    <button class="full" on:click={() => opened = !opened}>
     More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>
-</button>
-<div class={opened ? '' : 'hidden'}>
+    </button>
+    <div class={opened ? '' : 'hidden'}>
     <div class="field">
-        <label class="label">Businesses owned by</label>
-        <OwnedByFilters name="Minority and/or women-owned " column="MWBE"/>
-        <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
+    <label class="label">Businesses owned by</label>
+    <OwnedByFilters name="Minority and/or women-owned " column="MWBE"/>
+    <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
     </div>
     <OpenedFilter/>
     <PickupDeliveryFilter/>
+    </div>
 </div>
 
 <style>

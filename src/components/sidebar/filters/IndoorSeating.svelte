@@ -29,7 +29,7 @@
 
 <label class="checkbox">
     <MaterialIcon icon="foundation" alt="Indoor Dining Offered"/>
-    <input type="checkbox" bind:checked={showFilter}>Outdoor Dining
+    <input type="checkbox" bind:checked={showFilter}>Indoor Dining
 </label>
 
 <style>

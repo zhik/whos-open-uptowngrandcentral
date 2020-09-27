@@ -93,18 +93,20 @@
             <input type="checkbox" bind:checked={$filterExtent}>Search within map extent
         </label>
     </div>
+    <hr/>
 </form>
 
 <style>
-    form {
-        margin-bottom: 1rem;
-    }
-
     #address {
         width: 100%;
         padding: 0px 10px;
         box-sizing: border-box;
         margin-bottom: 5px;
+    }
+
+    hr{
+        margin-top: 0;
+        margin-bottom: 0.2rem;
     }
 
     input[type='submit'] {
