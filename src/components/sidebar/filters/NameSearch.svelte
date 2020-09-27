@@ -2,6 +2,7 @@
     import {rows, filters} from '../../../stores'
     import FlexSearch from 'flexsearch'
 
+    export let hidden = false
     export let textSearch = ''
     let value = ''
     let index;
@@ -45,7 +46,7 @@
     }
 </script>
 
-<div class="field">
+<div class="field {hidden ? 'is-hidden' : ''}">
     <label class="label">Search by name</label>
     <div class="field">
         <div class="control is-expanded">

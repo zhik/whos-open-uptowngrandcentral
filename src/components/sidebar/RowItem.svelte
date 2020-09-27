@@ -9,7 +9,7 @@
     }
 
     $: outdoorDining = item['Outdoor Dining'].toLowerCase().includes('yes')
-    $: indoorDining =  item['Indoor Dining'].toLowerCase().includes('yes')
+    $: indoorDining =  'Indoor Dining' in item && item['Indoor Dining'].toLowerCase().includes('yes')
     $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
     $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
 </script>

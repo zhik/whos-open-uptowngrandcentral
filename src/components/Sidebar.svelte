@@ -28,18 +28,17 @@
 
     </nav>
     <div class="sidebar-content">
-        {#if $selectedItem}
-            <ItemDetails hidden={!$selectedItem}/>
-        {:else}
-            <div class="search">
-                <AddressSearch/>
-                <NameSearch/>
-                <OtherFilters hidden={navSelected !== 'filters'}/>
-            </div>
-            <div class="items {navSelected !== 'list' ? 'is-hidden' : ''}">
-                <RowItems {items} show={!$selectedItem}/>
-            </div>
-        {/if}
+        <div class="{!$selectedItem ? 'is-hidden' : ''}">
+            <ItemDetails/>
+        </div>
+        <div class="search {$selectedItem ? 'is-hidden' : ''}">
+            <AddressSearch/>
+            <NameSearch hidden={navSelected === 'filters'}/>
+            <OtherFilters hidden={navSelected !== 'filters'}/>
+        </div>
+        <div class="items {navSelected !== 'list' ? 'is-hidden' : ''}">
+            <RowItems {items} show={!$selectedItem}/>
+        </div>
     </div>
 </div>
 
@@ -51,16 +50,17 @@
 
     .nav-items {
         list-style: none;
-        margin-left: 0;
-        margin-right: 5px;
+        margin: 0 5px 0 0;
         display: flex;
         flex-direction: column;
         align-content: space-between;
         width: 40px;
+        background-color: #D6DEE5;
     }
 
     .nav-item {
-        height: 4rem;
+        margin: 1px;
+        height: 6rem;
         background-color: #eef7ff;
         display: flex;
         justify-content: center;

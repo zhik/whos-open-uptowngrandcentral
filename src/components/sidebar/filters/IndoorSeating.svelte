@@ -16,7 +16,7 @@
                 const filter = {
                     label: filterLabel,
                     filter: (row) => {
-                        return row['Indoor Dining'].toLowerCase().includes('yes')
+                        return 'Indoor Dining' in row && row['Indoor Dining'].toLowerCase().includes('yes')
                     }
                 }
                 filters.set([..._filters, filter])
