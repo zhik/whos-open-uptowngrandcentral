@@ -15,7 +15,9 @@ function getAllRecords(base, tableName) {
     return new Promise((resolve, reject) => {
         let records = [];
         base(tableName)
-            .select()
+            .select({
+                view: "Public view"
+            })
             .eachPage(
                 (partialRecords, fetchNextPage) => {
                     records = [...records, ...partialRecords];
