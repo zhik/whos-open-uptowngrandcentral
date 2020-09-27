@@ -78,7 +78,7 @@
         }
 
         .sidebar {
-            height: 800px;
+            height: 500px;
             margin-right: 0px;
             margin-bottom: 1rem;
         }
