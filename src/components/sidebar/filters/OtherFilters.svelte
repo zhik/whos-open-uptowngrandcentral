@@ -5,11 +5,13 @@
     import MaterialIcon from '../../MaterialIcon.svelte'
     import OwnedByFilters from './OwnedByFilters.svelte'
     import OutdoorSeating from './OutdoorSeating.svelte'
+    import IndoorSeating from './IndoorSeating.svelte'
 
     let opened = false
 
 </script>
 <OutdoorSeating/>
+<IndoorSeating/>
 <CategoryFilters/>
 <button class="full" on:click={() => opened = !opened}>
     More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>
