@@ -288,9 +288,9 @@ grubhub, chownow, postmates
 ",,,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,,
 "La Avenida",3571,"Ugc website","2020-08-22","212-828-2247","Restaurants/Bars",40.795731,-73.935963,"2247 First Avenue, New York, NY 10029 ","Open","Yes","No",,"Daily 11 a.m.-11 p.m.	
 ",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,,
-"La Chula",3572,"Ugc website","2020-08-15","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
+"La Chula",3572,"Ugc website","2020-10-01","646-590-3975","Restaurants/Bars",40.79893,-73.941601,"137 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, caviar,
 ","Tuesday-Sunday 12 p.m.-8 p.m
-",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,,
+",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","yes",,,,
 "La Fonda Boricua",3573,"UGC website","2020-08-22","212-410-7292","Restaurants/Bars",40.791958,-73.94499,"169 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","so call to order: GRUBHUB, uber eats
 ","### Thursday-Friday 3-8 p.m., Saturday Brunch 2-6 p.m., Dinner 6-8 p.m., Sunday Brunch 1-4:30 p.m., Dinner 4:30-8 p.m.
 
@@ -306,9 +306,9 @@ grubhub, chownow, postmates
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,,
 "La Tropezienne Bakery",3577,"Ayana H","2020-05-20","212-860-5324","Restaurants/Bars",40.792061,-73.938593,"2131 First Avenue, New York, NY 10029 ","Open","Yes","No",,"Monday-Sunday 11am-7pm
 ",,,"Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,,,
-"Las Delicias Mexicanas",3578,"ugc website","2020-07-27","212-828-3659","Restaurants/Bars",40.797363,-73.940127,"2109 Third Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, doordash, postmates
-","Monday-Sunday 11 a.m.-8 p.m
-",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,,,
+"Las Delicias Mexicanas",3578,"ugc website","2020-10-01","212-828-3659","Restaurants/Bars",40.797363,-73.940127,"2109 Third Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, doordash, postmates
+","Monday-Sunday 10 a.m.-10 p.m
+",true,,"Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","yes",,,,
 "Le Baobab",3579,"UGC website","2020-07-28","212-864-4700","Restaurants/Bars",40.802335,-73.951183,"120 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","ubereats
 ","Monday-Sunday 1pm-10pm
 ",true,true,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,,
