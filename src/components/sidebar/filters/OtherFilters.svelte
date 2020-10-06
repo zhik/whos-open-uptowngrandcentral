@@ -8,6 +8,7 @@
     import IndoorSeating from './IndoorSeating.svelte'
 
     export let hidden = false
+    let opened = false
 </script>
 
 <div class="filters {hidden ? 'is-hidden' : ''}" >
@@ -15,13 +16,20 @@
     <IndoorSeating/>
     <br/>
     <CategoryFilters/>
-    <div class="field">
-        <label class="label">Businesses owned by</label>
-        <OwnedByFilters name="Minority and/or women-owned " column="MWBE"/>
-        <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
+    <button class="full" on:click={() => opened = !opened}>
+        <p style="margin-left: -1.2rem;">
+            <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/> More Filters
+        </p>
+    </button>
+    <div class={opened ? '' : 'is-hidden'}>
+        <div class="field">
+            <label class="label">Businesses owned by</label>
+            <OwnedByFilters name="Minority and/or women-owned " column="MWBE"/>
+            <OwnedByFilters name="Black-owned" column="Black Owned Business"/>
+        </div>
+        <OpenedFilter/>
+        <PickupDeliveryFilter/>
     </div>
-    <OpenedFilter/>
-    <PickupDeliveryFilter/>
 </div>
 
 <style>
@@ -30,7 +38,8 @@
         width: 100%;
         border: solid 1px #d5d5d5;
         border-radius: 4px;
-        padding: 5px 10px;
+        padding: 2px 7px;
+        font-size: 0.7rem;
     }
     
     br{

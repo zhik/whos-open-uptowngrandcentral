@@ -12,29 +12,28 @@
 </script>
 
 <div class="sidebar">
-    <nav class="sidebar-nav">
-        <ul class="nav-items">
-            <li class="nav-item" on:click={() => navSelected = 'list'}>
-                <a class="{navSelected === 'list' ? 'selected' : ''}">
-                    <MaterialIcon icon="list" alt="List of business"/>
-                </a>
-            </li>
-            <li class="nav-item" on:click={() => navSelected = 'filters'}>
-                <a class="{navSelected === 'filters' ? 'selected' : ''}">
-                    <MaterialIcon icon="filter_alt" alt="More Filters"/>
-                </a>
-            </li>
-        </ul>
-
-    </nav>
+<!--    <nav class="sidebar-nav">-->
+<!--        <ul class="nav-items">-->
+<!--            <li class="nav-item" on:click={() => navSelected = 'list'}>-->
+<!--                <a class="{navSelected === 'list' ? 'selected' : ''}">-->
+<!--                    <MaterialIcon icon="list" alt="List of business"/>-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li class="nav-item" on:click={() => navSelected = 'filters'}>-->
+<!--                <a class="{navSelected === 'filters' ? 'selected' : ''}">-->
+<!--                    <MaterialIcon icon="filter_alt" alt="More Filters"/>-->
+<!--                </a>-->
+<!--            </li>-->
+<!--        </ul>-->
+<!--    </nav>-->
     <div class="sidebar-content">
         <div class="details {!$selectedItem ? 'is-hidden' : ''}">
             <ItemDetails/>
         </div>
         <div class="search {$selectedItem ? 'is-hidden' : ''}">
             <AddressSearch/>
-            <NameSearch hidden={navSelected === 'filters'}/>
-            <OtherFilters hidden={navSelected !== 'filters'}/>
+            <NameSearch/>
+            <OtherFilters/>
         </div>
         <div class="items {navSelected !== 'list' || $selectedItem ? 'is-hidden' : ''}">
             <RowItems {items} show={!$selectedItem}/>
