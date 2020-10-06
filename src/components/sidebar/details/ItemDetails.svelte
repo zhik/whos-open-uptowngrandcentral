@@ -16,6 +16,7 @@
     function resetSelect() {
         selectedItem.select(null)
     }
+
 </script>
 
 {#if item}
@@ -67,8 +68,8 @@
 
             <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
             <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
-            <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
-            <ItemDetailsInfo url={item.Donate} text="Donate" icon="card_giftcard" type="website"/>
+            <ItemDetailsInfo url={item['Website/Social Media']} text="Website" icon="public" type="website"/>
+            <ItemDetailsInfo url={item['Instagram']} text="Instagram" icon="photo_camera" type="website"/>
 
             <MarkdownField title="Hours" content={item.Hours}/>
             <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
