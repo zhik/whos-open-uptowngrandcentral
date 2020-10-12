@@ -1,6 +1,6 @@
 "Name","id","Source","Last Updated","Phone","Category","Latitude","Longitude","Address","Status","Pickup Offered","Delivery Offered","Notes","Hours","MWBE","Black Owned Business","Instagram","Sub-Category","Outdoor Dining","Created time","Website/Social Media","Indoor Dining","Owners","Delivery/Pickup Notes","Email","Special Accommodation Hours"
 "67 Orange Street",3470,"UGC website","2020-07-28","(212) 662-2030","Restaurants/Bars",40.802212,-73.956633,"2082 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","Yes","punches and cocktail kits for delivery or pick-up
-","Monday-Sunday 5-8pm
+","Daily 5-8 p.m.
 ",true,true,"https://www.instagram.com/67orangestreet/","Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,,,
 "9 Tails Coffee",3471,"UGC website","2020-07-28",,"Restaurants/Bars",40.807677,-73.942711,"23 West 126th Street, New York, NY 10027 ","Open","Yes","No",,"Daily 8 a.m.-3 p.m.	
 ",,,"https://www.instagram.com/9tailsny/","Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,,,
@@ -15,7 +15,7 @@
 ","Monday- Sunday 4pm-9:30pm
 ",,,"https://www.instagram.com/alisonrestaurant.nyc/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://www.alisonny.com/",,,,,
 "Amor Cubano",3475,"Ugc website","2020-10-12","212-996-1220","Restaurants/Bars",40.794755,-73.942661,"2018 Third Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, postmates, delivery.com, ezcater
-","Monday - Sunday 12 p.m.- 10 p.m.	
+","Daily Noon-10 p.m.	
 ",true,,"https://www.instagram.com/amor_cubano_nyc","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,"yes",,,,
 "Amy Ruth's",3476,"Ayana H","2020-06-23","212-280-8779","Restaurants/Bars",40.802494,-73.950048,"113 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","grubhub, doordash
 ","Monday-Sunday 11 a.m. -8 p.m.
@@ -41,7 +41,7 @@
 ","**Monday-Friday 11:30 a.m.-10 p.m., Saturday-Sunday Noon-10 p.m.**
 ",true,,"https://www.instagram.com/bangklyn.ny/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z",,,"Sarina and Pat",,,
 "Bar 314",3484,"AH","2020-10-05","646-682-7645","Restaurants/Bars",40.81092,-73.958502,"1260 Amsterdam Avenue, New York, NY 10027 ","Open","Yes","Yes","grubhub, uber eats, slice, free bottle of wine with a $50 pick-up or take-out order; pick-up orders get 15% off
-","Monday-Sunday 4pm-10pm
+","Monday-Sunday 4-10 p.m.
 ",,,"https://www.instagram.com/314_nyc/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://www.bar314nyc.com/","yes",,,,
 "Barawine",3485,"UGC website","2020-07-28","646-756-4154","Restaurants/Bars",40.804529,-73.947381,"200 Malcolm X Boulevard, New York, NY 10027","Open","Yes","Yes","grubhub, 
 with 50 percent off wine list
@@ -364,7 +364,7 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 11:30 a.m.-10:30 p.m. 
 ",true,,"https://www.instagram.com/maliithaikitchen/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","http://www.maliinyc.com/",,,,,
 "Mamasushi",3596,"AH","2020-10-05","646-682-7879","Restaurants/Bars",40.827444,-73.950199,"3569 Broadway, New York, NY 10031 ","Open","Yes","Yes","n-house, grubhub, doordash, postmates, uber eats, get 20% off your first order and 10% off future orders when you use the mamasushi app
-","Monday-Sunday 1-10 p.m.
+","Daily 1-10 p.m.
 ",,,"https://www.instagram.com/mamasushi.harlem/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://mamasushi.com/menu/","yes",,,,
 "Manhattanville Coffee",3597,"UGC website","2020-07-28",,"Restaurants/Bars",40.817207,-73.935611,"142 Edgecombe Avenue, New York, NY 10030 ","Open","Yes","No","check website and/or instagram stories for updates
 ","**Monday - Friday: **7am - 6pm
@@ -427,7 +427,8 @@ now back open! 10% off orders via the website
 ","Monday- Sunday 12pm-6 p.m
 ",true,,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,,,,
 "Ponty Bistro",3617,"UGC website","2020-10-05","212-234-6475","Restaurants/Bars",40.817585,-73.941523,"2375 Adam Clayton Powell Jr Blvd New York, NY 10030 ","Open","Yes","Yes","Grubhub, postmates, delivey
-",,true,true,"https://www.instagram.com/pontybistro/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","http://www.pontybistroharlem.com/","yes",,,,
+","Sunday-Thursday 9 a.m.-Midnight, Friday-Saturday 9 a.m.-1 a.m.
+",true,true,"https://www.instagram.com/pontybistro/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","http://www.pontybistroharlem.com/","yes",,,,
 "Pro Thai",3618,"UGC website","2020-10-01","917-475-1494","Restaurants/Bars",40.788821,-73.948453,"1575 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, postmates, uber eats
 ","Daily 11:30 a.m.-3:30 p.m., 4:30-9:30 p.m.
 ",true,,"https://www.instagram.com/prothai.nyc/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://www.prothai.nyc/","yes","Putthida Hensawang (Sommy)",,,
@@ -546,20 +547,7 @@ now back open! 10% off orders via the website
 ","Monday-Sunday 12pm-8pm
 ",,,"https://www.instagram.com/thecraftsmannyc/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","http://thecraftsmannyc.com/",,,,,
 "The Edge",3660,"AH","2020-10-09","212-939-9688","Restaurants/Bars",40.821112,-73.945257,"131 Edgecombe Avenue, New York, NY 10030 ","Open","Yes","Yes","Seamless, Grubhub, Postmates
-","OUTDOOR SEATING DINING HOURS:
-Mon-Wed 11-8pm
-Thurs-Sat 11-9pm
-Sun 11-3pm
-
-DELIVERY & TAKEOUT:
-Mon-Sat 11-8:45pm
-Thurs- Sat - 11-9pm
-Sun 11-3:45pm
-
-Limited Indoor Dining Schedule:
-Saturday – Brunch 11-4pm & Dinner 5pm-9pm
-Sunday – Brunch 11-4pm
-
+","OUTDOOR SEATING: Monday-Wednesday 11 a.m.-8 p.m., Thursday-Saturday 11 a.m.-9 p.m., Sunday 11 a.m.-3 p.m. DELIVERY & TAKEOUT: Monday-Saturday 11 a.m.-9 p.m., Sunday 11 a.m.-4 p.m. INDOOR DINING: Saturday Brunch 11 a.m.-4 p.m. & Dinner 5-9 p.m., Sunday Brunch 11 a.m.-4 p.m. 
 ",true,true,"https://www.instagram.com/theedgeharlem/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://www.theedgeharlem.com/","yes","Sisters Juliet and Justine Masters, a chef and a real estate broker",,,
 "The Expat",3661,"UGC website","2020-07-27","646-410-2922","Restaurants/Bars",40.81544,-73.960192,"64 Tiemann Place, New York, NY 10027 ","Open","Yes","Yes","in house
 ","Monday-Sunday 11:30am-11pm
@@ -666,7 +654,7 @@ Sunday – Brunch 11-4pm
 "Sofrito",3861,"AH","2020-10-05","(212) 754-5999","Restaurants/Bars",40.827282,-73.955282,"679 Riverside Drive, New York, NY 10031","Open","Yes","Yes",,"### Tuesday-Sunday 12-9 p.m.
 
 ",,,"https://www.instagram.com/sofritonyc/",,"yes","2020-07-28T02:58:17.000Z","http://sofritony.com/","yes",,,,
-"L'Artista",3862,"UGC website","2020-10-05","(646) 858-0312","Restaurants/Bars",40.824354,-73.948772,"142 Hamilton Place, New York, NY 10031","Open","Yes","Yes",,"### Monday - Friday 3 p.m. - 10 p.m. , Saturday-Sunday 11 a.m - 10 p.m.
+"L'Artista",3862,"UGC website","2020-10-05","(646) 858-0312","Restaurants/Bars",40.824354,-73.948772,"142 Hamilton Place, New York, NY 10031","Open","Yes","Yes",,"### Monday-Friday 3-10 p.m. , Saturday-Sunday 11 a.m.-10 p.m.
 
 ",,,"https://www.instagram.com/lartistanyc/",,"yes","2020-07-28T03:02:40.000Z","https://www.lartistanyc.com/","yes",,,,
 "Rokc",3863,"AH","2020-10-05","(332) 217-8755","Restaurants/Bars",40.823651,-73.952092,"3452 Broadway, New York, NY 10031","Open","Yes","Yes",,"### Daily 5-10:30 p.m.
@@ -769,7 +757,7 @@ Sunday – Brunch 11-4pm
 "Brother's Bakery & Cafe",3906,"CK","2020-08-04","(212) 641-0646","Restaurants/Bars",40.793829,-73.940451,"2155 Second Avenue, New York, NY 10029","Open","Yes","Yes","grubhub	
 ","Monday - Sunday 7 a.m. - 5 p.m.	
 ",true,,,,"yes","2020-08-04T04:12:19.000Z",,,,,,
-"Daniel & Companies Coffee Shop",3907,"CK","2020-08-04","(646) 524-5585","Restaurants/Bars",40.798889,-73.936739,"2315 Second Avenue, New York, NY 10035","Open","Yes","No",,"Monday - Saturday 7 a.m. - 2 p.m.	
+"Daniel & Companies Coffee Shop",3907,"CK","2020-08-04","(646) 524-5585","Restaurants/Bars",40.798889,-73.936739,"2315 Second Avenue, New York, NY 10035","Open","Yes","No",,"Monday-Saturday 7 a.m.-2 p.m.	
 ",,,"https://www.instagram.com/daccoffeeshop/",,"yes","2020-08-04T04:13:29.000Z",,"yes",,,,
 "MY NY Bakery Cafe",3908,"CK","2020-08-04","(212) 722-7383","Restaurants/Bars",40.788215,-73.94888,"1565 Lexington Avenue, New York, NY 10029","Open","Yes","Yes","grubhub
 ","Monday - Sunday 7 a.m. - 6:45 p.m.	
@@ -777,7 +765,7 @@ Sunday – Brunch 11-4pm
 "El Paso Restaurante",3909,"Carey","2020-10-01","646-590-8640","Restaurants/Bars",40.795336,-73.945137,"123 East 110th Street, New York, NY 10029","Open","Yes","Yes",,"### Monday-Friday 11 a.m.-10:30 p.m., Saturday-Sunday Brunch 12-4 p.m., Dinner 4-10:30 p.m.
 
 ",true,,,,"yes","2020-08-15T14:12:26.000Z",,"yes",,,,"Drag ""Bronche"" on Sundays!"
-"The Cecil Steakhouse / Minton's Playhouse",3910,"AH","2020-10-09","(212) 866-1262","Restaurants/Bars",40.804613,-73.952378," 210 West 118th Street, New York, NY 10026","Open","Yes","Yes",,"Tuesday-Sunday, 10 a.m.-5 p.m.	
+"The Cecil Steakhouse / Minton's Playhouse",3910,"AH","2020-10-09","(212) 866-1262","Restaurants/Bars",40.804613,-73.952378," 210 West 118th Street, New York, NY 10026","Open","Yes","Yes",,"Tuesday-Wednesday 5-11 p.m., Thursday 4 -11 p.m., Friday-Saturday 1 -11 p.m., Brunch Saturday-Sunday 12-5 p.m.
 ",,,"https://www.instagram.com/thececilharlem/",,"yes","2020-08-15T14:14:33.000Z","https://thececilharlem.com/","yes","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
 "El San Juan Restaurant",3911,"Carey","2020-08-16","(646) 726-4222","Restaurants/Bars",40.801048,-73.945751,"1429 Fifth Avenue, New York, NY 10035","Open","Yes","No",,"Tuesday-Wednesday 4-10 p.m., Thursday-Saturday 4-11 p.m., Sunday 2-10 p.m.
 ",true,,"https://www.instagram.com/elsanjuannyc/",,"yes","2020-08-16T11:19:58.000Z",,,,,,
