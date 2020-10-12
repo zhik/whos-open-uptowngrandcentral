@@ -22,7 +22,7 @@
 ",true,true,"https://www.instagram.com/amyruthsharlem/","Restaurant/Bar","no","2020-06-15T20:53:30.000Z","http://amyruths.com/",,,,,
 "Anchor Wine Bar",3477,"UGC website","2020-07-28","212-234-3048","Independent Retail",40.825271,-73.950886,"3508 Broadway, New York, NY 10031 `","Open","Yes","Yes","grubhub, postmates
 ","Monday-Sunday 4pm-9pm
-",,,,"Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,"The creation of three long-time Italian friends, Fabrizio, Luigi, and Maurizio",,,
+",,,"https://www.instagram.com/anchorwinebar/","Restaurant/Bar","no","2020-06-15T20:53:30.000Z",,,"The creation of three long-time Italian friends, Fabrizio, Luigi, and Maurizio",,,
 "Archer and Goat",3478,"UGC website ","2020-07-28","917-261-6602","Restaurants/Bars",40.80434,-73.948417,"187 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","Yelp Deliver, cocktail kits that serve a party of four pre-batched for you to take home
 ","Monday-Sunday 5pm-8pm
 ",true,true,"https://www.instagram.com/archerandgoat_harlem/","Restaurant/Bar","no","2020-06-15T20:53:30.000Z","https://www.archerandgoat.com/reservations/",,,,,
@@ -249,9 +249,10 @@ grubhub, chownow, postmates
 ",true,,"https://www.instagram.com/harlemshakenyc/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://www.harlemshakenyc.com/",,,,,
 "Harlem Tavern",3556,"UGC website","2020-07-27","212-866-4500","Restaurants/Bars",40.804789,-73.955591,"2153 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","No",,"Sunday-Thursday 10 p.m.-10 p.m., Friday& Sat 12 p.m.-12 a.m.
 ",true,,"https://www.instagram.com/harlemtavern/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://harlemtavern.com/",,"Harlem Tavern owner Sheri Wilson Daly, ""you used to see hordes of people hailing taxis to leave Harlem for something to eat or drink."" She and husband Stephen Daly and another partner, Gareth Fagan, decided to ""bring a downtown restaurant uptown."" And on the former site of a gas station, Harlem Tavern made its debut in 2011. Mr. Fagan owns a bar called the Blind Pig in Lower Manhattan and Mr. Daly is a co-owner of a three-story sports bar in Times Square called Tonic Bar & Restaurant.",,,
-"Harlem Wine Gallery",3557,"UGC website","2020-07-28","646-912-9365","Independent Retail",40.807776,-73.948725,"2067 Adam Clayton Powell Boulevard, New York, NY 10027 ","Open","Yes","Yes","delivery ($35 minimum) Wednesday-Sunday 3-7 p.m.: Order online or on the harlem wine gallery app
-","Monday&Tuesday 3pm-8pm, Wednesday-Sunday 12pm-8pm
-",true,true,,"Wine/Liquor Store","no","2020-06-15T20:53:30.000Z",,,,,,
+"Harlem Wine Gallery",3557,"Yelp","2020-09-30","646-912-9365","Independent Retail",40.807776,-73.948725,"2067 Adam Clayton Powell Boulevard, New York, NY 10027 ","Open","Yes","Yes","delivery ($35 minimum) Wednesday-Sunday 3-7 p.m.: Order online or on the harlem wine gallery app
+","**Monday closed, Tuesday, **3:00 PM - 8:00 PM, Wednesday -Friday 12:00 PM - 8:00 PM, **Saturday **10:00 AM - 8:00 PM, **Sunday **12:00 PM - 8:00 PM
+
+",true,true,"https://www.instagram.com/harlemwine/","Wine/Liquor Store","no","2020-06-15T20:53:30.000Z",,,,,,
 "Hexagon Lounge",3558,"Ayana H","2020-05-20","646-838-6500","Restaurants/Bars",40.821269,-73.944468,"318 West 142nd Street, New York, NY 10030 ","Open","Yes","Yes","Grubhub, uber eats
 ","Monday-Sunday 11:30am-8pm
 ",,,"https://www.instagram.com/hexagonloungebar/","Restaurant/Bar",,"2020-06-15T20:53:30.000Z",,,,,,
@@ -599,11 +600,12 @@ Sunday – Brunch 11-4pm
 ","### **4:30pm - 10:30pm Monday - Saturday**
 
 ",,,"https://www.instagram.com/yuzu.nyc/","Restaurant/Bar","yes","2020-06-15T20:53:30.000Z","https://www.yuzunewyork.com/","yes",,,,
-"Urban Garden Center",3730,,"2020-09-21","646-872-3991","Independent Retail",40.799365,-73.943143,"1640 Park Avenue, New York, NY 10035","Open","Yes","No","CLICK HERE FOR VEGETABLE AND HERB PLANT AVAILABILITY
+"Urban Garden Center",3730,,"2020-10-12","646-872-3991","Independent Retail",40.799365,-73.943143,"1640 Park Avenue, New York, NY 10035","Open","Yes","No","CLICK HERE FOR VEGETABLE AND HERB PLANT AVAILABILITY
 ","Monday-Friday 12pm-6pm, Offering curbside Monday-Saturday 10am-5pm
-",,,,,,"2020-06-15T20:53:30.000Z",,,,,,
-"Mushtari Hardware",3734,,"2020-09-21","212-996-5544","Independent Retail",40.807231,-73.943448,"31 West 125th Avenue, New York, NY 10039","Open",,,,"Monday-Saturday 10 A.M.-6 P.M
-",,,,,,"2020-06-15T20:53:30.000Z",,,,,,
+",,,"https://www.instagram.com/urbangardencenter/",,"no","2020-06-15T20:53:30.000Z","https://www.urbangardennyc.com/","no",,,,
+"Mushtari Hardware",3734,"Yelp","2020-10-12","212-996-5544","Independent Retail",40.807231,-73.943448,"31 West 125th Avenue, New York, NY 10039","Open",,,,"Monday - Saturday 8:30am - 6:30pm, Sunday** **10:00 AM - 6:00 PM
+
+",,,"https://www.instagram.com/mushtarihardware/",,,"2020-06-15T20:53:30.000Z","https://www.mushtarihardware.com/",,,,,
 "Daps",3832,"UGC website","2020-08-03","(212) 408-3277","Restaurants/Bars",40.805726,-73.9399,"63 East 125th Street, New York, NY 10035","Open","Yes","Yes",,"Tuesday -Saturday 10 A.M.-7 P.M
 ",true,true,,,"yes","2020-06-22T22:48:57.000Z",,,,,,
 "Cassava House",3833,"UGC Website","2020-07-27","646-928-0219","Restaurants/Bars",40.796333,-73.934818,"2270 First Avenue New York, NY 10035","Open","Yes","Yes",,"Monday-Friday 8 A.M.-4 P.M., Saturday-Sunday 8 A.M.-3 P.M
@@ -696,7 +698,7 @@ Sunday – Brunch 11-4pm
 ","Monday - Sunday 12 p.m. - 9: 45 p.m..		
 ",,,,,"no","2020-07-28T11:50:20.000Z",,,,,,
 "Vintage Harlem Wine & Spirits",3876,"UGC website","2020-07-28","212-864-9463","Independent Retail",40.806799,-73.95394,"2223 Frederick Douglass Boulevard, New York, NY 10026","Open","Yes","No",,"Monday - Sunday 11 a.m. - 8 p..	
-",,,,,"no","2020-07-28T11:54:59.000Z",,,,,,
+",,,"https://www.instagram.com/vintageharlemws/",,"no","2020-07-28T11:54:59.000Z",,,,,,
 "Greedy Pot",3877,,"2020-07-28","(917) 675-7676","Restaurants/Bars",40.804308,-73.952425,"1944 Adam Clayton Powell Boulevard, New York, NY 10026","Open","Yes","Yes",,"Sunday - Wednesday 12 p.m. - 7 p.m. 		
 ",true,true,"https://www.instagram.com/greedypot_/",,"no","2020-07-28T12:02:15.000Z",,,,,,
 "Kingston Harlem",3878,"UGC website","2020-07-28","(646) 861-1082","Restaurants/Bars",40.803391,-73.953586,"218 West 116th Street, New York, NY 10026","Open","Yes","Yes","	
@@ -710,39 +712,39 @@ Sunday – Brunch 11-4pm
 ",,,"https://www.instagram.com/thehoneywellnyc/",,"yes","2020-07-28T12:18:11.000Z","https://www.thehoneywellnyc.com/",,,,,
 "Ecuatoriana",3882,"UGC website","2020-07-28","(212) 491-4626","Restaurants/Bars",40.824055,-73.948208,"1685 Amsterdam Avenue, New York, NY 10031","Open","Yes","Yes",,,,,,,"no","2020-07-28T12:20:41.000Z",,,,,,
 "116th Flowers",3883,"UGC website","2020-07-28","(212) 348-1781","Independent Retail",40.797211,-73.938883,"232 East 116th Street, New York, NY 10029","Open",,,,"Monday - Sunday 10 a.m. - 6 p.m.
-",true,,,,,"2020-07-28T12:27:47.000Z",,,,,,
+",true,,"https://www.instagram.com/116_flowers/",,"no","2020-07-28T12:27:47.000Z","http://www.the116flowers.com/",,,,,
 "The Brownstone Boutique",3884,"UGC website","2020-07-28","(212) 996-7980","Independent Retail",40.805744,-73.941244,"24 East 125th Street, New York, NY 10035","Open",,,,"Monday - Saturday 12 p.m. - 6:30 p.m.
 
 ",true,true,,,,"2020-07-28T12:28:55.000Z",,,,,,
-"Capsule",3885,"UGC website","2020-07-28","(646) 918-6720","Independent Retail",40.811501,-73.953669,"383 West 125th Street New York, NY 10027","Open",,,,"Monday 12 p.m. - 6 p.m.
-",,,,,,"2020-07-28T12:30:07.000Z",,,,,,
+"Capsule",3885,"UGC website","2020-10-13","(646) 918-6720","Independent Retail",40.811501,-73.953669,"383 West 125th Street New York, NY 10027","Open",,,,"Monday - Sunday 11am-7:30pm
+",,,"https://www.instagram.com/capsule_nyc/",,"no","2020-07-28T12:30:07.000Z",,,,,,
 "Harlem Underground (East Side)",3886,"UGC website","2020-07-28","(212) 222-4419","Independent Retail",40.805805,-73.941367,"20 East 125th Street, New York, NY 10035","Open",,,,"Monday - Sunday 1 p.m. - 6 p.m.	
-",true,true,,,,"2020-07-28T12:31:47.000Z",,,,,,
+",true,true,"https://www.instagram.com/harlemundergroundclothingco/",,,"2020-07-28T12:31:47.000Z","https://harlemunderground.com/",,,,,
 "Harlem Underground (West Side)",3887,"UGC website","2020-07-28","(212) 222-4419","Independent Retail",40.806799,-73.95394,"2217 Frederick Douglass Boulevard, New York, NY 10026","Open",,,,"Monday - Sunday 1 p.m. - 6 p.m.	
-",true,true,,,,"2020-07-28T12:32:51.000Z",,,,,,
-"Hats by Bunn",3888,"UGC website","2020-07-28","(212) 694-3590","Independent Retail",40.814674,-73.943739,"2283 Adam Clayton Powell Boulevard, New York, NY 10030","Open",,,,,true,true,,,,"2020-07-28T12:34:46.000Z",,,,,,
+",true,true,"https://www.instagram.com/harlemundergroundclothingco/",,,"2020-07-28T12:32:51.000Z","https://harlemunderground.com/",,,,,
+"Hats by Bunn",3888,"UGC website","2020-07-28","(212) 694-3590","Independent Retail",40.814674,-73.943739,"2283 Adam Clayton Powell Boulevard, New York, NY 10030","Open",,,,,true,true,"https://www.instagram.com/hats_by_bunn/",,,"2020-07-28T12:34:46.000Z","https://hatsbybunn.com/",,,,,
 "Heavy Metal Bike Shop",3889,"ugc website","2020-07-28","(646) 952-4930","Wellness & Fitness",40.794696,-73.942703,"2016 Third Avenue, New York, NY 10029","Open",,,,"Monday - Sunday 9:30 a.m. - 7 p.m.
 
 ",,,,,,"2020-07-28T12:36:17.000Z",,,,,,
 "H&M Art",3890,"UGC website","2020-07-28","(212) 831-9176","Independent Retail",40.806384,-73.941479,"17 East 125th Street, New York, NY 10027","Open",,,,"Monday - Saturday 11 a.m. - 7 p.m.
 
-",,,,,,"2020-07-28T12:37:38.000Z",,,,,,
+",,,"https://www.instagram.com/hmartgalleryframing/",,"no","2020-07-28T12:37:38.000Z","http://newyorkfineartframe.com/",,,,,
 "Kangol Harlem",3891,"UGC website","2020-07-28","(212) 724-1172","Independent Retail",40.809207,-73.943989,"346 Malcolm X Boulevard, New York, NY 10027","Open",,,,"Monday - Sunday 11 a.m. - 6 p.m.
 ",,,,,,"2020-07-28T12:38:39.000Z",,,,,,
-"NiLu Boutique",3892,"UGC website","2020-07-28","(646) 964-4926","Independent Retail",40.804443,-73.948368,"191 Malcolm X Boulevard, New York, NY 10026","Open",,,,"Tuesday - Sunday 1 p.m. - 6 p.m.
-",true,true,,,,"2020-07-28T12:40:11.000Z",,,,,,
+"NiLu Boutique",3892,"UGC website","2020-10-12","(646) 964-4926","Independent Retail",40.804443,-73.948368,"191 Malcolm X Boulevard, New York, NY 10026","Open",,,,"Tuesday - Sunday 12PM to 7ish
+",true,true,"https://www.instagram.com/shopnilu/",,,"2020-07-28T12:40:11.000Z","https://shopnilu.com/",,,,,
 "Omo Sade Skincare",3893,"UGC website","2020-07-28","(212) 996-6300","Beauty & Barber",40.804981,-73.93735,"2082 Lexington Avenue, New York, NY 10035","Open",,,,"Monday - Sunday 12 p.m. - 4 p.m.
 
 ",true,true,,"Beauty",,"2020-07-28T12:41:58.000Z",,,,,,
 "Raices Dominicanas Cigars",3894,"UGC website","2020-07-28","(212) 410-6824","Independent Retail",40.795618,-73.935336,"2250 First Avenue, New York, NY 10029","Open",,,,"Monday - Saturday 10 a.m. - 8 p.m.
-",true,,,,,"2020-07-28T12:43:14.000Z",,,,,,
-"Serengeti Teas & Spices",3895,"UGC website","2020-08-22","(212) 837-1057","Independent Retail",40.805779,-73.941304,"22 East 125th Street, New York, NY 10035","Open",,,,"Wednesday-Saturday 12-5 p.m.
-",true,true,,,,"2020-07-28T12:44:47.000Z",,"yes",,,,
-"Solestice",3896,"UGC website","2020-07-28","(212) 876-8088","Independent Retail",40.797508,-73.940022,"2115 Third Avenue, New York, NY 10035","Open",,,,"Monday - Saturday 11 a.m. - 7 p.m.
+",true,,"https://www.instagram.com/raicescigars/",,,"2020-07-28T12:43:14.000Z",,,,,,
+"Serengeti Teas & Spices",3895,"UGC website","2020-10-12","(212) 837-1057","Independent Retail",40.805779,-73.941304,"22 East 125th Street, New York, NY 10035","Open","Yes",,,"Wednesday-Saturday 12-5 p.m.
+",true,true,"https://www.instagram.com/serengetiteasandspices/",,,"2020-07-28T12:44:47.000Z","https://serengetiteasandspices.com/","yes",,,,
+"Solestice",3896,"UGC website","2020-10-12","(212) 876-8088","Independent Retail",40.797508,-73.940022,"2115 Third Avenue, New York, NY 10035","Open",,,,"Monday - Saturday 11 a.m. - 7 p.m.
 
-",,,,,,"2020-07-28T12:45:49.000Z",,,,,,
+",,,"https://www.instagram.com/solestice/",,,"2020-07-28T12:45:49.000Z",,,,,,
 "Xclusive Arrivals",3899,"UGC website","2020-07-28","(646) 267-6535","Independent Retail",40.792926,-73.940392,"2132 Second Avenue, New York, NY 10029","Open",,,,"Monday - Sunday 3 p.m. - 6 p.m.
-",true,,,,,"2020-07-28T12:49:55.000Z",,,,,,
+",true,,"https://www.instagram.com/xclusivearrivals/",,,"2020-07-28T12:49:55.000Z",,,,,,
 "El Nuevo Carribeno Restaurant",3900,"CK","2020-08-03","(212) 831-3906","Restaurants/Bars",40.791574,-73.94647,"1675 Lexington Avenue, New York, NY 10029","Open","Yes","Yes","Grubhub	
 ","Monday - Sunday 12 p.m. - 8 p.m.	
 ",,,,,"yes","2020-08-04T04:02:49.000Z",,,,,,
@@ -800,9 +802,9 @@ Sunday – Brunch 11-4pm
 ",true,,,,"yes","2020-08-23T14:53:21.000Z",,,,,,
 "Plowshares Coffee",3920,"Carey","2020-09-09","(646) 755-8667","Restaurants/Bars",40.813731,-73.95564,"1351 Amsterdam Avenue, New York, NY 10027","Open","Yes","No",,"Monday-Friday, 8 a.m.-3 p.m.
 ",,,"https://www.instagram.com/plowsharescoffee/",,"yes","2020-08-23T14:54:12.000Z",,,,,,
-"Azteca Western Wear",3922,,"2020-09-21","(212) 996-1212","Independent Retail",40.797371,-73.939191,"222 East 116th Street, New York, NY 10029","Open",,,,,true,,,,,"2020-09-21T17:29:51.000Z",,,,,,
+"Azteca Western Wear",3922,,"2020-09-21","(212) 996-1212","Independent Retail",40.797371,-73.939191,"222 East 116th Street, New York, NY 10029","Open",,,,,true,,"https://www.instagram.com/azteca_western_wear_/",,"no","2020-09-21T17:29:51.000Z","https://aztecawestern.com/",,,,,
 "Aroma D'Angel",3923,,"2020-09-21","(646) 320-8134","Independent Retail",40.797058,-73.938513,"242-244 East 116th Street, New York, NY 10029","Open",,,,,true,,,,,"2020-09-21T17:30:50.000Z",,,,,,
-"Euromex Soccer",3924,,"2020-09-21","(646) 398-8074","Independent Retail",40.796959,-73.938423,"246 East 116th Street, New York, NY 10029","Open",,,,,true,,,,,"2020-09-21T17:31:02.000Z",,,,,,
+"Euromex Soccer",3924,,"2020-09-21","(646) 398-8074","Independent Retail",40.796959,-73.938423,"246 East 116th Street, New York, NY 10029","Open",,,,,true,,"https://www.instagram.com/euromexsoccer/",,"no","2020-09-21T17:31:02.000Z","https://euromexsports.com/",,,,,
 "Amuse Bouche",3926,"Carey","2020-10-01","929-317-5140","Restaurants/Bars",40.798302,-73.943979,"1590 Park Avenue, New York, NY 10029","Open","Yes","No",,"Wednesday-Friday 11 a.m.-6 p.m., Saturday 10 a.m.-7 .m., Sunday 10 a.m.-6 p.m.
 
 ",,,"https://www.instagram.com/amusebouchenycny",,"yes","2020-09-26T16:17:12.000Z",,"yes","Edward Rodwell & Anthony",,,
