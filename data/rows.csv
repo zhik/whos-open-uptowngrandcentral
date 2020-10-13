@@ -1,9 +1,9 @@
 "Name","id","Source","Phone","Category","Latitude","Longitude","Address","Status","Pickup Offered","Delivery Offered","Notes","Hours","MWBE","Black Owned Business","Instagram","Sub-Category","Outdoor Dining","Last Updated","Created time","Indoor Dining","Website/Social Media","Owners","Delivery/Pickup Notes","Email","Special Accommodation Hours"
 "67 Orange Street",3470,"UGC website","(212) 662-2030","Restaurants/Bars",40.802212,-73.956633,"2082 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","Yes","punches and cocktail kits for delivery or pick-up
-","Daily 5-8 p.m.
-",true,true,"https://www.instagram.com/67orangestreet/","Restaurant/Bar","no","2020-10-12","2020-06-15T20:53:30.000Z",,,,,,
+","Daily 5-10:30 p.m.
+",true,true,"https://www.instagram.com/67orangestreet/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
 "9 Tails Coffee",3471,"UGC website",,"Restaurants/Bars",40.807677,-73.942711,"23 West 126th Street, New York, NY 10027 ","Open","Yes","No",,"Daily 8 a.m.-3 p.m.	
-",,,"https://www.instagram.com/9tailsny/","Restaurant/Bar","no","2020-10-12","2020-06-15T20:53:30.000Z","no",,,,,
+",,,"https://www.instagram.com/9tailsny/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "Accra Restaurant",3472,"UGC website","203-407-8000","Restaurants/Bars",40.807646,-73.948864,"2065 Adam Clayton Powell Boulevard, New York, NY 10027 ","Open","Yes","Yes","GRUBHUB, UBER EATS
 ","Monday-Sunday 10am-8pm
 ",true,true,"https://www.instagram.com/accrarestaurant/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,"https://www.ubereats.com/new-york/food-delivery/accra-restaurant-harlem/CW4PeKBwQ4uHRGzUkOvTSQ",,,,
@@ -24,8 +24,8 @@
 ","Monday-Sunday 4pm-9pm
 ",,,"https://www.instagram.com/anchorwinebar/","Restaurant/Bar","no","2020-10-12","2020-06-15T20:53:30.000Z",,,"The creation of three long-time Italian friends, Fabrizio, Luigi, and Maurizio",,,
 "Archer and Goat",3478,"UGC website ","917-261-6602","Restaurants/Bars",40.80434,-73.948417,"187 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","Yelp Deliver, cocktail kits that serve a party of four pre-batched for you to take home
-","Monday-Sunday 5pm-8pm
-",true,true,"https://www.instagram.com/archerandgoat_harlem/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,"https://www.archerandgoat.com/reservations/",,,,
+","Thursday-Sunday 5-10 p.m.
+",true,true,"https://www.instagram.com/archerandgoat_harlem/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z",,"https://www.archerandgoat.com/reservations/",,,,
 "Armonie Pizza Bistro",3479,"UGC website","212-722-6400","Restaurants/Bars",40.799729,-73.94261,"1649 Park Avenue, New York, NY 10035 ","Open","Yes","No",,"Wednesday-Sunday 12pm-8 p.m
 ",,,,"Restaurant/Bar","yes","2020-07-28","2020-06-15T20:53:30.000Z",,,,,,
 "Au Jus Oklahoma BBQ",3480,"UGC website","212-360-7200","Restaurants/Bars",40.788582,-73.948637,"1569 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house
@@ -50,10 +50,10 @@ with 50 percent off wine list
 ","**Monday-Friday 11 a.m.-8:30 p.m., Saturday 3-8:30 p.m.**
 ",true,,"https://www.instagram.com/barchaharlem/","Restaurant/Bar","yes","2020-10-12","2020-06-15T20:53:30.000Z","no","https://www.barcha.nyc/","Walid ? and Gloribelle Perez",,,
 "Bardolino Pizza",3487,"UGC website","646-918-7455","Restaurants/Bars",40.786607,-73.950088,"1505 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, delivery.com, slice
-",,,,,"Restaurant/Bar","no","2020-07-28","2020-06-15T20:53:30.000Z",,,,,,
+",,,,,"Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "Barepas",3488,"UGC website","646-410-0261","Restaurants/Bars",40.827715,-73.946167,"1792 Amsterdam Avenue, New York, NY 10031","Open","Yes","Yes","grubhub
-","Monday- Thursday 4 p.m. -9 p.m., Saturday & Sunday 4p.m. - 10 p.m
-",true,,"https://www.instagram.com/barepasnyc/","Restaurant/Bar","yes","2020-10-06","2020-06-15T20:53:30.000Z",,"https://www.clover.com/online-ordering/barepas-new-york","Yency and Jen Perez",,,
+","Daily 4-11 p.m
+",true,,"https://www.instagram.com/barepasnyc/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z",,"https://www.clover.com/online-ordering/barepas-new-york","Yency and Jen Perez",,,
 "Barwachi ",3489,"UGC website","212-289-7700","Restaurants/Bars",40.792794,-73.950375,"1546 Madison Avenue, New York, NY 10029 ","Open","Yes","No","place order over phone
 ","Monday- Saturday 12pm-8pm
 ",true,,,"Restaurant/Bar","no","2020-08-18","2020-06-15T20:53:30.000Z",,,,,,
@@ -75,8 +75,8 @@ with 50 percent off wine list
 ","Saturday-Sunday 10am-6pm
 ",true,true,"https://www.instagram.com/blvdbistro/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
 "Bo's Bagels",3495,"UGC website","917-902-8345","Restaurants/Bars",40.804148,-73.954096,"235 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","in house,  delivery zone increased to 96th-136th streets, hudson river to second avenue
-","Monday-Sunday 9am-3pm
-",,,"https://www.instagram.com/bosbagels/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,,"Andrew Martinez and Ashley Dikos",,,
+","Daily 9 a.m.-3 p.m.
+",,,"https://www.instagram.com/bosbagels/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z",,,"Andrew Martinez and Ashley Dikos",,,
 "Bono Trattoria",3496,"UGC website","646-682-9249","Restaurants/Bars",40.830223,-73.946964,"3658 Broadway, New York, NY 10031 ","Open","Yes","Yes","IN-HOUSE, CHECK OUT THEIR WEEKEND DINNER SPECIALS FOR TWO
 ","Daily 4-10 p.m.
 ",,,"https://www.instagram.com/bono_nyc/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","yes","http://www.bononyc.com/",,,,
@@ -109,10 +109,10 @@ with 50 percent off wine list
 ",,,,"Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
 "Capri Bakery",3507,"UGC website","(212) 410-1876","Restaurants/Bars",40.797908,-73.940399,"186 East 116th Street, New York, NY 10029 ","Open","Yes","No","in-house, grubhub, delivery.com, uber eats, every order gets a free canned soda
 ","Monday-Sunday 7 a.m.-8 p.m
-",true,,"https://www.instagram.com/116capribakery/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
+",true,,"https://www.instagram.com/116capribakery/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "Cascalote Latin Bistro",3508,"UGC website","(646) 351-6574","Restaurants/Bars",40.792681,-73.940623,"2126 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","order on the restaurant website with code fcovid19 and get 10% off all orders included alcohol
-","Thursday 4pm-9pm, Friday-Saturday 2pm-9pm, Sunday 2pm-8pm
-",true,,"https://www.instagram.com/cascalotelatinbistro/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
+","Thursday 4-9 .p.m., Friday-Saturday 2pm-9pm, Sunday 2pm-8pm
+",true,,"https://www.instagram.com/cascalotelatinbistro/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","no",,,,,
 "Champignon Cafe",3509,"UGC website","212-987-1700","Restaurants/Bars",40.787337,-73.953721,"1389 Madison Avenue, New York, NY 10029 ","Open","Yes","Yes","In house
 ","Monday- Friday 7am-9pm, Saturday-Sunday 7am-7pm
 ",,,"https://www.instagram.com/champignon.cafe/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,"https://www.champignoncafe.com/",,,,
@@ -137,8 +137,9 @@ with 50 percent off wine list
 "Clove Indian",3516,"UGC website","646-918-6644","Restaurants/Bars",40.821318,-73.950854,"1592 Amsterdam Avenue, New York, NY 10031 ","Open","Yes","Yes","in house
 ","Monday-Sunday 11am-10:30pm
 ",,,"https://www.instagram.com/cloveindianrestaurant/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,"https://cloveindiancuisine.com/",,,,
-"Common Good",3517,"UGC website","917-261-6996","Restaurants/Bars",40.82541,-73.940435,"2801 Frederick Douglass Boulevard, New York, NY 10039 ","Open","Yes","No",,"Monday- Sunday 9am-3pm
-",,,"https://www.instagram.com/commongoodharlem/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,"https://www.commongoodharlem.com/shop",,,,
+"Common Good",3517,"UGC website","917-261-6996","Restaurants/Bars",40.82541,-73.940435,"2801 Frederick Douglass Boulevard, New York, NY 10039 ","Open","Yes","No",,"Monday-Friday 7:30-4 p.m., Saturday-Sunday 9 a.m.-4 p.m.
+
+",,,"https://www.instagram.com/commongoodharlem/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z",,"https://www.commongoodharlem.com/shop",,,,
 "Corner Social",3518,"CK","212-510-8552","Restaurants/Bars",40.808732,-73.945278,"321 Malcolm X Boulevard, New York, NY 10027 ","Open","Yes","No",,"Daily Noon-11 p.m.
 ",,,"https://www.instagram.com/cornersocial/","Restaurant/Bar","yes","2020-10-12","2020-06-15T20:53:30.000Z","yes","https://cornersocialnyc.com/","Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,
 "Crepe Master",3519,"UGC website","646-559-9224","Restaurants/Bars",40.802954,-73.951265,"139 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS
@@ -147,14 +148,14 @@ with 50 percent off wine list
 "Cuchifritos",3520,"UGC website","212-876-4846","Restaurants/Bars",40.798045,-73.940997,"168 East 116th Street, New York, NY 10029","Open","Yes","No",,"Wednesday - Monday 11 a.m.-7 p.m
 ",true,,,"Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "Dear Mama Coffee",3521,"UGC website","929-279-2225","Restaurants/Bars",40.792214,-73.940676,"308 East 109th Street, New York, NY 10029 ","Open","Yes","Yes","in house, now offering the dear mama market selling grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves, plus order-ahead roast chickens and chocolate-chip cookie dough; also sponsoring a buy-a-meal-for-a-neighbor where you can donate a meal for a neighbor in need or coffee for a frontline worker
-","Monday - Sunday 7am-7pm
-",,,"https://www.instagram.com/dearmamanyc/","Restaurant/Bar","yes","2020-10-06","2020-06-15T20:53:30.000Z",,"https://order.dearmamacoffee.com/",,,,
+","Daily 7 a.m.-7p.m.
+",,,"https://www.instagram.com/dearmamanyc/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z",,"https://order.dearmamacoffee.com/",,,,
 "Dear Mama Coffee",3522,"Ayana H",,"Restaurants/Bars",40.816993,-73.958486,"611 West 129th Street, New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, postmates, doordash, uber eats; sponsoring a buy-a-meal-for-a-neighbor where you can donate a meal for a neighbor in need or coffee for a frontline worker, plus now offering the dear mama market selling grocery staples such as eggs, milk, fruit, pasta, alcohol, toilet paper, masks & gloves
 ","Monday-Friday 8 a.m.-7 p.m., Saturday-Sunday 10 a.m.-7 p.m.
 ",,,,"Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","no",,,,,
 "Dinosaur BBQ",3523,"UGC website","212-694-1777","Restaurants/Bars",40.818002,-73.960985,"700 West 125th Street, New York, NY 10027 ","Open","Yes","Yes","doordash
-","Monday-Sunday 11am-9pm
-",,,"https://www.instagram.com/dinosaur_bbq/","Restaurant/Bar","yes","2020-10-06","2020-06-15T20:53:30.000Z",,"https://www.dinosaurbarbque.com/",,,,
+","Monday-Tuesday 4-9 p.m., Wednesday-Thursday Noon-9 p.m., Friday-Saturday Noon-10 p.m., Sunday Noon-9 p.m.
+",,,"https://www.instagram.com/dinosaur_bbq/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","yes","https://www.dinosaurbarbque.com/",,,,
 "Double Dutch Espresso",3524,"UGC website","646-429-8834","Restaurants/Bars",40.80584,-73.953997,"2194 Frederick Douglass Boulevard, New York, NY 10026 ","Open","Yes","Yes","postmates
 ","Monday-Sunday 8am-4pm
 ",,,"https://www.instagram.com/doubledutchespresso/","Restaurant/Bar","yes","2020-10-06","2020-06-15T20:53:30.000Z",,,"Mess Hall Is a neighborhood bar specializing in craft beer & spirits in a warm environment.  It is the love child of uptown coffee shop moguls Aaron Baird and Karen Cantor (Double Dutch, Chipped Cup, Filtered) and downtown nightlife Singer/Songwriter Shanna Sharp. The three Harlem residents are excited to bring a charming space with rustic cocktails and food in a vibrant and popular area of Harlem.",,,
@@ -165,8 +166,8 @@ with 50 percent off wine list
 ","Tuesday-Thursday 3pm-8pm, Friday 3pm-9pm, Saturday 12pm-4pm
 ",,,"https://www.instagram.com/earlsbeerandcheese/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
 "East Harlem Bottling Company",3527,"UGC website","212-534-2626","Restaurants/Bars",40.792262,-73.945712,"153 East 106th Street, New York, NY 10029 ","Open","Yes","Yes","in-house
-","### Monday-Friday 11:30 a.m.-Midnight, Saturday-Sunday 11 a.m.-Midnight
-",true,,"https://www.instagram.com/eastharlembottlingco/","Restaurant/Bar","yes","2020-10-06","2020-06-15T20:53:30.000Z","yes","https://www.eastharlembottlingco.com/","Leo Lauer/Darcie Siciliano ",,,
+","### Wednesday-Saturday 6:00 pm-9:30 p.m.
+",true,,"https://www.instagram.com/eastharlembottlingco/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","yes","https://www.eastharlembottlingco.com/","Leo Lauer/Darcie Siciliano ",,,
 "El Barrista Cafe",3528,"UGC Website","718-413-0191","Restaurants/Bars",40.799166,-73.939544,"2154 Third Avenue, New York, NY 10035 ","Open","Yes","Yes","	doordash
 ","Monday-Sunday 9 a.m.-3 p.m
 ",,,,"Restaurant/Bar","yes","2020-07-28","2020-06-15T20:53:30.000Z",,,,,,
@@ -181,10 +182,10 @@ with 50 percent off wine list
 ","Monday- Sunday 11 a.m.-11 p.m
 ",true,,"https://www.instagram.com/tapatiomexicanrestaurant_116st/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
 "El Tepeyac",3533,"UGC website","212-987-8364","Restaurants/Bars",40.789737,-73.947864,"1621 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house, grubhub, doordash
-","Monday- Sunday 8am-1am
+","Daily 8 a.m.-1 a.m.
 ",true,,"https://www.instagram.com/eltepeyacgrocery/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","n/a","https://eltepeyacfood.com/",,,,
 "Evelyn's Kitchen",3535,"UGC website","646-476-7906","Restaurants/Bars",40.797776,-73.934491,"2317 First Avenue, New York, NY 10035 ","Open","Yes","Yes","grubhub, doordash, ubereats
-","Tuesday - Friday 2pm-9 p.m.
+","Tuesday-Friday 2-9 p.m.
 ",,,"https://www.instagram.com/evelynskitchen/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "Famous Fish Market",3536,"UGC website","212-491-8323","Restaurants/Bars",40.823523,-73.944767,"684 St. Nicholas Avenue, New York, NY 10030 ","Open","Yes","No",,"Monday-Thursday 11am-11pm, Friday-Saturday 11am-midnight
 ",true,true,"https://www.instagram.com/thefamousfishmarket/","Restaurant/Bar","no","2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
@@ -204,7 +205,7 @@ with 50 percent off wine list
 ","Sunday-Monday 11 a.m.-10 p.m., Tuesday-Thursday 11 a.m.-10:30 p.m., Friday-Saturday 11 a.m.-11 p.m.
 ",,,"https://www.instagram.com/fumo_harlem/","Restaurant/Bar","yes","2020-10-12","2020-06-15T20:53:30.000Z","yes","https://www.fumorestaurant.com/",,,,
 "G&J's Pizzeria",3542,"UGC website","212-369-4800","Restaurants/Bars",40.790284,-73.945986,"188 East 104th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub, slice, offering heart-shaped pizzas, plus kits of ingredients so you can make pizza at home
-","Monday-Thursday 11am-9pm, Friday-Sunday 11am-10pm
+","Monday-Thursday 11 a.m.-9 p.m., Friday-Sunday 11 a.m.-10 p.m.
 ",,,"https://www.instagram.com/gjspizzeria/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a","https://www.grubhub.com/restaurant/gjs-pizzeria-188-e-104th-st-new-york/408254",,,,
 "Gaudir",3543,"UGC website","347-845-9443","Restaurants/Bars",40.79359,-73.940923,"251 East 110th Street, New York, NY 10029 ","Open","Yes","Yes","Ubereats
 ","Tuesday-Saturday 5-9:30 p.m.
@@ -301,7 +302,7 @@ grubhub, chownow, postmates
 
 ",true,,"https://www.instagram.com/fondaboricua/","Restaurant/Bar","yes","2020-10-13","2020-06-15T20:53:30.000Z","no","http://www.fondaboricua.com/",,,,
 "La Lechonera",3574,"UGC website","212-996-1972","Restaurants/Bars",40.802697,-73.934096,"256 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","uber eats
-","Monday- Sunday 7am-7pm
+","Daily 7 a.m.-7 p.m.
 ",true,,,"Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "La Nostra Pizzeria",3575,"Ayana H","212-360-7453","Restaurants/Bars",40.793155,-73.940173,"2146 Second Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, postmates
 ","Monday-Sunday 10 a.m.-9 p.m
@@ -585,7 +586,7 @@ now back open! 10% off orders via the website
 ",,,,"https://www.instagram.com/watsonyourplate/","Restaurant/Bar","no","2020-10-09","2020-06-15T20:53:30.000Z",,"https://watsonyourplatenyc.com/",,,,
 "Wat's On Your Plate II",3672,"Ayana H","646-767-9355","Restaurants/Bars",40.818791,-73.937902,"641 Malcolm X Boulevard, New York, NY 10030 ","Open",,,"grubhub, uber eats, postmates, DOORDASH
 ",,,,"https://www.instagram.com/watsonyourplate_seafood/","Restaurant/Bar",,"2020-10-09","2020-06-15T20:53:30.000Z",,"https://watsonyourplatenyc.com/",,,,
-"Watkins Health Food Store / The EggRoll Queen",3673,"UGC website","212-831-2955","Restaurants/Bars",40.806889,-73.944108,"46 West 125th Street, New York, NY 10027 ","Open","Yes","No",,,true,true,"https://www.instagram.com/watkinshealthstore/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","no",,,,,
+"Watkins Health Food Store / The EggRoll Queen",3673,"UGC website","212-831-2955","Restaurants/Bars",40.806889,-73.944108,"46 West 125th Street, New York, NY 10027 ","Open","Yes","No",,,true,true,"https://www.instagram.com/watkinshealthstore/","Restaurant/Bar","no","2020-10-13","2020-06-15T20:53:30.000Z","n/a",,,,,
 "Yuzu Harlem",3674,"AH","646-861-3883","Restaurants/Bars",40.809322,-73.943887,"350 Malcolm X Boulevard, New York, NY 10027 ","Open","Yes","Yes","ORDER PICK-UP HERE, ORDER DELIVERY HERE, ALSO AVAILABLE ON GRUBHUB, UBER EATS, DOORDASH,
 ","### **Monday- Saturday **4:30-10:30 p.m. 
 ### 
@@ -640,7 +641,8 @@ now back open! 10% off orders via the website
 "The Row Harlem",3853,"UGC website","(646) 767-9582","Restaurants/Bars",40.817812,-73.942311,"2374 Adam Clayton Powell Boulevard, New York, NY 10030","Open","Yes",,,"### Monday -Friday 4 p.m..-Midnight, Saturday 11 a.m.-Midnight, Sunday 11 a.m.-10 p.m.
 
 ",true,true,"https://www.instagram.com/therowharlem/",,"yes","2020-10-09","2020-07-28T02:30:28.000Z",,"https://www.therowharlem.com/",,,,
-"Belle Harlem",3854,"UGC Website","(347) 819-4076","Restaurants/Bars",40.817323,-73.941691,"2363 Adam Clayton Powell Boulevard, New York, NY 10030","Open","Yes",,,,true,true,"https://www.instagram.com/belle_harlem/",,"yes","2020-10-06","2020-07-28T02:31:48.000Z",,"https://www.belleharlem.com/",,,,
+"Belle Harlem",3854,"UGC Website","(347) 819-4076","Restaurants/Bars",40.817323,-73.941691,"2363 Adam Clayton Powell Boulevard, New York, NY 10030","Open","Yes",,,"Wednesday-Saturday 6-9:30 p.m.
+",true,true,"https://www.instagram.com/belle_harlem/",,"yes","2020-10-13","2020-07-28T02:31:48.000Z",,"https://www.belleharlem.com/",,,,
 "Callie's Taqueria & Tequila Bar",3855,"UGC Website",,"Restaurants/Bars",40.815942,-73.939945,"547 Malcolm X Boulevard, New York, NY 10037","Open","Yes","Yes",,"Monday - Sunday 2 p.m. - 8.p.m.		
 ",,,"https://www.instagram.com/callieslenox/",,"yes","2020-10-06","2020-07-28T02:32:56.000Z",,"https://www.calliesharlem.com/",,,,
 "Yatenga French Bistro & Bar",3856,"UGC Website","(212) 690-0699","Restaurants/Bars",40.814214,-73.944082,"2269 Adam Clayton Powell Boulevard, New York, NY 10030","Open","Yes",,,"Wednesday - Sunday 12 p.m. - 8 p.m.	
@@ -810,5 +812,5 @@ now back open! 10% off orders via the website
 ,3934,,,"Independent Retail",,,,,,,,,,,,,,"2020-10-12","2020-10-12T16:43:15.000Z",,,,,,
 "Lucille's Harlem",3935,"Carey",,"Restaurants/Bars",,,"26C Macombs Place, New York, NY 10039","Open","Yes","Yes",,"Daily 8 a.m.-3 p.m.	
 ",,,"https://www.instagram.com/lucillesharlem/",,"yes","2020-10-13","2020-10-13T00:01:56.000Z",,"https://www.lucillesharlem.com/",,,,
-"Cove Lounge",3937,"AH","(212) 222-5708","Restaurants/Bars",,,"325 Malcolm X Blvd, New York, NY 10027","Open","Yes",,,"Wednesdays-Saturdays 4pm-11pm.
+"Cove Lounge",3937,"AH","(212) 222-5708","Restaurants/Bars",,,"325 Malcolm X Blvd, New York, NY 10027","Open","Yes",,,"Wednesdays-Saturdays 4-11 p.m.
 ",,true,"https://www.instagram.com/coveloungenyc/",,"yes","2020-10-13","2020-10-13T01:08:46.000Z",,"https://www.covelounge.com",,,,
