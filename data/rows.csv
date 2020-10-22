@@ -502,21 +502,22 @@ now back open! 10% off orders via the website
 "Sita Thai",3641,"UGC website","646-901-5623",,"Restaurants/Bars",40.828944,-73.949066,"3609 Broadway, New York, NY 10031 ","Open","Yes","Yes","grubhub
 ","Monday-Sunday 12pm-11pm
 ",,,,"Restaurant/Bar","no",,"2020-10-07","2020-06-15T20:53:30.000Z",,,,
-"Solace Bar & Grill",3643,"UGC website","212-926-0166",,"Restaurants/Bars",40.824797,-73.951264,"3496 Broadway, New York, NY 10031 ","Open","Yes","Yes","in house
+"Solace Bar & Grill",3643,"UGC website",,,"Restaurants/Bars",40.824797,-73.951264,"3496 Broadway, New York, NY 10031 ","Closed","Yes","Yes","Scheduled to reopen January 2021
 ","Wednesday-Sunday 4pm-8pm
-",,,"https://www.instagram.com/solacebarandgrill/","Restaurant/Bar","no",,"2020-10-07","2020-06-15T20:53:30.000Z",,,,
+",,,"https://www.instagram.com/solacebarandgrill/","Restaurant/Bar","no",,"2020-10-22","2020-06-15T20:53:30.000Z",,,,
 "Sottocasa",3644,"AH","646-928-4870","https://sottocasanyc.com/harlem/","Restaurants/Bars",40.805579,-73.947526,"227 Malcolm X Boulevard, New York, NY 10027 ","Open","Yes","Yes","IN-HOUSE, 10 PERCENT OFF ORDERS ON THE WEBSITE & free margherita pizza when you purchase a bottle of wine
 ","Daily 5-10 p.m.
 ",,,"https://www.instagram.com/sottocasa_harlem/","Restaurant/Bar","yes","yes","2020-10-12","2020-06-15T20:53:30.000Z",,,,
 "Spice Hut Indian",3645,"UGC website","646-859-7055","https://www.spicehutnyc.com/","Restaurants/Bars",40.789675,-73.942797,"2036 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, grubhub, doordash, postmates, uber eats, HAD BEEN CLOSED, BUT OPEN AS OF MAY 1! 30% OFF YOUR FIRST ORDER PLACED VIA THEIR WEBSITE
 ","		
 ",,,"https://www.instagram.com/spicehut_indian/","Restaurant/Bar","no",,"2020-10-07","2020-06-15T20:53:30.000Z",,,,
-"Sugar Hill Creamery",3646,"UGC website","212-634-9004","https://www.sugarhillcreamery.com/party","Restaurants/Bars",40.803968,-73.947793,"184 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS, try out their ice cream subscription
-","Monday-Thursday 1pm-10pm, Friday 1pm-11pm, Saturday 12pm-11pm, Sunday 12pm-10pm
-",true,true,"https://www.instagram.com/sugarhillicecream/","Restaurant/Bar","no",,"2020-10-07","2020-06-15T20:53:30.000Z",,"Nicholas Larsen and Petrushka Bazin Larsen",,
-"Sugar Monk Lounge",3647,"UGC website","917-409-0028",,"Restaurants/Bars",40.808918,-73.951737,"2292 Frederick Douglass Boulevard, New York, NY 10027 ","Open","Yes","Yes","in-house, doordash
-","Friday-Saturday 4pm-8pm
-",true,,,"Restaurant/Bar","no",,"2020-10-07","2020-06-15T20:53:30.000Z",,,,
+"Sugar Hill Creamery",3646,"Restaurant","212-634-9004","https://www.sugarhillcreamery.com/party","Restaurants/Bars",40.803968,-73.947793,"184 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","GRUBHUB, POSTMATES, UBER EATS, try out their ice cream subscription
+","Monday-Sunday 1pm-10pm
+",true,true,"https://www.instagram.com/sugarhillicecream/","Restaurant/Bar","yes","no","2020-10-22","2020-06-15T20:53:30.000Z",,"Nicholas Larsen and Petrushka Bazin Larsen",,
+"Sugar Monk Lounge",3647,"Restaurant","917-409-0028","https://sugarmonklounge.com/home","Restaurants/Bars",40.808918,-73.951737,"2292 Frederick Douglass Boulevard, New York, NY 10027 ","Open","Yes","Yes","
+","Tuesday - Sunday 5pm-12am	
+",true,,,"Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z","in-house, doordash
+",,,
 "Super Nice Coffee & Bakery",3648,"UGC website","917-261-5069",,"Restaurants/Bars",40.79903,-73.941056,"156 East 117th Street, New York, NY 10035 ","Open","Yes","Yes","POSTMATES, doordash, uber eats, add virtual tips for staff here, plus let them know if you like the idea of “bread day” here. plus now Fridaydays-Sundaydays they’re offering late-night donuts from 7-11 p.m.
 ","Tuesday - Sunday 8 a.m.-5 p.m
 ",,,"https://www.instagram.com/supernicenyc/","Restaurant/Bar","no","n/a","2020-10-13","2020-06-15T20:53:30.000Z",,,"Fridaydays-Sundaydays they’re offering late-night donuts from 7-11 p.m.",
@@ -533,11 +534,12 @@ now back open! 10% off orders via the website
 ","Monday- Sunday 12pm-Midnight
 ",true,,,"Restaurant/Bar","yes",,"2020-08-14","2020-06-15T20:53:30.000Z",,,,
 "Taste of Seafood",3653,"UGC website","212-866-0275","https://www.atasteofseafood.com/","Restaurants/Bars",40.816189,-73.946424,"2530 Frederick Douglass Boulevard, New York, NY 10030 ","Open","Yes","Yes","Grubhub
-","Tuesday-Friday 11am-8pm, Saturday 12pm-8pm
-",true,true,"https://www.instagram.com/atasteofseafood_nyc/","Restaurant/Bar","no",,"2020-10-09","2020-06-15T20:53:30.000Z",,,,
-"TeamworkOn3 Juice Bar",3654,"UGC website","646-657-0788","https://twjuices.com/","Restaurants/Bars",40.802445,-73.938564,"2007 Lexington Avenue, New York, NY 10035 ","Open","Yes","Yes","grubhub, uber eats
-","Monday-Sunday10 a.m.-10 p.m
-",true,true,"https://www.instagram.com/twjuices/","Restaurant/Bar","no",,"2020-10-09","2020-06-15T20:53:30.000Z",,,,
+","Tuesday-Friday 11am-8pm, Saturday 12pm-8pm	
+",true,true,"https://www.instagram.com/atasteofseafood_nyc/","Restaurant/Bar","no",,"2020-10-22","2020-06-15T20:53:30.000Z",,,,
+"TeamworkOn3 Juice Bar",3654,"Restaurant","646-657-0788","https://twjuices.com/","Restaurants/Bars",40.802445,-73.938564,"2007 Lexington Avenue, New York, NY 10035 ","Open","Yes","Yes","
+","Monday-Sunday 10 a.m.-10 p.m
+",true,true,"https://www.instagram.com/twjuices/","Restaurant/Bar","yes","n/a","2020-10-22","2020-06-15T20:53:30.000Z","grubhub, uber eats
+",,,
 "Teranga",3655,"UGC website",,"https://linktr.ee/Itsteranga","Restaurants/Bars",40.7963,-73.949103,"1280 Fifth Avenue, New York, NY 10029","Open","Yes","Yes","in-house, grubhub, uber eats, caviar, doordash
 ","Tuesday-Sunday 12-8 p.m.
 ",true,true,"https://www.instagram.com/itsteranga_/","Restaurant/Bar","yes","no","2020-10-13","2020-06-15T20:53:30.000Z",,,,
@@ -546,25 +548,29 @@ now back open! 10% off orders via the website
 "Thai Super",3657,"UGC website","646-559-1339",,"Restaurants/Bars",40.799377,-73.939908,"166 East 118th Street, New York, NY 10035 ","Open","Yes","Yes","in-house, grubhub, uber eats
 ","Monday- Sunday 12:30-9:45 p.m
 ",,,,"Restaurant/Bar","no",,"2020-08-15","2020-06-15T20:53:30.000Z",,,,
-"The Chipped Cup",3658,"AH","212-368-8881","https://squareup.com/gift/4BZAZRZWVTJK1/order","Restaurants/Bars",40.82852,-73.948515,"3610 Broadway, New York, NY 10031 ","Open","Yes","Yes","postmates
-","Monday-Sunday 8am-4pm
-",,,"https://www.instagram.com/chippedcupny/","Restaurant/Bar","yes",,"2020-10-09","2020-06-15T20:53:30.000Z",,"Mess Hall Is a neighborhood bar specializing in craft beer & spirits in a warm environment.  It is the love child of uptown coffee shop moguls Aaron Baird and Karen Cantor (Double Dutch, Chipped Cup, Filtered) and downtown nightlife Singer/Songwriter Shanna Sharp. The three Harlem residents are excited to bring a charming space with rustic cocktails and food in a vibrant and popular area of Harlem.",,
-"The Craftsman",3659,"UGC website","212-933-0602","http://thecraftsmannyc.com/","Restaurants/Bars",40.814702,-73.959456,"3155 Broadway, New York, NY 10027 ","Open","Yes","Yes","Grubhub, uber eats, postmates
+"The Chipped Cup",3658,"Restaurant","212-368-8881","https://squareup.com/gift/4BZAZRZWVTJK1/order","Restaurants/Bars",40.82852,-73.948515,"3610 Broadway, New York, NY 10031 ","Open","Yes","Yes","
+","Monday-Sunday 8am-6pm	
+",,,"https://www.instagram.com/chippedcupny/","Restaurant/Bar","yes","no","2020-10-22","2020-06-15T20:53:30.000Z","postmates
+","Mess Hall Is a neighborhood bar specializing in craft beer & spirits in a warm environment.  It is the love child of uptown coffee shop moguls Aaron Baird and Karen Cantor (Double Dutch, Chipped Cup, Filtered) and downtown nightlife Singer/Songwriter Shanna Sharp. The three Harlem residents are excited to bring a charming space with rustic cocktails and food in a vibrant and popular area of Harlem.",,
+"The Craftsman",3659,"Restaurant","212-933-0602","http://thecraftsmannyc.com/","Restaurants/Bars",40.814702,-73.959456,"3155 Broadway, New York, NY 10027 ","Open","Yes","Yes","
 ","Monday-Sunday 12pm-8pm
-",,,"https://www.instagram.com/thecraftsmannyc/","Restaurant/Bar","yes",,"2020-10-09","2020-06-15T20:53:30.000Z",,,,
+",,,"https://www.instagram.com/thecraftsmannyc/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z","Grubhub, uber eats, postmates
+",,,
 "The Edge",3660,"CK","212-939-9688","https://www.theedgeharlem.com/","Restaurants/Bars",40.821112,-73.945257,"131 Edgecombe Avenue, New York, NY 10030 ","Open","Yes","Yes","
 ","OUTDOOR SEATING: Monday-Wednesday 11 a.m.-8 p.m., Thursday-Saturday 11 a.m.-9 p.m., Sunday 11 a.m.-3 p.m. DELIVERY & TAKEOUT: Monday-Saturday 11 a.m.-9 p.m., Sunday 11 a.m.-4 p.m. INDOOR DINING: Saturday Brunch 11 a.m.-4 p.m. & Dinner 5-9 p.m., Sunday Brunch 11 a.m.-4 p.m. 
 ",true,true,"https://www.instagram.com/theedgeharlem/","Restaurant/Bar","yes","yes","2020-10-14","2020-06-15T20:53:30.000Z","Seamless, Grubhub, Postmates
 ","Sisters Juliet and Justine Masters, a chef and a real estate broker",,
-"The Expat",3661,"UGC website","646-410-2922","https://www.theexpat.nyc/","Restaurants/Bars",40.81544,-73.960192,"64 Tiemann Place, New York, NY 10027 ","Open","Yes","Yes","in house
-","Monday-Sunday 11:30am-11pm
-",,,"https://www.instagram.com/theexpatny/","Restaurant/Bar","yes",,"2020-10-09","2020-06-15T20:53:30.000Z",,,,
+"The Expat",3661,"Restaurant","646-410-2922","https://www.theexpat.nyc/","Restaurants/Bars",40.81544,-73.960192,"64 Tiemann Place, New York, NY 10027 ","Open","Yes","Yes","
+","Monday-Friday 4pm-11pm		Saturday & Sunday 11:30am-11pm
+",,,"https://www.instagram.com/theexpatny/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z","in house
+",,,
 "The Grange Bar & Eatery",3662,"AH","212-491-1635","https://thegrangebarnyc.com/","Restaurants/Bars",40.822412,-73.949397,"1635 Amsterdam Avenue, New York, NY 10031 ","Open","Yes","Yes","brunch on Saturdayurdays and Sundaydays 12-4 p.m.: SEAMLESS, uber eats, get 10 percent off pick-up orders
 ","Monday-Friday 5-11 p.m.,  Saturday-Sunday 11 a.m.-11 p.m.
 ",,true,"https://www.instagram.com/grangebarharlem/","Restaurant/Bar","yes","yes","2020-10-12","2020-06-15T20:53:30.000Z",,,,
-"The Handpulled Noodle",3663,"AH","917-262-0213","https://thehandpullednoodle.com/","Restaurants/Bars",40.828326,-73.948634,"3600 Broadway, New York, NY 10031 ","Open","Yes","Yes","in-house, grubhub, postmates, uber Eats
+"The Handpulled Noodle",3663,"Restaurant","917-262-0213","https://thehandpullednoodle.com/","Restaurants/Bars",40.828326,-73.948634,"3600 Broadway, New York, NY 10031 ","Open","Yes","Yes","
 ","Sunday-Thursday 11:30am-11pm, Friday & Saturday 11:30am-midnight 
-",,,"https://www.instagram.com/pullmynoodle/","Restaurant/Bar","yes",,"2020-10-09","2020-06-15T20:53:30.000Z",,,,
+",,,"https://www.instagram.com/pullmynoodle/","Restaurant/Bar","no","no","2020-10-22","2020-06-15T20:53:30.000Z","in-house, grubhub, postmates, uber Eats
+",,,
 "The Lexington Social",3664,"UGC website","646-820-7013","http://www.thelexingtonsocialnyc.com/","Restaurants/Bars",40.790587,-73.947712,"1634 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, delivery.com, bottles of wine are $15 with food purchase
 ","### Monday - Friday 12 p.m.- 10 P.M., Saturday- Sunday 1 p.m. -10 p.m
 	
@@ -723,8 +729,8 @@ Closing November 1st
 ",true,true,"https://www.instagram.com/seasonedvegan/",,"no",,"2020-10-13","2020-07-28T12:10:49.000Z",,,,
 "Little Bean Coffee",3880,"AH","(646) 896-1168",,"Restaurants/Bars",40.79883,-73.952832,"111 Central Park North, New York, NY 10026","Closed","Yes","Yes",,"Tuesday - Friday 8 a.m. - 2 p.m. Saturday - Sunday 9 a.m. - 2 p.m.	
 ",,,"https://www.instagram.com/littlebeancoffeenyc/",,"no",,"2020-10-06","2020-07-28T12:14:08.000Z",,,,
-"The Honey Well",3881,"AH",,"https://www.thehoneywellnyc.com/","Restaurants/Bars",40.82843,-73.948412,"3604 Broadway Avenue, New York, NY 10031","Open","Yes","No",,"Monday-Sunday 4pm-11pm
-",,,"https://www.instagram.com/thehoneywellnyc/",,"yes",,"2020-10-09","2020-07-28T12:18:11.000Z",,,,
+"The Honey Well",3881,"Instagram",,"https://www.thehoneywellnyc.com/","Restaurants/Bars",40.82843,-73.948412,"3604 Broadway Avenue, New York, NY 10031","Open","Yes","No",,"Monday-Sunday 4pm-11pm
+",,,"https://www.instagram.com/thehoneywellnyc/",,"yes","yes","2020-10-22","2020-07-28T12:18:11.000Z",,,,
 "Ecuatoriana",3882,"UGC website","(212) 491-4626",,"Restaurants/Bars",40.824055,-73.948208,"1685 Amsterdam Avenue, New York, NY 10031","Open","Yes","Yes",,"Monday - Sunday 9am- 8:30pm	
 ",,,,,"no",,"2020-10-15","2020-07-28T12:20:41.000Z",,,,
 "116th Flowers",3883,"UGC website","(212) 348-1781","http://www.the116flowers.com/","Independent Retail",40.797211,-73.938883,"232 East 116th Street, New York, NY 10029","Open",,,,"Monday - Sunday 10 a.m. - 6 p.m.
@@ -767,9 +773,12 @@ Closing November 1st
 "Boca Prime Steakhouse",3901,"CK","(646) 998-4256",,"Restaurants/Bars",40.795972,-73.935782,"2257 First Avenue, New York, NY 10029","Open","Yes","Yes","Uber eats, Grubhub	
 ","OUTDOOR: Monday - Saturday 3-11 p.m., Sunday 1-11 p.m., INDOOR: Monday - Saturday 3 p.m.-Midnight, Sunday 1 p.m.-Midnight 
 ",,,"https://www.instagram.com/boca_primeny/",,"yes","yes","2020-10-15","2020-08-04T04:04:39.000Z",,,,
-"SpaHa Soul",3902,"CK","(347) 463-7387",,"Restaurants/Bars",40.798052,-73.936701,"2294 Second Avenue, New York, NY 10035","Open","Yes",,,"Tuesday-Sunday 5-11 p.m. (Reservations only; call in advance)	
+"SpaHa Soul",3902,"Restaurant","(347) 463-7387",,"Restaurants/Bars",40.798052,-73.936701,"2294 Second Avenue, New York, NY 10035","Open","Yes","No","Closing Nov 1-22 but reopening the 23rd. 
 
-",true,true,"https://www.instagram.com/spahasoul/",,"yes",,"2020-10-07","2020-08-04T04:06:30.000Z","Reservations only; call in advance.	
+
+","Tuesday-Sunday 5-12 a.m. (Reservations only; call in advance)	
+
+",true,true,"https://www.instagram.com/spahasoul/",,"yes","yes","2020-10-22","2020-08-04T04:06:30.000Z","Reservations only; call in advance.	Indoor dining allowed with a pod/bubble.
 
 ",,,"Reservations only; call in advance."
 "El Paso Taqueria",3903,"CK","(212) 996-1739",,"Restaurants/Bars",40.787307,-73.952806,"64 East 97th Street, New York, NY 10029","Open","Yes",,"grubhub, uber eats	
@@ -828,9 +837,13 @@ Closing November 1st
 "Sprinkle Splash Sweet Shoppe",3928,"AH","1-800-764-6106","https://sprinklesplash.com/","Restaurants/Bars",40.798302,-73.943979,"1590 Park Avenue, New York, NY 10029","Open","Yes","No",,"Thursday-Saturday 10 a.m-7 p.m.	
 
 ",true,,"https://www.instagram.com/sprinklesplash/",,"yes","yes","2020-10-07","2020-09-26T16:20:27.000Z",,,,
-"Taste of Seafood",3930,"AH",,"https://www.atasteofseafood.com/","Restaurants/Bars",,,"1980 3rd Ave, New York, NY 10029","Open","Yes","Yes",,,true,true,"https://www.instagram.com/atasteofseafood_nyc/",,,,"2020-10-09","2020-10-09T04:38:32.000Z",,,,
-"The Noodle",3931,"AH",,"https://thenoodle.nyc/","Restaurants/Bars",,,"370 Malcolm X BlvdNew York, NY 10027","Open","Yes","Yes",,"Monday - Sunday 11:30am-11pm	
-",,,"https://www.instagram.com/thenoodle.nyc/",,"yes",,"2020-10-09","2020-10-09T04:56:31.000Z",,,,
+"Taste of Seafood",3930,"Restaurant","(212) 427-3633","https://www.atasteofseafood.com/","Restaurants/Bars",,,"1980 3rd Ave, New York, NY 10029","Open","Yes","Yes",,"Tuesday - Thursday 11-9pm, Friday & Saturday 11-10pm	
+",true,true,"https://www.instagram.com/atasteofseafood_nyc/",,"no","no","2020-10-22","2020-10-09T04:38:32.000Z","Grubhub, Uber eats
+
+",,,
+"The Noodle",3931,"Restaurant","(646) 850-0208","https://thenoodle.nyc/","Restaurants/Bars",,,"370 Malcolm X BlvdNew York, NY 10027","Open","Yes","Yes",,"Monday - Sunday 11:30am-11pm	
+",,,"https://www.instagram.com/thenoodle.nyc/",,"no","no","2020-10-22","2020-10-09T04:56:31.000Z","in-house, grubhub, postmates, uber Eats
+",,,
 ,3932,,,,"Wellness & Fitness",,,,,,,,,,,,,,,"2020-10-12","2020-10-12T16:33:01.000Z",,,,
 ,3934,,,,"Independent Retail",,,,,,,,,,,,,,,"2020-10-12","2020-10-12T16:43:15.000Z",,,,
 "Lucille's Harlem",3935,"Instagram","(646) 370-4260","https://www.lucillesharlem.com/","Restaurants/Bars",,,"26C Macombs Place, New York, NY 10039","Open","Yes","Yes","Indoor: Small prefix menu
