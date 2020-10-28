@@ -310,9 +310,11 @@ grubhub, chownow, postmates
 ",true,true,,"Restaurant/Bar",,,"2020-08-14","2020-06-15T20:53:30.000Z",,,,,,
 "Jacob's Soul Food",3566,"Restaurant","212-866-3663","https://www.jacobrestaurant.com/","Restaurants/Bars",40.810309,-73.944016,"373 Malcolm X Boulevard, New York, NY 10027 ","Open","Yes","No",,"Monday-Sunday 10am-10pm
 ",true,true,"https://www.instagram.com/jacobsoulfoodrestaurant/","Restaurant/Bar","no","no","2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
-"Jaguar Restaurant",3567,"Restaurant","212-423-9096","https://jaguarrestaurant.com/","Restaurants/Bars",40.793549,-73.94504,"1735 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub
+"Jaguar Restaurant",3567,"Restaurant","212-423-9096","https://jaguarrestaurant.com/","Restaurants/Bars",40.793549,-73.94504,"1735 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","
 ","Monday-Sunday 10am-8pm
-",true,,"https://www.instagram.com/jaguarrestaurant/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
+",true,,"https://www.instagram.com/jaguarrestaurant/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z",,,"grubhub
+","grubhub
+",,
 "Jin Ramen",3568,"Restaurant","646-559-2862","http://125.jinramen.com/","Restaurants/Bars",40.815486,-73.959056,"3183 Broadway, New York, NY 10027 ","Open","Yes","Yes","in-house, grubhub, doordash, get 10 percent off in-house orders with the code supportjin
 ","Monday-Sunday 11am-3:30PM, 5PM-9PM
 ",,,"https://www.instagram.com/jinramennyc/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
@@ -835,8 +837,8 @@ Closing November 1st
 "Brother's Bakery & Cafe",3906,"Restaurant","(212) 641-0646","https://brothersbakerycafe.com/","Restaurants/Bars",40.793829,-73.940451,"2155 Second Avenue, New York, NY 10029","Open","Yes","Yes","grubhub	
 ","Monday - Sunday 7 a.m. - 5 p.m.	
 ",true,,,,"yes","yes","2020-10-22","2020-08-04T04:12:19.000Z",,,,,,
-"Daniel & Companies Coffee Shop",3907,"CK","(646) 524-5585",,"Restaurants/Bars",40.798889,-73.936739,"2315 Second Avenue, New York, NY 10035","Open","Yes","No",,"Monday-Saturday 7 a.m.-2 p.m.	
-",,,"https://www.instagram.com/daccoffeeshop/",,"yes","yes","2020-10-12","2020-08-04T04:13:29.000Z",,,,,,
+"Daniel & Companies Coffee Shop",3907,"AH","(646) 524-5585",,"Restaurants/Bars",40.798889,-73.936739,"2315 Second Avenue, New York, NY 10035","Open","Yes","Yes",,"Monday-Saturday 7 a.m.-2 p.m.	
+",,,"https://www.instagram.com/daccoffeeshop/",,"yes","yes","2020-10-28","2020-08-04T04:13:29.000Z",,,,,,
 "MY NY Bakery Cafe",3908,"CK","(212) 722-7383",,"Restaurants/Bars",40.788215,-73.94888,"1565 Lexington Avenue, New York, NY 10029","Open","Yes","Yes","grubhub
 ","Monday-Sunday 7 a.m. - 6:45 p.m.	
 ",true,,,,"no","no","2020-10-13","2020-08-04T04:14:39.000Z",,,,,,
