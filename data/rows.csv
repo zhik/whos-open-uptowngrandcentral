@@ -99,11 +99,12 @@ with 50 percent off wine list
 "Burritos y Mas",3500,"UGC website","646-918-7478",,"Restaurants/Bars",40.788701,-73.948549,"1571 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, uber eats, 10% off first orders placed on their website
 ","Monday- Sunday 11am-10pm
 ",,,"https://www.instagram.com/burritosymas/","Restaurant/Bar","no","no","2020-10-12","2020-06-15T20:53:30.000Z",,,,,,
-"Cafe Amrita",3501,"Restaurant","212-222-0683",,"Restaurants/Bars",40.801113,-73.958222,"301 West 110th Street, New York, NY 10026 ","Open","Yes","No",,"Mon - Sun 8AM to 8PM
-",,,"https://www.instagram.com/cafeamrita/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
-"Café Ollin ",3502,"UGC Website","212-828-3644",,"Restaurants/Bars",40.791193,-73.939396,"339 East 108th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub,
-","Daily 11:30 a.m.-9:30 p.m. 
-",true,,,"Restaurant/Bar","yes","yes","2020-10-01","2020-06-15T20:53:30.000Z","
+"Cafe Amrita",3501,"Restaurant","212-222-0683",,"Restaurants/Bars",40.801113,-73.958222,"301 West 110th Street, New York, NY 10026 ","Open","Yes","Yes",,"Mon - Sun 8AM to 8PM
+",,,"https://www.instagram.com/cafeamrita/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z",,,"[Postmates](https://postmates.com/merchant/cafe-amrita-new-york)
+",,,
+"Café Ollin ",3502,"Restaurant","212-828-3644",,"Restaurants/Bars",40.791193,-73.939396,"339 East 108th Street, New York, NY 10029 ","Open","Yes","Yes","grubhub,
+","Monday - Sunday 8
+",true,,"https://www.instagram.com/ollinnyc/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z","
 ","Jonathan Perez",,,,
 "Cafeine",3503,"UGC website","646-370-6353",,"Restaurants/Bars",40.80344,-73.955744,"2124 Frederick Douglass Boulevard, New York, NY 10026 ","Closed","No","No",,"Saturday-Sunday 8am-4pm
 ",,,"https://www.instagram.com/cafeineharlem/","Restaurant/Bar","no","no","2020-10-15","2020-06-15T20:53:30.000Z",,,,,,
@@ -290,10 +291,12 @@ grubhub, chownow, postmates
 ","Tuesday 9am-6pm, Wednesday-Sunday 9am-10-pm
 ",,,"https://www.instagram.com/home_sweet_harlem/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z","grubhub
 ",,,,,
-"Hot Jalapeno",3561,"UGC website","646-351-6895",,"Restaurants/Bars",40.797779,-73.938988,"219 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","10% off cash sales
+"Hot Jalapeno",3561,"Restaurant","646-351-6895",,"Restaurants/Bars",40.797779,-73.938988,"219 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","10% off cash sales
 ","### Tuesday - Sunday 11 a.m.-8 p.m. 
 
-",true,,"https://www.instagram.com/hotjalapeno116/","Restaurant/Bar","yes",,"2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
+",true,,"https://www.instagram.com/hotjalapeno116/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z",,,"GRUBHUB
+","GRUBHUB
+",,
 "Il Cafe Latte",3562,"UGC website","212-222-2241",,"Restaurants/Bars",40.804398,-73.948416,"189 Malcolm X Boulevard, New York, NY 10026 ","Open","Yes","Yes","DOORDASH, 10% off purchases over $30
 ","Monday-Sunday 8am-9pm
 ",,,"https://www.instagram.com/ilcaffelattenyc/","Restaurant/Bar","no",,"2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
@@ -333,9 +336,9 @@ grubhub, chownow, postmates
 "La Lechonera",3574,"UGC website","212-996-1972",,"Restaurants/Bars",40.802697,-73.934096,"256 East 125th Street, New York, NY 10035 ","Open","Yes","Yes","uber eats
 ","Daily 7 a.m.-7 p.m.
 ",true,,,"Restaurant/Bar","no","n/a","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
-"La Nostra Pizzeria",3575,"Ayana H","212-360-7453",,"Restaurants/Bars",40.793155,-73.940173,"2146 Second Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, postmates
+"La Nostra Pizzeria",3575,"Restaurant","212-360-7453",,"Restaurants/Bars",40.793155,-73.940173,"2146 Second Avenue, New York, NY 10029 ","Open","Yes","Yes"," grubhub, postmates
 ","Monday-Sunday 10 a.m.-9 p.m
-",,,,"Restaurant/Bar","yes",,"2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
+",,,,"Restaurant/Bar","yes","no","2020-10-28","2020-06-15T20:53:30.000Z",,,,,,
 "La Savane",3576,"UGC website","646-490-4644",,"Restaurants/Bars",40.804201,-73.954223,"239 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","Ubereats
 ","Monday-Sunday 1pm-9pm
 ",true,true,,"Restaurant/Bar","no",,"2020-08-14","2020-06-15T20:53:30.000Z",,,,,,
@@ -350,9 +353,9 @@ grubhub, chownow, postmates
 "Lee Lee's Bakery",3580,"UGC website","917-493-6633",,"Restaurants/Bars",40.805712,-73.954062,"283 West 118th Street, New York, NY 10026 ","Open","Yes","Yes","grubhub
 ","Monday-Saturday 1pm-6pm
 ",true,true,,"Restaurant/Bar","no","n/a","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
-"Lenox Coffee",3581,"UGC website","646-833-7839","https://squareup.com/gift/4DTKE2V7Q0Q6B/order","Restaurants/Bars",40.809964,-73.943208,"60 West 129th Street, New York, NY 10027 ","Open","Yes","No","check their instagram for Mondayday-night zoom open mic
+"Lenox Coffee",3581,"UGC website","646-833-7839","https://squareup.com/gift/4DTKE2V7Q0Q6B/order","Restaurants/Bars",40.809964,-73.943208,"60 West 129th Street, New York, NY 10027 ","Open","Yes","Yes","check their instagram for Mondayday-night zoom open mic
 ","Monday-Sunday 9am-2pm
-",,,"https://www.instagram.com/lenoxcoffee/","Restaurant/Bar","yes",,"2020-10-06","2020-06-15T20:53:30.000Z",,"Mess Hall Is a neighborhood bar specializing in craft beer & spirits in a warm environment.  It is the love child of uptown coffee shop moguls Aaron Baird and Karen Cantor (Double Dutch, Chipped Cup, Filtered) and downtown nightlife Singer/Songwriter Shanna Sharp. The three Harlem residents are excited to bring a charming space with rustic cocktails and food in a vibrant and popular area of Harlem.",,,,
+",,,"https://www.instagram.com/lenoxcoffee/","Restaurant/Bar","yes",,"2020-10-28","2020-06-15T20:53:30.000Z",,"Mess Hall Is a neighborhood bar specializing in craft beer & spirits in a warm environment.  It is the love child of uptown coffee shop moguls Aaron Baird and Karen Cantor (Double Dutch, Chipped Cup, Filtered) and downtown nightlife Singer/Songwriter Shanna Sharp. The three Harlem residents are excited to bring a charming space with rustic cocktails and food in a vibrant and popular area of Harlem.",,,,
 "Lenox Saphire",3582,"UGC website","212-866-9700","https://www.lenoxsaphireharlem.com/","Restaurants/Bars",40.809379,-73.94483,"341 Malcolm X Boulevard, New York, NY 10027 ","Open","Yes","Yes","Grubhub, Uber Eats
 ",,true,true,"https://www.instagram.com/lenox.saphire.harlem/","Restaurant/Bar","no",,"2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
 "Levain Bakery Harlem",3583,"UGC website","917-464-3789","https://levainbakery.com/shop","Restaurants/Bars",40.805129,-73.95539,"2167 Frederick Douglass Boulevard, New York, NY 1002","Open","Yes","Yes","
@@ -372,9 +375,9 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 "Lolo's Seafood Shack",3587,"Restaurant","646-649-3356",,"Restaurants/Bars",40.804817,-73.955695,"303 West 116th Street, New York, NY 10026 ","Open","Yes","Yes","Grubhub, Seamless, Postmates, Delivery.com, Uber Eats
 ","Tuesday-Thursday 12-10 p.m., Friday-Saturday 12 -10:30 p.m., Sunday 12-9 p.m.
 ",true,true,"https://www.instagram.com/lolosshacks/","Restaurant/Bar","yes","no","2020-10-22","2020-06-15T20:53:30.000Z",,"Leticia Skai Young & Raymond Mohan",,,,
-"Love Cafe",3588,"UGC website","212-369-6916",,"Restaurants/Bars",40.794607,-73.933801,"283 Pleasant Avenue, New York, NY 10029 ","Open","Yes","Yes","Uber eats
+"Love Cafe",3588,"Restaurant","212-369-6916",,"Restaurants/Bars",40.794607,-73.933801,"283 Pleasant Avenue, New York, NY 10029 ","Open","Yes","Yes","Uber eats
 ","Monday - Friday 7 a.m.- 3:30 p.m., Saturday 7:30 a.m.-2:30 p.m.:
-",true,,"https://www.instagram.com/lovecafepleasantave/","Restaurant/Bar","yes",,"2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
+",true,,"https://www.instagram.com/lovecafepleasantave/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z",,,,,,
 "Lulu & Teddy's Cafe/Bar",3589,"AH","917-261-5615","https://luluandteddys.cafe/","Restaurants/Bars",40.794297,-73.940173,"2171 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","IN-HOUSE, GRUBHUB
 ","Tuesday - Saturday 11 a.m. - 11 p.m.
 ",true,true,"https://www.instagram.com/luluandteddyscafe/","Restaurant/Bar","yes","yes","2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
@@ -385,9 +388,9 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 "Made in Mexico",3591,"CK","917-265-8408","http://www.madeinmexicoharlem.com/frontpage/frontpage/","Restaurants/Bars",40.794031,-73.940304,"2161 Second Avenue, New York, NY 10029 ","Open","Yes","Yes","GRUBHUB, uber eats, postmates,
 ","Daily 1-10 p.m.	
 ",true,,"https://www.instagram.com/madeinmexicoharlem/","Restaurant/Bar","yes","yes","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
-"Maison Harlem",3592,"AH","212-222-9224","https://www.maisonharlem.com/","Restaurants/Bars",40.812355,-73.951579,"341 St. Nicholas Avenue, New York, NY 10027 ","Open","Yes","Yes","in house
+"Maison Harlem",3592,"Google","212-222-9224","https://www.maisonharlem.com/","Restaurants/Bars",40.812355,-73.951579,"341 St. Nicholas Avenue, New York, NY 10027 ","Open","Yes","Yes","in house
 ","Monday - Friday 12 p.m. - 10 p.m. Saturday & Sunday 11 a.m. - 11 p.m.
-",true,,"https://www.instagram.com/maisonharlem/","Restaurant/Bar","yes",,"2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
+",true,,"https://www.instagram.com/maisonharlem/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z",,,,,,
 "Makana Hawaiian Eatery",3593,"Restaurant","212-368-5033","https://www.makanabbq.com/","Restaurants/Bars",40.818468,-73.952914,"1502 Amsterdam Avenue, New York, NY 10031 ","Open","Yes","Yes","
 ","Monday-Saturday 11am-9pm, Sunday 12pm-9pm
 ",,,"https://www.instagram.com/makanabbq/","Restaurant/Bar","no","yes","2020-10-22","2020-06-15T20:53:30.000Z","in house, grubhub
@@ -433,8 +436,8 @@ CAVIAR OR YOU CAN ALSO GET THEM SHIPPED
 "Naughty Crab",3605,"Restaurant","646-726-4446","https://www.naughtycrabny.com/","Restaurants/Bars",40.789737,-73.947864,"1621 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","in house
 ","Monday-Friday 5pm-9pm, Saturday-Sunday 2pm-9pm
 ",,,"https://www.instagram.com/naughtycrabny/","Restaurant/Bar","yes","yes","2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
-"NBHD Brulee",3606,"UGC website","646-952-4500","https://www.nbhdbrulee.com/","Restaurants/Bars",40.819361,-73.944048,"2620 Frederick Douglass Boulevard, New York, NY 10030","Open","Yes","No",,"Tuesday-Sunday 9am-3pm
-",true,true,"https://www.instagram.com/nbhd_brulee/","Restaurant/Bar","yes",,"2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
+"NBHD Brulee",3606,"Restaurant","646-952-4500","https://www.nbhdbrulee.com/","Restaurants/Bars",40.819361,-73.944048,"2620 Frederick Douglass Boulevard, New York, NY 10030","Open","Yes","No",,"Tuesday-Sunday 9am-3pm
+",true,true,"https://www.instagram.com/nbhd_brulee/","Restaurant/Bar","yes","yes","2020-10-28","2020-06-15T20:53:30.000Z",,,,,,
 "Nocciola ",3607,"Ugc website","646-559-5304","https://www.nocciolanyc.com/","Restaurants/Bars",40.797504,-73.938381,"237 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","Receive 20% OFF on all bottles of wine & beer when you order over the phone
 ","Monday-Sunday 4:00 p.m.-10 p.m.
 ",true,,"https://www.instagram.com/nocciolanyc/","Restaurant/Bar","yes","yes","2020-10-06","2020-06-15T20:53:30.000Z",,,,,,
@@ -571,9 +574,9 @@ now back open! 10% off orders via the website
 "Taco Mix",3651,"Ugc website","212-289-2693","https://www.tacomix.co/","Restaurants/Bars",40.797142,-73.93876,"234 East 116th Street, New York, NY 10029 ","Open","Yes","Yes","in-house, grubhub, POSTMATES, uber eats, 10% discount for orders placed in-house
 ","Monday-Sunday 1 p.m.-3 a.m.
 ",true,,"https://www.instagram.com/tacomixusa/","Restaurant/Bar","yes","no","2020-10-13","2020-06-15T20:53:30.000Z",,,,,,
-"Taqueria Guadalupe ",3652,"UGC website","212-828-6520",,"Restaurants/Bars",40.79372,-73.944945,"1743 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, DELIVERY.COM
+"Taqueria Guadalupe ",3652,"Restaurant","212-828-6520",,"Restaurants/Bars",40.79372,-73.944945,"1743 Lexington Avenue, New York, NY 10029 ","Open","Yes","Yes","grubhub, DELIVERY.COM
 ","Monday- Sunday 12pm-Midnight
-",true,,,"Restaurant/Bar","yes",,"2020-08-14","2020-06-15T20:53:30.000Z",,,,,,
+",true,,,"Restaurant/Bar","yes","no","2020-10-28","2020-06-15T20:53:30.000Z",,,,,,
 "Taste of Seafood",3653,"UGC website","212-866-0275","https://www.atasteofseafood.com/","Restaurants/Bars",40.816189,-73.946424,"2530 Frederick Douglass Boulevard, New York, NY 10030 ","Open","Yes","Yes","Grubhub
 ","Tuesday-Friday 11am-8pm, Saturday 12pm-8pm	
 ",true,true,"https://www.instagram.com/atasteofseafood_nyc/","Restaurant/Bar","no",,"2020-10-22","2020-06-15T20:53:30.000Z",,,,,,
@@ -659,13 +662,13 @@ now back open! 10% off orders via the website
 ",,,"https://www.instagram.com/angelofharlemny/",,"yes","yes","2020-10-22","2020-06-23T18:23:37.000Z",,"Anahi Angelone opened the bar Corner Social in 2012 after managing Irish bars downtown for a decade. Two years later Corner Social was so successful that she opened a restaurant, Angel of Harlem. Both are profitable. In the summer she and her partners, including former Time Warner CEO Richard Parsons, took over The Cecil Steakhouse as well as Minton’s Playhouse, the adjoining restaurant and venue that had closed in 2016.",,,,
 "Lido",3836,"Restaurant","(646) 850-3623","https://www.lidoharlem.com/","Restaurants/Bars",40.804882,-73.954677,"2168 Frederick Douglass Boulevard, New York, NY 10026","Open","Yes","Yes",,"Wednesday & Thursday 4 p.m.-10 p.m., Friday 2 p.m. - 10 p.m., Saturday & Sunday 12 p.m. -10 p.m.
 ",true,,"https://www.instagram.com/lidoharlem/",,"yes","no","2020-10-22","2020-06-23T18:25:23.000Z",,"Susannah Koteen opened it in 2011: https://www.thenycalliance.org/about/susannah-koteen",,,,
-"Lion Lion Bar",3838,,"917-262-0517",,"Restaurants/Bars",40.796266,-73.936591,"332 East 116th Street, New York, NY 10029","Closed","Yes","Yes",,"Wednesday-Sunday 2-11 p.m.
-",,,,,"yes",,"2020-10-01","2020-06-23T21:59:04.000Z",,,,,,
+"Lion Lion Bar",3838,,"917-262-0517",,"Restaurants/Bars",40.796266,-73.936591,"332 East 116th Street, New York, NY 10029","Closed","No","No",,"Wednesday-Sunday 2-11 p.m.
+",,,,,"no",,"2020-10-28","2020-06-23T21:59:04.000Z",,,,,,
 "Ricardo Steakhouse",3839,"UGC website","(212) 289-5895","http://www.ricardosteakhouse.com/","Restaurants/Bars",40.793514,-73.940653,"2145 Second Avenue, New York, NY 10029","Open","Yes","No",,"Sunday-Wednesday 11 a.m.-11 p.m., Thursday-Saturday 11 a.m.-Midnight
-",true,,"https://www.instagram.com/ricardosteakhousenyc/",,"yes",,"2020-10-06","2020-06-25T13:38:59.000Z","Outdoor dining is by reservation only.
+",true,,"https://www.instagram.com/ricardosteakhousenyc/",,"yes","yes","2020-10-28","2020-06-25T13:38:59.000Z","Outdoor dining is by reservation only.
 ",,,,,
-"Le Petit Parisien",3840,"UGC website","(917) 262-0524","https://www.lepetitparisienusa.com/","Restaurants/Bars",40.803187,-73.94929,"151 Malcolm X Boulevard, New York, NY 10027","Open","Yes","Yes",,"Daily 8 a.m.-7:30 p.m
-",,,"https://www.instagram.com/lepetitparisiennyc/",,"yes",,"2020-10-06","2020-06-27T23:36:52.000Z",,,,,,
+"Le Petit Parisien",3840,"Restaurant","(917) 262-0524","https://www.lepetitparisienusa.com/","Restaurants/Bars",40.803187,-73.94929,"151 Malcolm X Boulevard, New York, NY 10027","Open","Yes","Yes",,"Daily 8 a.m.-7:30 p.m
+",,,"https://www.instagram.com/lepetitparisiennyc/",,"yes","no","2020-10-28","2020-06-27T23:36:52.000Z",,,,,,
 "Trufa",3842,"Restaurant","(212) 281-6165","https://trufarestaurant.com/","Restaurants/Bars",40.823213,-73.953235,"3431 Broadway, New York, NY 10031","Open","Yes","Yes",,"Monday-Thursday 11 a.m.-Midnight, Friday 11 a.m.-1 am., Saturday-Sunday 9 a.m.-Midnight	
 ",,,"https://www.instagram.com/trufarestaurant/",,"yes","yes","2020-10-22","2020-06-28T00:39:03.000Z",,,,,,
 "Osteria Laura",3843,"CK","(917) 261-6575",,"Restaurants/Bars",40.802419,-73.95353,"1890 Adam Clayton Powell Boulevard, New York, NY 10026","Open","Yes","Yes",,"Tuesday-Saturday 2-10 p.m., Sunday 12-6 p.m.
@@ -851,8 +854,8 @@ Closing November 1st
 ",true,true,"https://www.instagram.com/paintnpourinc/",,"no","yes","2020-10-13","2020-08-16T11:37:55.000Z",,"Tinesha Sharpe and Tyson Belgrave–a married couple with a major entrepreneurial streak",,,,
 "Bean & Barley",3913,"Carey","(646) 767-0125",,"Restaurants/Bars",40.803185,-73.955885,"2118 Frederick Douglass Boulevard, New York, NY 10026","Open","No","No",,"Sunday-Thursday 8 a.m.-11 p.m., Friday-Saturday 11 a.m.-3 a.m.
 ",,,"https://www.instagram.com/beanbarley_harlemnyc/",,"yes","yes","2020-10-16","2020-08-18T01:10:07.000Z",,,,,,
-"Judy's Spanish Restaurant",3914,"Carey","(212) 831-0193","https://www.instagram.com/judyspanishrestaurant/","Restaurants/Bars",40.786607,-73.950088,"1505 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 8 a.m.-10 p.m.	
-",true,,"https://www.instagram.com/judyspanishrestaurant/",,"yes",,"2020-10-06","2020-08-22T13:41:47.000Z",,,,,,
+"Judy's Spanish Restaurant",3914,"Restaurant","(212) 831-0193","https://www.instagram.com/judyspanishrestaurant/","Restaurants/Bars",40.786607,-73.950088,"1505 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 8 a.m.-10 p.m.	
+",true,,"https://www.instagram.com/judyspanishrestaurant/",,"yes","yes","2020-10-28","2020-08-22T13:41:47.000Z",,,,,,
 "El Chevere Cuchifritos & Bakery",3915,"Carey","(212) 427-3952",,"Restaurants/Bars",40.79414,-73.943203,"2000 Third Avenue, New York, NY 10029","Open","Yes","Yes",,"### Daily 9 a.m.-8 p.m.
 
 ",,,,,"yes","yes","2020-10-28","2020-08-22T13:44:01.000Z","### [GRUBHUB](https://www.grubhub.com/restaurant/el-chevere-cuchifritos--bakery-2000-3rd-ave-new-york/2007877), [DOORDASH](https://www.doordash.com/store/el-chevere-new-york-220798/en-US/?utm_campaign=gpa), [POSTMATES](https://postmates.com/merchant/el-chevere-new-york?client=customer.web&version=3.0.0), [UBER EATS](https://www.ubereats.com/new-york/food-delivery/chevere-cuchifrito-%26-bakery/P3upNwGtQdmFf7_E3j5poQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google))
@@ -865,9 +868,9 @@ Closing November 1st
 "1779 Mexican Restaurant / San Francisco de Assis ",3916,"Carey","(212) 348-5981",,"Restaurants/Bars",40.794918,-73.94407,"1779 Lexington Avenue, New York, NY 10029","Open","Yes","Yes",,"### Monday-Saturday 9 a.m.-2 a.m., Sunday 10 a.m.-2 a.m.
 
 ",true,,,,"yes","n/a","2020-10-14","2020-08-22T18:11:12.000Z",,,,,,
-"Tre Otto",3917,"Carey","(212) 860-8880","https://www.treottonyc.com/","Restaurants/Bars",40.788487,-73.9536,"1410 Madison Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 11:30 a.m.-8 p.m.
+"Tre Otto",3917,"Restaurant","(212) 860-8880","https://www.treottonyc.com/","Restaurants/Bars",40.788487,-73.9536,"1410 Madison Avenue, New York, NY 10029","Open","Yes","Yes",,"Daily 11:30 a.m.-8 p.m.
 
-",,,"https://www.instagram.com/treottony/",,"yes",,"2020-10-09","2020-08-22T22:25:35.000Z",,,,,,
+",,,"https://www.instagram.com/treottony/",,"yes","yes","2020-10-28","2020-08-22T22:25:35.000Z",,,,,,
 "Little Luzzo's",3918,"Carey","(212) 369-2300",,"Restaurants/Bars",40.786285,-73.951555,"119 East 96th Street, New York, NY 10029","Open","Yes","Yes",,"Monday-Saturday 11 a.m.-10:30 p.m., Sunday 12-9:30 p.m.
 ",,,"https://www.instagram.com/littleluzzospizza/",,"no",,"2020-10-22","2020-08-22T22:50:19.000Z",,,,,,
 "Lupita's",3919,"Restaurant","(646) 590-4202",,"Restaurants/Bars",40.790228,-73.943091,"2049 Second Avenue, New York, NY 10029","Open","Yes","Yes",,"Monday- Sunday 11 a.m.-10:30 p.m.	
