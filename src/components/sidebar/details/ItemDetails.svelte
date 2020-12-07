@@ -35,6 +35,13 @@
                     <MaterialIcon icon="pin_drop"/>
                 </a>
             </p>
+
+            {#if item.Images}
+                {#each item.Images.split(',') as imageSrc}
+                    <img src={imageSrc} class="card-image"/>
+                {/each}
+            {/if}
+
             <Status status={item.Status}/>
 
             <div class="category">

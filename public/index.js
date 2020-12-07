@@ -58,10 +58,16 @@ async function main() {
     const records = await getAllRecords(base, AIRTABLE_TABLE_NAME)
     const rows = records.map(row => row.fields).map(row => {
         let nRow = {}
-        Object.entries(row).forEach(([key, value]) => {
+        Object.entries(row).map(([key, value]) => {
             //flatten array fields
             if(Array.isArray(value)){
-               nRow[key] = value.join(',')
+                if(value.length > 0 && (typeof value[0] === 'object') && 'url' in value[0]){
+                    //get attachment urls
+                    nRow[key] = value.map(i => i.url).join(',')
+                }else{
+                    nRow[key] = value.join(',')
+                }
+
             }else{
                 nRow[key] = value
             }

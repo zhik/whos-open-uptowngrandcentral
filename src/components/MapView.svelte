@@ -108,9 +108,12 @@
                 map.getCanvas().style.cursor = 'pointer';
                 const feature = e.features[0]
                 const coordinates = feature.geometry.coordinates.slice();
-                const {Name, Category, Address} = feature.properties
-                const description = `<h6>${Name}</h6><p>${Category}</p><p>${Address}</p>`
-
+                const {Name, Category, Address, Images} = feature.properties
+                let description = `<h5>${Name}</h5>`
+                if(Images){
+                    description += Images.split(',').map(image => `<img src='${image}' class='card-image'/>`)
+                }
+                description += `<p><strong>${Category}</strong></p><p>${Address}</p>`
                 while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                     coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
                 }
@@ -180,8 +183,12 @@
                             map.getCanvas().style.cursor = 'pointer';
                             const feature = e.features[0]
                             const coordinates = feature.geometry.coordinates.slice();
-                            const {Name, Category, Address} = feature.properties
-                            const description = `<h6>${Name}</h6><p>${Category}</p><p>${Address}</p>`
+                            const {Name, Category, Address, Images} = feature.properties
+                            let description = `<h5>${Name}</h5>`
+                            if(Images){
+                                description += Images.split(',').map(image => `<img src='${image}' class='card-image'/>`)
+                            }
+                            description += `<p><strong>${Category}</strong></p><p>${Address}</p>`
 
                             while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                                 coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
