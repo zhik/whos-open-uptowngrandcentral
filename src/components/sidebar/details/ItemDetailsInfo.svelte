@@ -7,8 +7,6 @@
     export let icon = 'indeterminate_check_box'
     export let type = 'text'
 
-
-    $: console.log(type, icon, url, text)
 </script>
 
 {#if (url.trim() || (['email','phone'].includes(type) && text.trim()))}
